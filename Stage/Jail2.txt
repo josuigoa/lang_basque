@@ -21,30 +21,30 @@
 <KEY<FAO0002<TRA0056:0092:0008:0049
 
 #0200
-<KEY<MSGSe desconoce la destinación.<NOD
-¿Aun así quieres teletransportarte?<YNJ0000<CLO<FL+0524
+<KEY<MSGEz da helmuga ezagutzen.<NOD
+Hala ere telegarraiatu nahi duzu?<YNJ0000<CLO<FL+0524
 <CNP0300:0111:0000<HMC<WAI0060<ANP0200:0001:0000
 <WAI0100<FAO0004<TRA0018:0099:0015:0010
 
 
 #0400
-<PRI<MSG¿Qué? ¿Eres un robot asesino?<NOD<CLR¿Has venido a matarnos?<NOD<END
+<PRI<MSGZer? Robot hiltzaile bat zara?<NOD<CLRGu hiltzera zatoz?<NOD<END
 #0401
-<PRI<MSG¡Sácame de aquí!<NOD<END
+<PRI<MSGAtera nazazu hemendik!<NOD<END
 #0402
-<PRI<MSG¡El Doctor Imbécil puede irse a
-tomar por saco!<NOD<END
+<PRI<MSGErgel Doktorea popatik hartzera
+joan dadila!<NOD<END
 
 #0403
-<PRI<MSG¡Los Mimigas de ahí fuera
-están siendo engañados!<NOD<CLR¡El Doctor nos va a hacer
-luchar contra los robots!<NOD<END
+<PRI<MSGKanpoko Mimiga horiek
+engainatzen ari dira!<NOD<CLRDoktoreak roboten aurka
+jarriko gaitu borrokan!<NOD<END
 #0404
-<PRI<MSG¿Conoces a una tal "Sakamoto"?<NOD
-Se supone que está escondida en
-algún lugar de la plantación...<NOD<END
+<PRI<MSG"Sakamoto" delako bat ezagutzen duzu?<NOD
+Plantazioaren lekuren batean 
+gordeta dagoela dirudi...<NOD<END
 #0405
-<PRI<MSGAntes habían también humanos,
-pero hace mucho que no los veo...<NOD
-Me pregunto si se habrán ido.<NOD<END
+<PRI<MSGLehen gizakiak ere bazeuden,
+baina aspaldian ez ditut ikusi...<NOD
+Beharbada alde egin dute.<NOD<END
 

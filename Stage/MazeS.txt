@@ -18,7 +18,7 @@
 <KEY<FLJ0763:0101
 <SOU0011<ANP0100:0000:0002<FAO0000<MYD0000<TRA0043:0090:0016:0013
 #0101
-<PRI<MSG¡No se abre!<NOD<END
+<PRI<MSGEz da irekitzen!<NOD<END
 
 #0110
 <FLJ0764:0111<END
@@ -28,49 +28,49 @@
 
 
 #0200
-<PRI<FLJ0201:0201<MSGAlguien le ha puesto un encanto.
-No se abre...<NOD<END
+<PRI<FLJ0201:0201<MSGNorbaitek sorgindu egin du.
+Ez da irekitzen...<NOD<END
 #0201
 <FLJ0766:0001<FL+0766<FL-0765<FL+0202
 <SOU0022<CNP0200:0021:0000
-<MSGHas abierto el cofre.<NOD<CLR<TAM0005:0010:0000
-<CMU0010<GIT0010¡Tus Misiles han sido potenciados!<WAI0160<NOD<RMU<END
+<MSGKutxa ireki duzu.<NOD<CLR<TAM0005:0010:0000
+<CMU0010<GIT0010Zure misilak indartu egin dira!<WAI0160<NOD<RMU<END
 
 #0300
 <KEY
 <FLJ0764:0303
 <FLJ0762:0302
 <FLJ0761:0301
-<FL+0761<MSG<FAC0019¡Ajá!<NOD
-Me preguntaba cuándo
-vendrías.<NOD<CLRSi conseguimos mover esta
-gran roca, podremos llegar
-a la salida.<NOD<CLRSin embargo, hay rumores
-de que tras ella está el
-nido de un monstruo...<NOD
-Así que deberías estar
-preparado.<NOD<CLRDe todas formas,
-deshagámonos de esta cosa
-de una vez.<NOD
-Empuja por ese lado.<NOD<CLO
+<FL+0761<MSG<FAC0019Aja!<NOD
+Noiz aterako zinen zain
+nengoen.<NOD<CLRHarkaitz handi hau mugitzen
+badugu, irteerara joan ahal
+izango dugu.<NOD<CLRHala ere, harkaitzaren
+beste aldean munstroaren habia
+dagoela diote zurrumurruek...<NOD
+Horretarako prest egon behar
+zenuke.<NOD<CLREdonola ere,
+kendu dezagun gauza hau
+behingoz.<NOD
+Bultza alde horretatik.<NOD<CLO
 <ANP0300:0020:0000<END
 #0301
 <KEY<ANP0300:0000:0000
-<MSG<FAC0019¿Ocurre algo?<NOD
-¿No estarás asustado,
-verdad?<NOD<CLRDudo que lo estés.<NOD
-Venga, empuja por ese lado.<NOD<ANP0300:0020:0000<END
+<MSG<FAC0019Zer gertatzen da?<NOD
+Ez zaude beldurtuta,
+ezta?<NOD<CLREz du uste.<NOD
+Tira, bultza alde horretatik.<NOD<ANP0300:0020:0000<END
 #0302
-<PRI<MSGNi se ha inmutado.<NOD<END
+<PRI<MSGEzta zirkinik ere.<NOD<END
 #0303
-<PRI<MSG<FAC0019¡Vamos!<NOD<CLR¡¡Hay un nido lleno de
-monstruos esperándonos!!<NOD<END
+<PRI<MSG<FAC0019Goazen!<NOD<CLRMunstroz betetako
+habia bat dugu zain!!<NOD<END
 
 
 #0310
 <KEY<CNP0310:0012:0004:<ANP0310:0080:0005<SMC
 <CMU0015<MSG
-¡Derrotaste a Balrog!<WAI0140<NOD<CLO<FAC0000
+Balrog garaitu duzu!<WAI0140<NOD<CLO<FAC0000
 <CMU0008<FAO0004<MYD0002<TRA0044:0600:0009:0014
 <END
 
@@ -82,42 +82,42 @@ monstruos esperándonos!!<NOD<END
 <KEY
 <MNP0320:0000:0000:0000
 <MYD0002<MYD0003
-<MSG<FAC0019¿Preparado? ¡Empuja!<NOD<CLO<FAC0000
-<ANP0300:0020:0000<WAI0050<MSG¡RRRRGH!<NOD<CLO<FAC0000
+<MSG<FAC0019Prest? Bultza!<NOD<CLO<FAC0000
+<ANP0300:0020:0000<WAI0050<MSGRRRRGH!<NOD<CLO<FAC0000
 <CNP0510:0334:0000
 <CNP0511:0334:0002<WAI0100
 <MSG<FAC0020.....<NOD<CLO<FAC0000
 <ANP0300:0000:0000<WAI0050<MYD0002
-<MSG<FAC0025No se ha movido nada.<NOD
-No creo que alguno
-de los dos sea capaz
-de moverla...<NOD<FAC0000<CLO
+<MSG<FAC0025Ez da ezer mugitu.<NOD
+Ez dut uste gu biotako
+batere hau mugitzeko
+gai denik...<NOD<FAC0000<CLO
 <WAI0050
-<MSG¡Huzzah!<CMU0000<NOD<CLO
+<MSGHuzzah!<CMU0000<NOD<CLO
 <CNP0310:0009:0002<WAI0100
 <CNP0310:0012:0002
 <ANP0310:0030:0002<CMU0011
 <MYD0000
-<MSG<FAC0019¡Tú!<NOD<CLR<FAC0014¡Jojojo!<NOD<CLR¡Así que seguís vivos!<NOD<CLR¡No sólo eso, sino
-que también intentáis
-salir del Laberinto!<NOD<CLR¿No deberíais quedaros
-como lo haría un buen
-robot?<NOD<CLRNinguno de nosotros puede
-hacer frente al Doctor, y
-mucho menos vosotros.<NOD<CLR¡Genial, pues!<NOD
-¡Voy a ponerle fin a esto!<NOD<CLR¡Espero que no os importe
-que os convierta en
-chatarra!<NOD<CLR<FAC0019¡Justo a quien estábamos
-buscando!<NOD
-¿Puedes empujar por el
-centro, por favor?<NOD<FAC0000<CLO<CMU0000
+<MSG<FAC0019Zu!<NOD<CLR<FAC0014Jojojo!<NOD<CLRBizirik zaudete!<NOD<CLREz hori bakarrik,
+Labirintotik atera 
+nahi duzue!<NOD<CLREz zenukete hemen
+gelditu behar, robot 
+zintzoek bezala?<NOD<CLRGutako inork ezin dio
+Doktoreari aurre egin, eta 
+gutxiago zuek.<NOD<CLREderki beraz!<NOD
+Hau guztia bukatzera noa!<NOD<CLREspero dut ez axola
+izatea zuek txatarran 
+bihurtzea!<NOD<CLR<FAC0019Zu noiz etorriko zain
+geunden!<NOD
+Bultza dezakezu erditik,
+mesedez?<NOD<FAC0000<CLO<CMU0000
 <WAI0100
 <ANP0310:0060:0002<WAI0048
 <ANP0310:0050:0002<WAI0020
 <ANP0300:0020:0000<WAI0020
-<MYD0002<MYD0003<MSG<FAC0019¿Preparado?
-Uno, dos...<NOD<ANP0310:0080:0000<MYB0002<ANP0300:0030:0000<SOU0072<CLR<FAC0023¡¿ACASO ME ESTÁIS
-ESCUCHANDO?!<NOD
+<MYD0002<MYD0003<MSG<FAC0019Prest?
+Bat, bi...<NOD<ANP0310:0080:0000<MYB0002<ANP0300:0030:0000<SOU0072<CLR<FAC0023KASURIK EGITEN ARI
+AL ZARA?!<NOD
 <ANP0310:0000:0000<CMU0004<CNP0310:0169:0000<BSL0310
 <FL+0762<FL+0763
 <END
@@ -132,19 +132,19 @@ ESCUCHANDO?!<NOD
 <KEY
 <FLJ0762:0502
 <FLJ0761:0501
-<MSGEs una gran y pesada roca.<NOD
-Tras ella puedes sentir el viento
-soplando.<NOD
-Parece que se necesitarían al
-menos dos personas para moverla.<NOD<END
+<MSGHarkaitz handi eta astuna da.<NOD
+Beste aldean haizea mugitzen 
+sumatzen duzu.<NOD
+Mugitzeko gutxienez bi pertsona 
+beharko dituzula dirudi.<NOD<END
 #0501
 <KEY<WAI0010
 <ANP0300:0000:0000
-<MSG<FAC0020¿Podrías empujarla desde
-más al extremo?<NOD<CLO
+<MSG<FAC0020Eskinagotik egin 
+diezaiokezu bultza?<NOD<CLO
 <ANP0300:0020:0000<END
 #0502
-<PRI<MSGEs una gran y pesada roca.<NOD<END
+<PRI<MSGHarkaitz handi eta astuna da.<NOD<END
 
 #0510
 #0511
@@ -155,26 +155,26 @@ más al extremo?<NOD<CLO
 <SMC<CMU0008<CNP0330:0012:0002<ANP0300:0000:0002
 <MNP0320:0000:0000:0000
 <FAI0004
-<MSG<FAC0005Tú ganas...<NOD<CLROs ayudaré a mover la roca.<NOD
-Pero recordad...<NOD<ANP0330:0000:0000<CLRNo le digáis a NADIE que
-os he ayudado.<NOD<CLR<FAC0019¡Tu secreto está a salvo
-con nosotros!<NOD<FAC0000<CLO
+<MSG<FAC0005Zu garaile...<NOD<CLRHarkaitza mugitzen lagunduko dizuet.<NOD
+Baina gogoan izan...<NOD<ANP0330:0000:0000<CLREz INORI esan lagundu
+dizuedanik.<NOD<CLR<FAC0019Zure sekretua gurekin
+salbu dago!<NOD<FAC0000<CLO
 <ANP0330:0060:0000<WAI0040
 <ANP0330:0050:0002<WAI0020
 <MYD0003<ANP0300:0020:0000
-<MSG<FAC0019¿Preparado? ¡Empuja!<NOD<CLO<FAC0000
+<MSG<FAC0019Prest? Bultza!<NOD<CLO<FAC0000
 <ANP0500:0010:0000<WAI0100
 <ANP0330:0080:0002
 <ANP0300:0000:0002
 <ANP0500:0020:0000<MYD0002<MSG
-<FAC0023¡¡¡Gaaaahhhh!!!<WAI0050<CLO<FAC0000
+<FAC0023Gaaaahhhh!!!<WAI0050<CLO<FAC0000
 <ANP0330:0000:0002
-<WAI0100<MSG<FAC0005Ahora, recordad.<ANP0300:0000:0000<NOD
-No le digáis a nadie,
-pero nadie, nadie,
-que os he ayudado.<NOD<CLR<FAC0019¡No lo haremos!<NOD<CLO<FAC0000<ANP0330:0010:0000
+<WAI0100<MSG<FAC0005Orain, gogoratu.<ANP0300:0000:0000<NOD
+Ez esan inori, 
+baina inori, inori,
+lagundu dizuedanik.<NOD<CLR<FAC0019Ez dugu egingo!<NOD<CLO<FAC0000<ANP0330:0010:0000
 <WAI0160<CNP0200:0015:0002<WAI0040
-<MSG<FAC0019No creo que sea tan
-malo después de todo.<NOD<CLO
+<MSG<FAC0019Ez dut uste hain
+gaiztoa denik azkenean.<NOD<CLO
 <FL+0781<FL+0765<CNP0016:0016:0002<END
 

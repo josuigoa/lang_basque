@@ -17,7 +17,7 @@
 
 #0110
 <KEY<FLJ0940:0111<MSG
-Sientes un frío viento soplando...<NOD<END
+Haize hotza sumatzen duzu...<NOD<END
 #0111
 <KEY<FAO0002<TRA0053:0092:0004:0165
 
@@ -26,47 +26,47 @@ Sientes un frío viento soplando...<NOD<END
 #0400
 
 #0500
-<KEY<MSGUnas palabras iluminan la
-pantalla.<NOD<CLR
-<TURECLOSIÓN REALIZADA CON ÉXITO<NOD<FLJ0941:0000<CLO
+<KEY<MSGPantaila hitz batzuk
+argiztatzen dute.<NOD<CLR
+<TUREKLOSIO ARRAKASTATSUA<NOD<FLJ0941:0000<CLO
 <FL+0941
-<WAI0020<CMU0000<MSG¿Quién anda ahí?<MYD0002<NOD<CLO
+<WAI0020<CMU0000<MSGNor dabil hor?<MYD0002<NOD<CLO
 <WAI0050<CNP0400:0055:0000
 <WAI0010<ANP0400:0003:0000
 <WAI0048<ANP0400:0000:0000
-<CMU0014<MSG<FAC0010Oh, eres tú.<NOD<CLRMe alegra ver que estás
-bien.<NOD
-Sólo estoy yo.<NOD<CLRDespués de irte a la
-Zona Desértica,<NOD
-el resto de nosotros nos
-dimos prisa en encontrar
-una forma de escapar.<NOD<CLRFue en ese momento cuando
-Misery apareció.<NOD
-Se llevó a Sue y no
-he visto al profesor...<NOD<CLR.....<NOD<CLRSupongo que el Doctor
-ya habrá obtenido
-las semillas.<NOD<CLROh,<NOD no, no, no te
-estoy echando la culpa...<NOD<ANP0400:0000:0002
-La victoria del Doctor
-estaba asegurada desde
-el momento en el que<NOD
-puso sus manos en esa
-Corona, en serio.<NOD<CLRSólo es cuestión de tiempo
-que complete su ejército
-de Mimigas salvajes...<NOD<CLRMe temo que ni siquiera
-tú puedes detenerlo.<NOD<CLO<FAC0000
+<CMU0014<MSG<FAC0010Oh, zu zara.<NOD<CLRPozten naiz ongi zaudela
+ikusita.<NOD
+Ni bakarrik nago.<NOD<CLRHare Eremura joan
+zinenean,<NOD
+gainontzekook presaka
+bilatu genuen alde
+egiteko moduren bat.<NOD<CLROrduantxe agertu zen
+Misery.<NOD
+Sue eraman zuen eta
+ez dut irakaslea ikusi...<NOD<CLR.....<NOD<CLRDoktoreak dagoeneko
+haziak lortuko zituela
+pentsatzen dut.<NOD<CLROh,<NOD ez, ez, ez naiz
+zuri errua botatzen ari...<NOD<ANP0400:0000:0002
+Doktoreak bere eskuak
+Koroan jarri zituenean
+argi zegoen<NOD
+garaipena berea izango
+zela, benetan.<NOD<CLRBere Mimiga basati 
+armada osatzea denbora
+kontua besterik ez da...<NOD<CLRSentitzen dut, baina
+zuk ere ezin duzu gelditu.<NOD<CLO<FAC0000
 <WAI0010<ANP0400:0003:0002
 <WAI0016<ANP0400:0000:0002
-<MSG<FAC0010No tenemos otra opción
-que escapar...<NOD<CLRPensé que podríamos
-escapar si tuviésemos
-un Dragón Celeste.<NOD
-...Por eso vine aquí.<NOD<CLRY ahora, mi dragón
-ha eclosionado.<NOD<CLO<FAC0000
+<MSG<FAC0010Ihes egitea da gure
+aukera bakarra...<NOD<CLRDragoi Zerutiarra
+bagenu ihes egin genezakeela
+pentsatzen nuen.<NOD
+...Horregatik etorri nintzen.<NOD<CLREta orain, nire
+dragoia eklosionatu egin da.<NOD<CLO<FAC0000
 <WAI0050<ANP0400:0000:0000<WAI0100
-<MSG<FAC0010¿Te gustaría escapar
-conmigo?<YNJ0501<FL+0960<CLR<ANP0400:0000:0002Sí, no hay otra opción.<NOD
-Hicimos lo que pudimos.<NOD<CLO
+<MSG<FAC0010Nirekin ihes egin
+nahi duzu?<YNJ0501<FL+0960<CLR<ANP0400:0000:0002Bai, ez dago beste aukerarik.<NOD
+Ahal izan duguna egin dugu.<NOD<CLO
 <WAI0010<ANP0400:0003:0002
 <WAI0031<ANP0400:0005:0002<SOU0011<CNP0110:0018:0002
 <WAI0020<CNP0400:0000:0000<FL+0940
@@ -75,24 +75,24 @@ Hicimos lo que pudimos.<NOD<CLO
 
 #0501
 <KEY<WAI0020<ANP0400:0000:0002
-<MSG<FAC0010Ya veo...<NOD<CLO<FAC0000
+<MSG<FAC0010Hori da...<NOD<CLO<FAC0000
 <WAI0050<ANP0400:0000:0000
 <WAI0010<ANP0400:0005:0000
-<MSG<FAC0010¿Sabes?<NOD
-Hay otra manera de hacer
-que los Mimigas vuelvan
-a la normalidad...<NOD<CLRPodrías destruir el
-núcleo de la isla.<NOD
-Sin embargo, si hicieras
-eso, la isla se caería sin
-remedio.<NOD
-¿Una opción peligrosa, no?<NOD<WAI0050<ANP0400:0000:0000<CLRBueno, de todas formas,
-ni siquiera sabemos
-dónde está el núcleo...<NOD<CLRSi quisieras intentarlo,
-puedo esperar.<NOD<CLRPero recuerda, si la
-situación empeora,<NOD
-tendré que marcharme
-sin ti...<NOD<CLO
+<MSG<FAC0010Aizu?<NOD
+Badago Mimigak beraien
+normaltasunera itzultzeko
+beste modu bat...<NOD<CLRUhartearen nukleoa
+deusezta zenezake.<NOD
+Hala ere, hori egingo
+bazenu, uhartea bere ere
+eroriko litzateke.<NOD
+Aukera arriskutsua, ezta?<NOD<WAI0050<ANP0400:0000:0000<CLRTira, edonola ere,
+nukleoa non dagoen
+ere ez dakigu...<NOD<CLRSaiatu nahi baduzu,
+itxaron dezaket.<NOD<CLRBaina gogoratu, egoerak
+okerrera egiten badu,<NOD
+zu gabe joan beharko
+dut...<NOD<CLO
 <WAI0010<ANP0400:0003:0002
 <WAI0031<ANP0400:0005:0002<SOU0011<CNP0110:0018:0002
 <WAI0020<CNP0400:0000:0000<FL+0940

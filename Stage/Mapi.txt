@@ -25,52 +25,52 @@
 <KEY<MYB0002<WAI0020
 <FLJ1563:0420
 <FLJ1562:0411
-<FLJ1561:0403<MSG¿Tienes algún asunto conmigo?<YNJ0401<FLJ1044:0402<CLR¡Ja!<NOD
-Permíteme dudarlo.<NOD<END
+<FLJ1561:0403<MSGNirekin zerbait al duzu?<YNJ0401<FLJ1044:0402<CLRJa!<NOD
+Zalantza egiten dut.<NOD<END
 
 #0401
-<KEY<MSGJe-je-je. Adiós, pues.<NOD<END
+<KEY<MSGKar-kar-kar. Agur, bada.<NOD<END
 
 #0402
-<KEY<FL+1561<MSG¿Hm?<NOD ¿Amnesia?<NOD
-Qué interesante, sí....<NOD<EVE0403
+<KEY<FL+1561<MSGHm?<NOD Amnesia?<NOD
+Interesgarria, bai....<NOD<EVE0403
 #0403
-<KEY<MSGBueno, está bien. ¿Quieres que te
-dé la Medalla Champiñón?<YNJ0408<EVE0404<END
+<KEY<MSGTira, ongi da. Barrengorri Domina
+ematea nahi duzu?<YNJ0408<EVE0404<END
 
 #0404
-<KEY<MSGPero en realidad no la quieres,
-¿verdad?<YNJ0405<EVE0408
+<KEY<MSGBaina benetan ez duzu nahi,
+ezta?<YNJ0405<EVE0408
 #0405
-<KEY<MSG¿De verdad que la deseas tanto?<YNJ0409<EVE0406
+<KEY<MSGBenetan hain gogo handia duzula?<YNJ0409<EVE0406
 #0406
-<KEY<MSG¿Estás completamente seguro de
-que la quieres?<YNJ0409<EVE0407
+<KEY<MSGBenetan ziur zaude 
+nahi duzula?<YNJ0409<EVE0407
 #0407
-<KEY<MSGPero en realidad no la quieres,
-¿verdad?<YNJ0410<EVE0409
+<KEY<MSGBaina benetan ez duzu nahi,
+ezta?<YNJ0410<EVE0409
 
 #0408
-<KEY<MSG¿De verdad? Vale.<NOD<END
+<KEY<MSGBenetan? Ados.<NOD<END
 #0409
-<KEY<MSGDe todas formas, quién la
-necesita...<NOD<END
+<KEY<MSGEdozein modutan, nork
+behar du...<NOD<END
 
 #0410
-<KEY<MSGDe acuerdo, ¡aquí tienes!<NOD<CLR<GIT1033<IT+0033<FL+1562<CLR
-<CMU0010Conseguiste la =Medalla Champiñón=.<WAI0160<NOD<RMU<END
+<KEY<MSGAdos, hemen duzu!<NOD<CLR<GIT1033<IT+0033<FL+1562<CLR
+<CMU0010=Barrengorri Domina= lortu duzu.<WAI0160<NOD<RMU<END
 
 #0411
 <KEY<MSGBzzzzzt.<NOD<END
 
 #0420
-<KEY<MSG¡Wajajaja!<NOD
-Te has dado cuenta, ¿eh?<NOD<CLR¡No es más que una estúpida
-medalla!<NOD<CLR.....<NOD<CLR¿Qué?<NOD
-¡¿Quieres comerme?!<NOD<CLR¡Te interesará saber que soy un
-valioso, pero que muy valioso
-champiñón como ningún otro!<NOD<CLR¡Grrrrrr!<NOD
-¡No te dejaré que me comas!<NOD<CLR<CMU0004¡¡Muere!!<NOD<CLO<FL+1564
+<KEY<MSGWakarkar!<NOD
+Ohartu zara, eh?<NOD<CLREz da domina ergel bat
+besterik!<NOD<CLR.....<NOD<CLRZer?<NOD
+Jan egin nahi nauzu?!<NOD<CLRJakin beharko zenuke
+beste edozein barrengorri baino
+askoz ere baliotsuagoa naizela!<NOD<CLRGrrrrrr!<NOD
+Ez dizut utziko ni jaten!<NOD<CLR<CMU0004Hil!!<NOD<CLO<FL+1564
 <CNP0500:0313:0000<WAI0002
 <ANP0500:0100:0000<DNP0400
 <BSL0500<END
@@ -78,6 +78,6 @@ champiñón como ningún otro!<NOD<CLR¡Grrrrrr!<NOD
 
 #0500
 <KEY<CMU0000<ANP0500:0500:0005<WAI0150
-<MSGTú ganas......<NOD<CLR<GIT1034<IT+0034<FL-1564<CLR<DNP0500
-<CMU0010¡Conseguiste el =Ma Pignon=!<WAI0160<NOD<RMU<END
+<MSGIrabazi duzu......<NOD<CLR<GIT1034<IT+0034<FL-1564<CLR<DNP0500
+<CMU0010=Ma Pignon= lortu duzu!<WAI0160<NOD<RMU<END
 

@@ -71,7 +71,7 @@
 <PRI<FAO0001<FOM0016<TRA0082:0096:0008:0014
 
 #0110
-<PRI<MSGNo se abre.<NOD<END
+<PRI<MSGEz da irekitzen.<NOD<END
 
 
 #0120
@@ -89,10 +89,10 @@
 
 #0900
 <DNP0900<SKJ0026:0000<SK+0026
-<PRI<MS3Incluso si la Corona es destruida,<NOD
-reaparecerá una y otra vez,
-siempre y cuando Ballos siga
-vivo.<NOD
-Así de poderosa es la fuerza de su
-alma, presente en la Corona.<NOD<END
+<PRI<MS3Koroa suntsituta badago ere,<NOD
+behin eta berriz agertuko da,
+Ballosek bizirik dirauen
+bitartean.<NOD
+Koroan dagoen bere arimaren
+indarra oso boteretsua da.<NOD<END
 

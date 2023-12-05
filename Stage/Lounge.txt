@@ -22,23 +22,23 @@
 <KEY
 <FLJ1121:0203
 <ITJ0028:0202
-<MSGEsto de aquí son aspersores.<NOD
-Como verás, no dejan de romperse.<NOD
-Así que siempre tenemos un montón
-de aspersores nuevecitos listos.<NOD<END
+<MSGHemengo hauek aspertsoreak dira.<NOD
+Ikusten duzunez, beti puskatzen dira.<NOD
+Horregatik ditugu hemen aspertsore
+berri pila bat prest.<NOD<END
 
 #0202
-<KEY<MSG<FL+1121¿Otro...?<NOD<CLR
-<GIT1028<IT-0028Entregaste el =Aspersor Roto=.<NOD<GIT0000
-<KEY<MSGCuida bien de éste.<NOD<DNP0280<GIT1029<IT+0029<CLR
-<CMU0010Conseguiste el =Aspersor=.<WAI0160<NOD<RMU<END
+<KEY<MSG<FL+1121Beste bat...?<NOD<CLR
+<GIT1028<IT-0028=Puskatutako Aspertsorea= entregatu duzu.<NOD<GIT0000
+<KEY<MSGZaindu ezazu ongi.<NOD<DNP0280<GIT1029<IT+0029<CLR
+<CMU0010=Aspertsorea= lortu duzu.<WAI0160<NOD<RMU<END
 
 #0203
-<KEY<MSG¡He oído que la última
-semilla está a punto de
-florecer!<NOD
-Parece que teníamos suficientes
-aspersores...<NOD<END
+<KEY<MSGAzkenengo hazia
+loratzekotan dagoela
+entzun dut!<NOD
+Aspertsore nahiakoak
+genituela dirudi...<NOD<END
 
 #0210
 <KEY
@@ -47,44 +47,44 @@ aspersores...<NOD<END
 <EVE0299
 
 #0211
-<MSGEs cierto que los robots de
-la superficie atacaron esta
-isla en el pasado.<NOD
-Y sé que muchos de los
-nuestros fueron asesinados...<NOD
-Pero algunos de esos robots
-entendían el lenguaje.<NOD
-Supongo que ellos también
-tenían alma...<NOD<END
+<MSGEgia da gainazaleko robotek
+iraganean uharte hau
+erasotu zutela.<NOD
+Eta badakit gutako asko
+erail egin zituztela...<NOD
+Baina robot horietako batzukPero algunos de esos robots
+hizkuntza ulertzen zuten.<NOD
+Beraiek arima ere izango zutela
+pentsatzen dut...<NOD<END
 
 #0212
-<MSG¡Maldito Doctor!<NOD<CLR¡Cómo osa llevarse a esa
-pobre pequeña con él!<NOD
-Oh, si fuera un poco más joven...<NOD
-Qué pena...<NOD<END
+<MSGDoktore madarikatua!<NOD<CLRNola ausartu da txiki
+gaixo hori berekin eramaten!<NOD
+Oh, gaztexeagoa banintz...<NOD
+Zelako pena...<NOD<END
 
 #0220
 <KEY<FLJ1020:0221
 <EVE0299
 #0221
-<MSG¡No me creo ni una palabra de
-lo que dice ese tal Doctor!<NOD<CLR¿Robots? ¡Nyah!<NOD
-Como si eso me asustara.<NOD<END
+<MSGDoktoreak esandako hitz bakar
+bat ere ez dut sinesten!<NOD<CLRRobotak? Nyah!<NOD
+Horrek ez nau beldurtzen.<NOD<END
 
 #0230
 <KEY<FLJ1020:0231
 <EVE0299
 #0231
-<MSGEstoy tan cansado...<NOD<END
+<MSGHain nago nekatuta...<NOD<END
 
 #0250
-<KEY<MYB0000<MSGOh, hey.<NOD<CLR¿No nos hemos visto antes?<NOD
-Sí, en el Pueblo Mimiga.<NOD
-Una tal "Misery" me capturó y me
-trajo aquí.<NOD
-Pero tío, odio la jardinería.<NOD<CLRSólo me fugué un rato para
-pescar y descansar un poco.<NOD<CLR¿Te gusta pescar?<NOD
-Bueno, luego nos vemos.<NOD<CLO
+<KEY<MYB0000<MSGOh, aizu.<NOD<CLREz al dugu elkar lehenago ikusi?<NOD
+Bai, Mimiga Herrian.<NOD
+"Misery" delako batek hartu eta 
+hona ekarri ninduen.<NOD
+Baina txo, gorroto dut lorezaintza.<NOD<CLRTartetxo baterako joan 
+naiz arrantzara eta atsedena hartzera.<NOD<CLZer arrantzatzen duzu?<NOD
+Tira, gero arte.<NOD<CLO
 <ANP0250:0010:0002<WAI0030<MYD0002<WAI0080
 <ANP0250:0000:0002<WAI0020
 <ANP0250:0020:0002<ANP0100:0000:0002<SOU0011<WAI0020

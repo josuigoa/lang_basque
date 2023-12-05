@@ -26,37 +26,37 @@
 
 
 #0105
-<PRI<MSG¿Quieres guardar?<YNJ0000<SVP<CLRPartida guardada.<NOD<END
+<PRI<MSGGorde nahi duzu?<YNJ0000<SVP<CLRPartida gordeta.<NOD<END
 #0106
-<PRI<LI+1000<SOU0020<AE+<MSGSalud restaurada.<NOD<END
+<PRI<LI+1000<SOU0020<AE+<MSGOsasuna berrezarrita.<NOD<END
 
 #0200
 <KEY<MSGÉsta es nuestra granja.
 Aquí cultivamos flores.<NOD
-Mi trabajo es vigilar la granja.<NOD<CLRLos Mimigas dependemos de estas
-flores para sobrevivir.<NOD<CLRLas flores rojas, sin embargo,
-son malas.<NOD<CLRSi te comes una flor roja, dicen
-que tu sangre empieza a hervir,
-¡y al rato te mueres!<NOD<CLRMenos mal que no cultivamos
-ninguna aquí.<NOD<END
+Mi trabajo es vigilar la granja.<NOD<CLRMimigok lore hauek behar
+ditugu bizirauteko.<NOD<CLRLore gorriak, berriz,
+txarrak dira.<NOD<CLRLore gorri bat janez gero, 
+odolak irakin egiten duela diote,
+eta istatean hil egiten zara!<NOD<CLREskerrak hemen ez dugula
+horrelakorik landatzen.<NOD<END
 
 
 #0220
-<KEY<FLJ1020:0221<MSGUn aspersor.<NOD<END
+<KEY<FLJ1020:0221<MSGAspertsore bat.<NOD<END
 #0221
-<KEY<MSGEstá fuertemente fijado al suelo.<NOD<END
+<KEY<MSGLurrean gogor lotuta dago.<NOD<END
 
 #0300
 <PRI
 <FL+0410
 <DNP0300
-<MSGVes algo brillando...<NOD<CLR<CMU0010<GIT1005<IT+0005
-Conseguiste el =Colmillo de Bestia=.<WAI0160<NOD<CLO
+<MSGDirdira bat ikusi duzu...<NOD<CLR<CMU0010<GIT1005<IT+0005
+=Piztiaren Betortza= lortu duzu.<WAI0160<NOD<CLO
 <RMU<END
 
 #0400
 <PRI<SOU0022<DNP0400<CMU0016
-<MSG<GIT1006¡Conseguiste una
-=Cápsula de Energía=!<WAI0160<NOD<RMU<ML+0003
-¡Salud máxima +3!<NOD<END
+<MSG<GIT1006=Energia Kapsula=
+bat lortu duzu!<WAI0160<NOD<RMU<ML+0003
+Osasun maximoa +3!<NOD<END
 

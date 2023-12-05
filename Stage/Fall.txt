@@ -22,12 +22,12 @@
 <FON0240:0016
 <WAI0160
 <MSG
-<CMU0010¡Kazuma te salvó!<WAI0160<CLR<FAC0010Fiu...<NOD<CLRNunca pensé que lo
-conseguiríamos.<NOD<CLRDestruir el núcleo...<NOD<CLRBueno, ahora el mundo está a
-salvo del Doctor para
-siempre.<NOD
-¡La paz se ha preservado!<NOD<CLR
-Ahora, vayamos a casa.<NOD<CLO
+<CMU0010Kazumak salbatu zaitu!<WAI0160<CLR<FAC0010Fiu...<NOD<CLREz nuen uste
+lortuko genuenik.<NOD<CLRNukloa deuseztu...<NOD<CLRTira, Dokotorearengandik
+mundua salbatu dugu,
+betirako.<NOD
+Bakea berrezarri dugu!<NOD<CLR
+Orain, goazen etxera.<NOD<CLO
 <KEY<FAO0004<HMC<TRA0000:0100:0001:0015
 
 #0120
@@ -36,59 +36,59 @@ Ahora, vayamos a casa.<NOD<CLO
 <CNP0230:0356:0002
 <DNP0220<WAI0200
 <FAI0001
-<MSG<FAC0005<FL+2000<FL+1460¡Fiu!<NOD<CLRHa estado cerca...<NOD<CLR<FAC0019Creí que íbamos a
-convertirnos en
-chatarra...<NOD
-Parece que te debemos
-otra.<NOD<CLO<FAC0000<WAI0050
-<MSG<FAC0005Nah, no me deis las
-gracias.<NOD
-Sólo hice lo que
-Misery me pidió.<NOD<CLR<FAC0025¿Misery? ¿Te refieres
-a esa bruja?<NOD<CLR
-<FAC0005Exacto.<NOD<CLR<FAC0025Creí que nos odiaba.<NOD
-Vaya, creía que
-TÚ la odiabas...<NOD<CLR<FAC0005¿Vencisteis a Ballos, no?<NOD<CLRCuando lo hicisteis,
-nuestra maldición se
-deshizo.<NOD
-¡Ahora ninguno de los
-dos tiene que recibir
-órdenes de nadie!<NOD<CLR<FAC0019Creí que vosotros erais
-simplemente unos idiotas,<NOD
-¡pero parece que todo
-era culpa de la Corona!<NOD<CLR<FAC0005Bueno, todo tiene
-sus consecuencias.<NOD
-Al fin y al cabo, fue
-Misery la que le
-pidió hacer la corona.<NOD<CLR<FAC0025Huh.<NOD
-No me digas.<NOD<CLR<FAC0005En serio.<NOD<CLO<FAC0000
+<MSG<FAC0005<FL+2000<FL+1460Fiu!<NOD<CLRHurbil egon da...<NOD<CLR<FAC0019Txatarra
+bihurtuko gintuela
+uste nuen...<NOD
+Beste bat zor dizugula
+dirudi.<NOD<CLO<FAC0000<WAI0050
+<MSG<FAC0005Bah, ez eman
+eskerrik.<NOD
+Miseryk eskatua
+bakarrik egin dut.<NOD<CLR<FAC0025Misery? Sorginataz
+ari zara?<NOD<CLR
+<FAC0005Exacto.<NOD<CLR<FAC0025Gorroto gintuela uste nuen.<NOD
+Hara, uste nuen 
+ZUK gorroto zenuela...<NOD<CLR<FAC0005Ballos gairatu zenuten, ezta?<NOD<CLRGure zorigaitza
+bukatu zen hori egin
+zenutenean.<NOD
+Gutako inork ez du
+inoren agindurik jaso
+beharko orain!<NOD<CLR<FAC0019Zuek ergelak bakarrik
+zinetela uste nuen,<NOD
+baina Koroaren eragina
+izan zela dirudi!<NOD<CLR<FAC0005Tira, denak ditu
+bere ondorioak.<NOD
+Azken finean,
+Misery izan zen koroa
+egiteko eskatu ziona.<NOD<CLR<FAC0025Huh.<NOD
+Ez esan.<NOD<CLR<FAC0005Benetan.<NOD<CLO<FAC0000
 <WAI0150
-<MSG<FAC0005¡Entonces!<NOD<CLR
-<FAC0025¿Entonces?<NOD<CLR<FAC0005¿Qué vais a hacer
-ahora?<NOD
-Puedo llevaros a donde
-queráis.<NOD<CLR<FAC0019Hmm, tienes razón...<NOD<CLRNuestra misión ha
-terminado, y ahora sólo
-quiero vivir<NOD
-tranquilamente en algún
-lugar relajante y con
-buenas vistas...<NOD<CLO<FAC0000
-<WAI0100<MSG<FAC0005Uh, ¿creéis que...?<NOD<CLR
-<FAC0025¿Hm?<NOD<CLR<FAC0005¿...Podría irme con
-vosotros?<NOD<CLR
-<FAC0019¡Pues claro!<NOD
-¡Vayamos a vivir los
-tres juntos!<NOD<CLR
-<FAC0014¡¿En serio?!<NOD<CLR<FAC0019Te dejaré elegir el
-sitio.<NOD
-Encuéntranos un buen
-lugar, ¿vale?<NOD<CLR
-<FAC0014¡¡De acuerdo!!<NOD<CLRBueno,
-<ANP0230:0020:0002¡¡ag<WAI0010a<WAI0010rr<WAI0010a<WAI0010<WAI0010o<WAI0010s<WAI0010 <WAI0010f<WAI0010u<WAI0010e<WAI0010r<WAI0010t<WAI0010e!!<NOD<CLO<FAC0000
+<MSG<FAC0005Orduan!<NOD<CLR
+<FAC0025Orduan?<NOD<CLR<FAC0005Zer egingo duzue
+orain?<NOD
+Nahi duzuen lekura eramango
+zaituztet.<NOD<CLR<FAC0019Hmm, zuzen zaude...<NOD<CLRGure betebeharra
+bukatu da, orain bizi
+egin nahi dut.<NOD
+Bista polit eta
+lasaigarriak dituen
+lekuren batean...<NOD<CLO<FAC0000
+<WAI0100<MSG<FAC0005Uh, zuk uste...?<NOD<CLR
+<FAC0025Hm?<NOD<CLR<FAC0005...Zuekin joan
+naiteke?<NOD<CLR
+<FAC0019Noski baietz!<NOD
+Goazen hirurok elkarrekin
+bizitzera!<NOD<CLR
+<FAC0014Benetan?!<NOD<CLR<FAC0019Lekua aukeratzen
+utziko dizut.<NOD
+Aurkitu leku on
+bat, ados?<NOD<CLR
+<FAC0014Ados!!<NOD<CLRTira,
+<ANP0230:0020:0002ee<WAI0010e<WAI0010uu<WAI0010t<WAI0010<WAI0010s<WAI0010i<WAI0010 <WAI0010g<WAI0010o<WAI0010g<WAI0010o<WAI0010o<WAI0010r!!<NOD<CLO<FAC0000
 <KEY<FAO0004<HMC<ITJ0032:0121<TRA0000:0100:0001:0015
 
 #0121
-<KEY<WAI0100<MSG<GIT1032¿...No te olvidas de algo?<NOD<TRA0000:0100:0001:0015
+<KEY<WAI0100<MSG<GIT1032...Ez duzu zerbait ahaztu?<NOD<TRA0000:0100:0001:0015
 
 #0200
 #0210

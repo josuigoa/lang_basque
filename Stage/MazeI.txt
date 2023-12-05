@@ -22,20 +22,20 @@
 
 #0300
 <PRI<SOU0022<DNP0300<CMU0016
-<MSG<GIT1006¡Conseguiste una
-=Cápsula de Energía=!<WAI0160<NOD<RMU<ML+0005
-¡Salud máxima +5!<NOD<END
+<MSG<GIT1006=Energia Kapsula=
+bat lortu duzu!<WAI0160<NOD<RMU<ML+0005
+Osasun maximoa +5!<NOD<END
 
 
 
 #0400
-<KEY<ANP0501:0010:0002<CMU0000<MSG!!<NOD<CLR.....<NOD<CLRParece que te has chocado
-contra el suelo.<NOD<CLR¿Dónde se encuentra este lugar?<NOD<CLO
+<KEY<ANP0501:0010:0002<CMU0000<MSG!!<NOD<CLR.....<NOD<CLRLurraren aurka jo
+duzula dirudi.<NOD<CLRNon dago leku hau?<NOD<CLO
 <MYD0002
 <MNA<FAI0001<WAI0050<DNP0501<SMC<WAI0100<CMU0019<END
 
 #0402
-<KEY<FLJ0641:0403<MSG¿Quieres abrir la puerta?<YNJ0000<CLO
+<KEY<FLJ0641:0403<MSGAtea ireki nahi duzu?<YNJ0000<CLO
 <FL+0641
 <FON0202:0064<WAI0150<SOU0043
 <ANP0204:0010:0000<WAI0008<ANP0502:0000:0002
@@ -47,30 +47,30 @@ contra el suelo.<NOD<CLR¿Dónde se encuentra este lugar?<NOD<CLO
 <DNP0500<DNP0502<MYD0000<END
 
 #0403
-<KEY<MSGPuerta abierta.<NOD<END
+<KEY<MSGAtea irekita.<NOD<END
 
 #0410
 
 
 #0500
-<PRI<MSGSeguro que Misery te ha tirado
-aquí.<NOD
-Pobrecito...<NOD
-Éste es el vertedero de la isla.<NOD
-Una vez entras,
-nunca vuelves a salir...<NOD<END
+<PRI<MSGZiur Miseryk hona bota
+zaituela.<NOD
+Gizarajoa...<NOD
+Uharteko zabortegia da leku hau.<NOD
+Behin sartuta,
+ez zara inoiz irtengo...<NOD<END
 
 #0501
 
 #0502
-<PRI<MSGEl interruptor que abre esta
-puerta debe estar allí arriba.<NOD
-Pero el camino es algo complicado.<NOD
-Me he caído ya tantas veces
-que me he roto las piernas.<NOD<END
+<PRI<MSGAte hau irekitzen duen
+etengailua han goian egongo da.<NOD
+Baina bidea zail samarra da.<NOD
+Askotan erori naiz eta azkenean
+hankak puskatu ditut.<NOD<END
 
 #0503
-<PRI<MSGNo hay respuesta.<NOD<END
+<PRI<MSGEz dago erantzunik.<NOD<END
 
 37: MazeI      0640 - 0659
 0640:

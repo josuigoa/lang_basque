@@ -20,7 +20,7 @@
 #0200
 <KEY<FL+1000<FL+1025<FL+1038<MYD0002<WAI0050
 <ANP0400:0010:0000<MSG
-¡Uwah!<NOD<CLO
+Uwah!<NOD<CLO
 <ANP0400:0020:0000<WAI0050<END
 
 #0400
@@ -30,55 +30,55 @@
 <FLJ1002:0402
 <FLJ1001:0401<FL+1001<FL+1038
 <ANP0400:0010:0000
-<MSG¡Eyaahh!<MYB0002<NOD<CLR¡No me mates!<NOD
-¡Soy humano! ¡Sólo he sido
-transformado mágicamente en
-Mimiga!<NOD
-¡Soy humano!<NOD<CLR¿Huh?<NOD<CLR.....<NOD<CLR<ANP0400:0000:0000<FAC0028¿Qué ocurre?
-¿No eres uno de esos
-robots asesinos?<NOD
-¡Me habías asustado,
-apareciendo así tan
-de repente!<NOD<CLR¿No serás ese salvador
-del que hablan?<NOD<END
+<MSGEyaahh!<MYB0002<NOD<CLREz nazazu hil!<NOD
+Gizakia naiz! Magia bidez
+Mimiga bihurtu naute
+soilik!<NOD
+Gizakia naiz!<NOD<CLRHuh?<NOD<CLR.....<NOD<CLR<ANP0400:0000:0000<FAC0028Zer gertatzen da?
+Ez al zara robot 
+hiltzaile horietako bat?<NOD
+Horrela bapatean
+agertuta ikaratu
+egin nauzu!<NOD<CLREz zara aipatzen dne
+salbatzailea izango?<NOD<END
 
 
 #0401
 <KEY<FL+1002
-<MSG<FAC0028Soy Itoh, uno de los
-humanos que vinieron a
-esta isla a investigar.<NOD
-Esa bruja de Misery me
-transformó en esto...<NOD
-Conseguí escapar, pero...
-Mira como estoy.<NOD<CLR¡Y ahora estoy atrapado
-aquí!<NOD<CLRHas venido escalando por
-el exterior, ¿verdad?<NOD
-Soy un ingeniero de
-talento considerable,<NOD
-pero le tengo mucho
-miedo a las alturas...<NOD<CLROh, pobre de mí...<NOD<CLRNunca debería haber
-venido a esta isla.<NOD<END
+<MSG<FAC0028Itoh naiz, uharte
+hontara ikertzera etorri zire
+gizakietako bat.<NOD
+Misery sorgin horrek
+honetan bihurtu ninduen...<NOD
+Ihes egin nuen, baina...
+Begira nola nagoen.<NOD<CLREta orain hemen
+harrapatuta!<NOD<CLRKapontik eskalatuz etorri
+zara, ezta?<NOD
+Dexenteko talentua duen
+ingeniaria naiz,<NOD
+baina altuerei
+beldur handia diet...<NOD<CLROh, gizajoa ni...<NOD<CLREz nuen inoiz uharte
+honetara etorri behar.<NOD<END
 
 #0402
-<KEY<MSG<FAC0028No, no, seguro que no
-necesitas a un inútil y
-patético hombrecillo como
-yo.<NOD<END
+<KEY<MSG<FAC0028Ez, ziur ez duzula
+ni bezalako alferrikako
+pertsona triste bat
+behar.<NOD<END
 
 
 #0403
-<KEY<MSG<FL+1003<FAC0028¿Itoh?<NOD Sí, soy yo.<NOD<CLR¿Qué dices?<NOD
-¿Sakamoto está haciendo
-un cohete?<NOD<CLRAsí que sigue viva...<NOD
-Qué mujer más dura.<NOD
-No puedo decir lo
-mismo de mí...<NOD<CLREstá bien.<NOD
-Toma esto.<NOD<FAC0000<GIT1027<IT+0027<CLR
-<CMU0010Conseguiste el =Controlador=.<WAI0160<NOD<RMU
-<CLR<FAC0028Creo que esto es lo
-que está buscando.<NOD<GIT0000<EVE0404
+<KEY<MSG<FL+1003<FAC0028Itoh?<NOD Bai, ni naiz.<NOD<CLRZer diozu?<NOD
+Sakamoto suziri bat
+egiten ari da?<NOD<CLRBizirik darrai beraz...<NOD
+Zeinen emakume gogorra.<NOD
+Ezin nigatik gauza
+bera esan...<NOD<CLROngi da.<NOD
+Tori hau.<NOD<FAC0000<GIT1027<IT+0027<CLR
+<CMU0010=Kontrolagailua= lortu duzu.<WAI0160<NOD<RMU
+<CLR<FAC0028Honen bila zenbiltzala
+uste dut.<NOD<GIT0000<EVE0404
 #0404
-<KEY<MSG<FAC0028Dale recuerdos a la
-Sra. Sakamoto de mi parte.<NOD<END
+<KEY<MSG<FAC0028Eman goraintziak
+Sakamoto Andereari nire partetik.<NOD<END
 

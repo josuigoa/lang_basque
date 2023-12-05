@@ -18,7 +18,7 @@
 <MYD0000<DNP0301<SMC<END
 
 #0100
-<KEY<MSG¿Quieres ir a la Casa de Arthur?<YNJ0000<CLO
+<KEY<MSGArthuren Etxera joan nahi duzu?<YNJ0000<CLO
 <CNP0300:0111:0002<HMC<WAI0060<ANP0100:0001:0000
 <WAI0100<FAO0004<TRA0001:0099:0005:0008
 
@@ -48,11 +48,11 @@
 
 #0150
 <PRI<MSG<TUR
-               Casa de Jenka<NOD<END
+               Jenkaren Etxea<NOD<END
 
 #0151
-<PRI<MSG<TURSigue por aquí para llegar al
-Almacén de Zona Desértica.<NOD<END
+<PRI<MSG<TURHare Eremuko Biltegira
+joateko hemendeik jarraitu behar duzu.<NOD<END
 
 
 
@@ -62,18 +62,18 @@ Almacén de Zona Desértica.<NOD<END
 <SAT<EVE0202
 #0202
 <KEY<MYD0002<DNP0200<FMU<FON0201:0016<WAI0100
-<MS3Al parecer Balrog
-falló en su tarea...<CMU0000<NOD<CLO
+<MS3Balrogek bere atazan
+huts egin zuela dirudi...<CMU0000<NOD<CLO
 <CNP0206:0067:0000<WAI0010<WAI0090
 <ANP0206:0013:0000
-<MS3<FAC0015Hmmmm...<NOD<CLRParece que se te
-da muy bien luchar.<NOD<CLRPero ya has pasado a
-ser un obstáculo más
-que un simple incordio.<NOD<CLR<FAC0016Pero voy a solucionar eso.<NOD<CLO<FAC0000
+<MS3<FAC0015Hmmmm...<NOD<CLRBorrokan ona zarela
+dirudi.<NOD<CLRBaina gogaikarri
+izate hutsetik oztopo
+izatera pasatu zara.<NOD<CLR<FAC0016Baina hori moldatuko dut.<NOD<CLO<FAC0000
 <QUA0050<WAI0020
 <MS3
-?!<WAI0050<NOD<CLR<FAC0015No, no hace falta
-que me vea involucrada.<NOD<CLO<ANP0206:0020:0000
+?!<WAI0050<NOD<CLR<FAC0015Ez, ez dut
+hor sartu beharrik.<NOD<CLO<ANP0206:0020:0000
 <BOA0020<CMU0007<BSL0000
 <SMP0210:0010<SMP0210:0011<END
 #0201
@@ -88,8 +88,8 @@ que me vea involucrada.<NOD<CLO<ANP0206:0020:0000
 #0210
 <KEY<WAI0250<CMU0000
 <MS3<CMU0015
-¡Derrotaste a Omega!<WAI0160<NOD<CLRSe ha deshecho el conjuro de
-las Rocas Solares.<NOD<CLO
+Omega garaitu duzu!<WAI0160<NOD<CLREguzki Harkaitzen araoa
+desegin da.<NOD<CLO
 <FOM0016<CMU0006
 <SMP0210:0010<SMP0210:0011<END
 <END
@@ -105,7 +105,7 @@ las Rocas Solares.<NOD<CLO
 #0230
 <FLJ0620:0233
 <FLJ0278:0232
-<PRI<MSGCerrado...<NOD<END
+<PRI<MSGItxita...<NOD<END
 
 #0231
 <WAI0050
@@ -138,53 +138,53 @@ las Rocas Solares.<NOD<CLO
 
 
 #0350
-<PRI<MSGParece tener inscrito un conjuro...<NOD<END
+<PRI<MSGArao bat idatzita duela dirudi...<NOD<END
 
 #0360
-<PRI<MSG<TURAquí, en la Zona Desértica, hay
-ciertos lugares por los que uno
-puede atravesar las paredes.<NOD<CLREsos lugares están marcados
-con un símbolo.<NOD<END
+<PRI<MSG<TURHemen, Hare Eremuan, 
+badaude pareta gurutzatu
+daitezkeen leku batzuk.<NOD<CLRLeku horiek sinbolo
+batekin markatuta daude.<NOD<END
 
 #0401
-<PRI<MSGZzzzz...<NOD<ITJ0014:0410<CLR¿Quieres llevarte al
-perro contigo?<YNJ0000<CLR
-<CNP0401:0136:0000<FL+0275<GIT1014<IT+0014Conseguiste la =Mascota=.<NOD<FL+0274<CLO
+<PRI<MSGZzzzz...<NOD<ITJ0014:0410<CLRTxakurra zurekin eraman
+nahi duzu?<YNJ0000<CLR
+<CNP0401:0136:0000<FL+0275<GIT1014<IT+0014=Maskota= lortu duzu.<NOD<FL+0274<CLO
 <FL-3000<FL-3001<FL-3002<FL-3003<FL+3004
 <END
 #0402
-<PRI<MSG<SOU0105¡Arf!<NOD<ITJ0014:0410<CLR¿Quieres llevarte al
-perro contigo?<YNJ0000<CLR
-<CNP0402:0136:0000<FL+0276<GIT1014<IT+0014Conseguiste la =Mascota.<NOD<FL+0274<CLO
+<PRI<MSG<SOU0105Arf!<NOD<ITJ0014:0410<CLRTxakurra zurekin eraman
+nahi duzu?<YNJ0000<CLR
+<CNP0402:0136:0000<FL+0276<GIT1014<IT+0014=Maskota= lortu duzu.<NOD<FL+0274<CLO
 <FL-3000<FL-3001<FL-3002<FL+3003<FL-3004
 <END
 #0410
-<PRI<MSGSólo puedes llevar uno.<NOD<END
+<PRI<MSGBakarra eraman dezakezu.<NOD<END
 #0411
 <DNP0411<END
 #0412
 <PRI<SOU0022<CNP0412:0021:0000
-<MSGHas abierto el cofre.<NOD<GIT1014<CNP0412:0130:0000<CLR
-Es un perro...<NOD<ITJ0014:0413<CLR
-<CNP0412:0136:0000<FL+0279<GIT1014<IT+0014<CMU0010Conseguiste la =Mascota=.<WAI0160<NOD<RMU<CLO
+<MSGKutxa ireki duzu.<NOD<GIT1014<CNP0412:0130:0000<CLR
+Txakur bat da...<NOD<ITJ0014:0413<CLR
+<CNP0412:0136:0000<FL+0279<GIT1014<IT+0014<CMU0010=Maskota= lortu duzu.<WAI0160<NOD<RMU<CLO
 <FL-3000<FL+3001<FL-3002<FL-3003<FL-3004
 <FL+0274<END
 #0413
-<PRI<MSGSólo puedes llevar uno.<NOD<CNP0412:0015:0000<END
+<PRI<MSGBakarra eraman dezakezu.<NOD<CNP0412:0015:0000<END
 
 
 
 #0500
 <PRI<DNP0500<SOU0022<CMU0016
-<MSG<GIT1006¡Conseguiste una
-=Cápsula de Energía=!<WAI0160<NOD<RMU<ML+0005
-¡Salud máxima +5!<NOD<END
+<MSG<GIT1006=Energia Kapsula=
+lortu duzu!<WAI0160<NOD<RMU<ML+0005
+Osasun maximoa +5!<NOD<END
 
 #0501
 <PRI<DNP0501<SOU0022<CMU0016
-<MSG<GIT1006¡Conseguiste una
-=Cápsula de Energía=!<WAI0160<NOD<RMU<ML+0005
-¡Salud máxima +5!<NOD<END
+<MSG<GIT1006=Energia Kapsula=
+lortu duzu!<WAI0160<NOD<RMU<ML+0005
+Osasun maximoa +5!<NOD<END
 
 #1200
 <KEY<ANP1200:0020:0001

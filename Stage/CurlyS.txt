@@ -15,18 +15,18 @@
 
 
 #0400
-<KEY<SOU0105<MSG¡Arf!<NOD<FLJ0564:0401<END
+<KEY<SOU0105<MSGArf!<NOD<FLJ0564:0401<END
 #0401
-<ITJ0014:0410<CLR¿Quieres llevarte al
-perro contigo?<YNJ0000<CLR
-<CNP0400:0136:0000<FL+0580<GIT1014<IT+0014Conseguiste la =Mascota=.<NOD<CLO
+<ITJ0014:0410<CLRTxakurra zurekin eraman
+nahi al duzu?<YNJ0000<CLR
+<CNP0400:0136:0000<FL+0580<GIT1014<IT+0014=Maskota= lortu duzu.<NOD<CLO
 <FL+3000<FL-3001<FL-3002<FL-3003<FL-3004
 <FL+0274<END
 #0410
-<PRI<MSGSólo puedes llevar uno.<NOD<END
+<PRI<MSGBakarra eraman dezakezu.<NOD<END
 
 #0420
-<KEY<DNP0420<MSG<GIT1035<IT+0035Encontraste las
-=Braguitas de Curly=.<NOD<END
+<KEY<DNP0420<MSG<GIT1035<IT+0035=Curlyren Kuleroak=
+aurkitu dituzu.<NOD<END
 
 

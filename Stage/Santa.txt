@@ -19,20 +19,20 @@
 
 
 #0120
-<KEY<MSG<TUR¡Cuidado! Eso de la izquierda es una
-Trampa Mortal.
-¡Un toque y estás muerto!<NOD<END
+<KEY<MSG<TURKontuz! Ezkerreko hori
+Tranpa Hilkorra da.
+Ikutu eta hil egingo zara!<NOD<END
 
 
 #0300
 <ITJ0008:0301
-<KEY<MSG*Crujido* *¡Clac!*<NOD<FLJ0242:0000
-La leña arde intensamente.<NOD<END
+<KEY<MSG*Krask* *Klak!*<NOD<FLJ0242:0000
+Egurra bizi ari da erretzen.<NOD<END
 #0301
-<KEY<GIT1008<MSG¿Quieres usar el =Zumo de Medusa=?<YNJ0000<CLO<GIT0000
+<KEY<GIT1008<MSG=Marmoka Zukua= nahi duzu?<YNJ0000<CLO<GIT0000
 <IT-0008<ANP0300:0010:0000<WAI0030<FLJ0242:0302<FL+0242
-<MSGEncuentras algo en las cenizas...<NOD<CLR<GIT1012<IT+0012
-<CMU0010Has conseguido =Carbón Vegetal=.<WAI0160<NOD<CLO<RMU<DNP0300<END
+<MSGErrauts artean zerbait aurkitu duzu...<NOD<CLR<GIT1012<IT+0012
+<CMU0010=Ikatz Begetala= lortu duzu.<WAI0160<NOD<CLO<RMU<DNP0300<END
 
 #0302
 <KEY<DNP0300<END
@@ -44,26 +44,26 @@ La leña arde intensamente.<NOD<END
 <FLJ0484:0504
 <FLJ0241:0503
 <FLJ0240:0502
-<KEY<FL+0240<MSGGracias por haberme ayudado.<NOD
-Toma, puedes quedarte esto.<NOD<GIT0003<AM+0003:0000<CLR
-<CMU0010¡Has conseguido la =Bola de Fuego=!<WAI0160<NOD<RMU<GIT0000<CLR¿Estás buscando a alguien?<NOD
-No he visto a nadie más por aquí.<NOD
-Si quieres seguir buscando por
-allí tendrás que pasar por la
-hoguera de la casa de Chaco.<NOD<FL+0241<END
+<KEY<FL+0240<MSGEskerrik asko laguntzeagatik.<NOD
+Tori, hartu hau zuretzat.<NOD<GIT0003<AM+0003:0000<CLR
+<CMU0010=Su bola= lortu duzu!<WAI0160<NOD<RMU<GIT0000<CLRNorbaiten bila zabiltzan?<NOD
+Ez dut hemen beste inor ikusi.<NOD
+Handik zehar bilatzen jarraitu 
+nahi baduzu, Chacoren etxeko
+suaren ondotik pasatu beharko duzu.<NOD<FL+0241<END
 #0503
-<KEY<MSGPuedes llegar a la parte
-profunda de Villavergel a través
-de la hoguera de la casa de Chaco.<NOD<END
+<KEY<MSGSoroherriko gune sakonera
+joateko, Chacoren etxeko suan 
+zehar pasatu beharko duzu.<NOD<END
 #0504
-<KEY<MSG¿Necesitas =Carbón Vegetal=?<NOD
-Puedes coger un poco de mi
-hoguera, si quieres.<NOD<END
+<KEY<MSG=Ikatz Begetala= behar duzu?<NOD
+Nire sutik har dezakezu
+pixka bat, nahi baduzu.<NOD<END
 #0505
-<KEY<MSG¿Para qué necesitas el carbón
-vegetal?<NOD<END
+<KEY<MSGZertarako behar duzu ikatz
+begetala?<NOD<END
 #0506
-<KEY<MSGHe oído una explosión ahí fuera
-hace un momento.<NOD
-Eso y gritos de terror...<NOD<END
+<KEY<MSGOrain dela gutxi leherketa bat
+entzun dut kanpoan.<NOD
+Hori eta beldur oihuak...<NOD<END
 

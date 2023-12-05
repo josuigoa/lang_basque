@@ -21,18 +21,18 @@
 #0200
 <PRI
 <FLJ1371:0201
-<MSG¿Sí? ¿Quieres algo?<NOD<END
+<MSGBai? Zerbait nahi?<NOD<END
 #0201
-<PRI<MSG¿Dices que mi mujer me
-está buscando?<NOD<CLRVale, tienes razón,<NOD
-llevo un rato fuera de casa.<NOD
-Bueno, hora de irse.<NOD<GIT1032<DNP0200<IT+0032<CLR¿Vas a llevarme tú, no?<NOD<END
+<PRI<MSGNire emaztea nire bila
+dabilela?<NOD<CLRAdos, arrazoia,<NOD
+denbora daramat etxetik kanpo.<NOD
+Tira, joateko ordua.<NOD<GIT1032<DNP0200<IT+0032<CLRZuk eramango nauzu, ezta?<NOD<END
 
 #0300
 <CNP0300:0000:0000
-<PRI<MSGLa tumba de Arthur.<NOD
-Hay algo escrito en la lápida:<NOD<CLR<MSG<TURAquí descansa el noble Arthur,
-el gran guerrero Mimiga.<NOD<FLJ0390:0000<CLR<MSG<FL+0390
-<CMU0010<GIT1001<IT+0001¡Encontraste la =Llave de Arthur=!<WAI0160<NOD<CLO
+<PRI<MSGArthuren hilobia.<NOD
+Hilarrian zerbait dago idatzita:<NOD<CLR<MSG<TURHemen Arthur noblea dago ehortzita,
+Mimiga gerlari handia.<NOD<FLJ0390:0000<CLR<MSG<FL+0390
+<CMU0010<GIT1001<IT+0001=Arthuren Giltza= aurkitu duzu!<WAI0160<NOD<CLO
 <RMU<END
 

@@ -22,46 +22,46 @@
 #0500
 <KEY<HMC<FOM0016<MYD0002<CMU0000<QUA0050<FAI0001
 <WAI0150
-<MSG<FAC0025Se ha parado...<NOD<CLR<FAC0019¡La isla ha dejado
-de caerse!<NOD<CLR¿Quizá toda la energía
-negativa se debilitó tras
-vencerle?<NOD<CLR<FAC0025.....<NOD<CLRBueno, no lo sé, pero
-parece que nuestro trabajo
-aquí ha terminado.<NOD<CLO<FAC0000
-<MS2<TUR    Duele...<WAI0050
-<MSG<FAC0025¿Qué?<NOD<CLO<FAC0000
-<WAI0100<MS2<TUR     Tan...  duro.....
-<ANP0410:0010:0000<ANP0411:0010:0002<WAI0050        El dolor...
+<MSG<FAC0025Gelditu egin da...<NOD<CLR<FAC0019Uharteak erortzeari
+utzi dio!<NOD<CLREnergia negatibo guztia
+ahuldu egingo zen bera garaitu
+eta gero?<NOD<CLR<FAC0025.....<NOD<CLRBa ez dakit, baina
+badirudi gure hemengo lana
+bukatu dela.<NOD<CLO<FAC0000
+<MS2<TUR    Mina...<WAI0050
+<MSG<FAC0025Zer?<NOD<CLO<FAC0000
+<WAI0100<MS2<TUR     Hain...  gogor.....
+<ANP0410:0010:0000<ANP0411:0010:0002<WAI0050        Mina...
 <WAI0100<PRI<MSG?!<WAI0050<NOD<CLO<FAC0000<KEY
 <CMU0034<WAI0100
 <ANP0400:0000:0000<WAI0020
 <ANP0401:0000:0002<WAI0080
-<PRI<MSG<FAC0025¡¡La pared!!<NOD<CLO<FAC0000<KEY
+<PRI<MSG<FAC0025Pareta!!<NOD<CLO<FAC0000<KEY
 <WAI0100
 <ANP0400:0000:0002<WAI0020
 <ANP0401:0070:0002<WAI0032
 <ANP0401:0000:0000<WAI0020
-<MS2<TUR    Ayudadme...<WAI0050
-     Duele...<WAI0050
-      Tanto.....<WAI0050<CLR<CLO
-<PRI<MSG<FAC0025¡Vamos a ser aplastados!<NOD<CLO<KEY<WAI0050
-<PRI<FAC0000<MS3¡Hiyah!<NOD<CLO
+<MS2<TUR    Laguntza...<WAI0050
+     Min...<WAI0050
+      Handia.....<WAI0050<CLR<CLO
+<PRI<MSG<FAC0025Zanpatu egingo gaitu!<NOD<CLO<KEY<WAI0050
+<PRI<FAC0000<MSHiyah!<NOD<CLO
 <KEY<CNP0402:0009:0000<WAI0150
-<PRI<MSG<FAC0005¡Ahí estáis!
-Tal y como dijo Misery.<NOD<CLR
-<FAC0019¡Has venido a rescatarnos!<NOD<CLR<FAC0005¡¡Agarraos fuerte!!<NOD<CLO<FAC0000
+<PRI<MSG<FAC0005Hor zaude!
+Miseryk esan bezala.<NOD<CLR
+<FAC0019Gu salbatzera etorri zara!<NOD<CLR<FAC0005Eutsi gogor!!<NOD<CLO<FAC0000
 <KEY
 <ANP0401:0020:0000<WAI0010
 <ANP0400:0080:0002<WAI0002
-<PRI<MSG<FAC0005¡Vamos!<NOD<CLO<FAC0000
+<PRI<MSG<FAC0005Goazen!<NOD<CLO<FAC0000
 <KEY<FON0402:0016
 <CNP0402:0012:0002<WAI0002
 <ANP0402:0100:0002<WAI0100
 <FMU<MSG<TUR
-¡¡Duooooooooooooohhhh!!<WAI0100<CLO<WAI0050<FMU<FAO0001
+Duooooooooooooohhhh!!<WAI0100<CLO<WAI0050<FMU<FAO0001
 <WAI0050<PRI<CMU0000
-<MSG<FAC0025¿Te encuentras bien?<NOD<CLR
-<FAC0023No lo sé...<NOD
+<MSG<FAC0025Ongi al zaude?<NOD<CLR
+<FAC0023Ez dakit...<NOD
 <TRA0071:0120:0000:0000
 <END
 

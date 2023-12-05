@@ -30,32 +30,32 @@
 
 
 #0200
-<KEY<MSG¿Sue?<NOD<CLRSí, la conozco.<NOD
-Es esa monada que siempre está en
-la Casa de Arthur, ¿no?<NOD
-Apareció aquí hace poco.<NOD
-La encontramos empapada aquí,
-en el depósito.<NOD
-No parece que le gustemos
-mucho...<NOD
-No sé por qué, ya que es una
-Mimiga como nosotros.<NOD<END
+<KEY<MSGSue?<NOD<CLRBai, ezagutzen dut.<NOD
+Beti Arthuren etxean dagoen 
+polit hori da, ezta?<NOD
+Orain dela gutxi agertu zen.<NOD
+Busti-busti eginda aurkitu genuen,
+ur-tangan.<NOD
+Ez dirudi oso gustuko
+gaituenik...<NOD
+Ez dakit zergatik, gu bezala
+Mimiga bat izanda.<NOD<END
 
 #0300
 <PRI
 <FL+0370<FL+0326<FL+0371<FL-0321<FL+0362
 
 <DNP0300
-<MSGAlgo brilla en la suciedad...<NOD<CLR<CMU0010<GIT1004<IT+0004
-Conseguiste el
-=Guardapelo Plateado=.<WAI0160<NOD<CNP0402:0060:0000<CLO
+<MSGZikinean dirdira bat ikusten da...<NOD<CLR<CMU0010<GIT1004<IT+0004
+=Zilarrezko Medailoia=
+lortu duzu.<WAI0160<NOD<CNP0402:0060:0000<CLO
 <RMU<END
 
 
 #0400
 <FLJ0370:0401<END
 #0401
-<KEY<MYD0002<DNP0400<MSG<FAC0006¡Ah!<NOD<CLO
+<KEY<MYD0002<DNP0400<MSG<FAC0006Ah!<NOD<CLO
 <ANP0402:0006:0002<WAI0078<DNP0402<FL+0371<END
 #0402
 

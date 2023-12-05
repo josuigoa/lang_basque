@@ -22,9 +22,9 @@
 <FLJ0592:0212
 <FLJ0591:0211
 <FLJ0590:0210
-<KEY<MSG<FAC0013¿Quién eres tú...?<NOD
-No recuerdo haberte
-visto antes por aquí.<NOD<END
+<KEY<MSG<FAC0013Nor zara zu...?<NOD
+Ez dut gogoratzen hemen
+inguruan ikusi zaitudanik.<NOD<END
 
 #0201
 <IT-0014
@@ -33,128 +33,128 @@ visto antes por aquí.<NOD<END
 <FLJ0592:0222
 <FLJ0591:0221
 <FLJ0590:0220
-<KEY<MSG<FAC0013¡Oh, vaya!<NOD<CLR<GIT1014¡Mi preciado cachorro!<NOD<CLR
-<GIT0000<FAC0000Le diste el =Cachorro=.<NOD<CLR<CNP0300:0130:0000<DNP0401<FL-0274<FAC0013¿Lo recogiste por mí?<NOD
-Muchas gracias.<NOD<CLR¿Qué dices?<NOD
-¿ =Flores rojas= ?<NOD<FAC0000<CLR<CMU0000<MSG¡Huzzah!<NOD<CLO
+<KEY<MSG<FAC0013Oh, hara!<NOD<CLR<GIT1014Nire txakurkume maitea!<NOD<CLR
+<GIT0000<FAC0000=Txakurkumea= eman diozu.<NOD<CLR<CNP0300:0130:0000<DNP0401<FL-0274<FAC0013Niregatik hartu zenuen?<NOD
+Mila esker.<NOD<CLRZer diozu?<NOD
+=Lore Gorriak= ?<NOD<FAC0000<CLR<CMU0000<MSGHuzzah!<NOD<CLO
 <CNP0400:0009:0000<WAI0010<MYD0002<CNP0300:0132:0002<ANP0300:0100:0002<WAI0120<CMU0011
 <CNP0400:0012:0000
-<MSG<FAC0005¿Cómo te va, Jenka?<NOD<CLR<FAC0013Ah, Balrog.<NOD<ANP0300:0120:0002
-Al parecer a ti te va bien.<NOD
-¿Qué tal le va a la
-idiota de mi hija?<NOD<CLR<FAC0014¡Jee-jee-jee!<NOD
-¿Idiota? ¿Te refieres a
-Misery?<NOD
-Está bien, bastante bien.<NOD<CLRUn nuevo amo ha aparecido.<NOD
-¡¡Esta vez, la tierra
-será nuestra!!<NOD<CLR<FAC0013Así que otra vez
-planeáis...<NOD<CLR<FAC0005No estoy aquí para
-darte problemas.<NOD
-Sólo he venido a conseguir
-la llave del almacén.<NOD<CLR¡Aquél en el que están
-guardadas las semillas
-de flores rojas!<NOD<CLR<FAC0013.....<NOD<CLRVaya...<NOD
-¿De qué diablos me
-estás hablando?<NOD<CLR
-<ANP0400:0030:0000<FAC0014¡Jojo!<NOD<CLR¡¿Con que haciéndote
-la loca, eh?!<NOD<CLR<FAC0005.....<NOD<CLRYa sé lo que pasa.<NOD
-Intentas traicionarnos.<NOD<CLO<CMU0000
-<WAI0050<FAC0005<MSGLo lamentarás.<NOD<CLO
+<MSG<FAC0005Zer moduz, Jenka?<NOD<CLR<FAC0013Ah, Balrog.<NOD<ANP0300:0120:0002
+Zu ongi zabiltzala dirudi.<NOD
+Zer moduz dabil nire
+alaba tuntuna?<NOD<CLR<FAC0014Kar-kar-kar!<NOD
+Tuntuna? Misery esan
+nahi duzu?<NOD
+Ongi dago, nahikoa ongi.<NOD<CLRNagusi berria agertu da.<NOD
+Oraingoan, lurra
+geurea izango da!!<NOD<CLR<FAC0013Orduan berriz
+zabiltzate...<NOD<CLR<FAC0005Ez naiz zuri arazoak
+sortzera etorri.<NOD
+Biltegiko giltza bakarrik
+lortu nahi dut.<NOD<CLRLore gorrien haziak
+gordeta dauden
+lekukoak!<NOD<CLR<FAC0013.....<NOD<CLRHara...<NOD
+Zer demontretaz
+ari zara?<NOD<CLR
+<ANP0400:0030:0000<FAC0014Jojo!<NOD<CLRTxoroarena egite
+ari zara, eh?!<NOD<CLR<FAC0005.....<NOD<CLRBadakit zer gertatzen den.<NOD
+Traizionatu nahi gaituzu.<NOD<CLO<CMU0000
+<WAI0050<FAC0005<MSGDamutuko zara.<NOD<CLO
 <FAC0000<ANP0400:0010:0000<WAI0200<CMU0019
-<MSG<FAC0013<CNP0300:0130:0000Un nuevo amo...<NOD
-Eso no es nada bueno.<NOD<MYD0200<CLR.....<NOD<CLRHay cuatro más cachorros.<NOD
-Cuatro más de mis
-cachorros...<NOD<CLRY me duelen mucho las
-caderas.<NOD<CLR¿Podría pedirte esta
-anciana que le ayudases
-a buscar a sus cachorros?<NOD<FL+0590<END
+<MSG<FAC0013<CNP0300:0130:0000Nagusi berri bat...<NOD
+Hori ez da ona.<NOD<MYD0200<CLR.....<NOD<CLRLau txakurkume gehiago daude.<NOD
+Nire lau txakurkume
+gehiago...<NOD<CLREta aldakan min hadia
+dut.<NOD<CLREmakume zahar honek
+bere txakurkumeak bilatzen
+laguntza eska diezazuke?<NOD<FL+0590<END
 
 #0210
-<KEY<MSG<FAC0013Aún quedan cuatro...<NOD
-¿Podría pedirte esta
-anciana que le ayudases
-a buscar a sus cachorros?<NOD<END
+<KEY<MSG<FAC0013Oraindik lau faltan...<NOD
+Emakume zahar honek
+bere txakurkumeak bilatzen
+laguntza eska diezazuke?<NOD<END
 
 #0211
-<KEY<MSG<FAC0013Aún quedan tres.<NOD
-Buena suerte.<NOD<END
+<KEY<MSG<FAC0013Oraindik hiru faltan.<NOD
+Zorte on.<NOD<END
 
 #0212
-<KEY<MSG<FAC0013Creo que mis pequeños
-te han cogido cariño.<NOD<CLRAún quedan dos...<NOD<END
+<KEY<MSG<FAC0013Nik uste txikitxoek
+estimua hartu dizutela.<NOD<CLROraindik bi faltan...<NOD<END
 
 #0213
-<KEY<MSG<FAC0013Sólo queda uno...<NOD
-De verdad, me encantaría
-que dejases de buscar las
-flores rojas.<NOD<END
+<KEY<MSG<FAC0013Bakarra falta duzu...<NOD
+Benetan, lore gorriak
+bilatzeari utz dezazun
+nahi nuke.<NOD<END
 
 
 #0220
-<KEY<MSG<FAC0013Vaya vaya, qué rápido.<NOD<CLR<GIT1014Éste es sin duda uno de
-mis queridos cachorros.<NOD<CLR
-<GIT0000<CNP0301:0130:0000<DNP0401<FAC0000Le diste la =Mascota=.<NOD<CLR<FL-0274<FAC0013Hmmm...<NOD
-Eres un soldado de la
-superficie, a que sí.<NOD<CLR.....<NOD<CLRNo hace mucho enviaron
-cientos de robots como
-tú a esta isla.<NOD
-Incontables Mimigas
-perecieron en sus manos.<NOD
-Al igual que los humanos
-que intentaron protegerlos.<NOD<CLRAcorralados, los Mimigas
-finalmente consumieron las
-flores rojas prohibidas,<NOD
-y en su furia asesina
-empezaron a contraatacar
-a los robots.<NOD<CLRSi las flores rojas no
-hubieran existido, los
-Mimigas habrían
-desaparecido por completo
-de esta isla...<NOD<CLRAún quedan tres.<NOD
-Buena suerte.<NOD<FL+0591<END
+<KEY<MSG<FAC0013Hara hara, azkarra izan da.<NOD<CLR<GIT1014Zalantzarik gabe hau da
+nire txakurkume kuttunenetakoa.<NOD<CLR
+<GIT0000<CNP0301:0130:0000<DNP0401<FAC0000=Maskota= eman diozu.<NOD<CLR<FL-0274<FAC0013Hmmm...<NOD
+Gainazaleko soldadu
+bat zara, baietz.<NOD<CLR.....<NOD<CLREz da denbora asko
+uharte hontara ehundaka
+robot bidali zituztela.<NOD
+Izugarri Mimigas pila
+hil ziren beraien aurka.<NOD
+Baita beraiek babesten
+saiatu ziren gizakiak ere.<NOD<CLRInguraturik, Mimigek
+azkenean lore gorri debekatuak
+jan zituzten,<NOD
+eta beraien sumin hiltzailean
+robotei kontraerasoan
+hasi ziren.<NOD<CLRLore gorriak ez
+balira existitu, Mimigak
+uharte honetatik 
+aspaldian desagertuko
+ziren...<NOD<CLROraindik hiru faltan.<NOD
+Zorte on.<NOD<FL+0591<END
 
 #0221
-<KEY<MSG<FAC0013Oooh.<NOD<CLR<GIT1014Sí, sí.<NOD
-Éste es sin duda uno de
-mis queridos cachorros.<NOD<CLR
-<GIT0000<CNP0302:0130:0000<DNP0401<FAC0000Le diste la =Mascota=.<NOD<CLR<FL-0274<FAC0013Muchas gracias, de verdad.
-Ya tenemos tres...<NOD<CLR.....<NOD<CLR¿Has visto alguna vez
-un Mimiga descontrolado?<NOD<CLRLos acorralados Mimigas
-esperaron que las flores
-rojas les dieran fuerza.<NOD
-Las consumieron, y después
-combatieron a los robots.<NOD<CLR
-Sin embargo...<NOD<CLR¿Sabes qué les pasó 
-después?<NOD<CLR.....<NOD<CLREs una historia triste...<NOD
-Los furiosos Mimigas,
-incapaces de controlarse.
-desaparecieron sin dejar<NOD
-rastro.<NOD
-Si los rumores son
-ciertos, descendieron
-a la superficie,<NOD
-donde habitan los humanos.<NOD<CLRUn ejército de Mimigas
-furiosos sueltos por la
-tierra...<NOD
-Si eso fuera cierto...<NOD<CLR¿Lo comprendes ahora?<NOD
-¿Comprendes lo peligrosas
-que son las flores rojas?<NOD<CLR.....<NOD<CLRAún quedan dos...<NOD<FL+0592<END
+<KEY<MSG<FAC0013Oooh.<NOD<CLR<GIT1014Bai, bai.<NOD
+Hau zalantzarik gabe nire
+kume kuttunenetarikoa da.<NOD<CLR
+<GIT0000<CNP0302:0130:0000<DNP0401<FAC0000=Maskota= eman diozu.<NOD<CLR<FL-0274<FAC0013Eskerrik asko, benetan.
+Hiru ditugu...<NOD<CLR.....<NOD<CLRIkusi al duzu inoiz
+deskontrolatutako Mimiga bat?<NOD<CLRInguratutako Mimigek
+lore gorriek indarra 
+eman arte itxaron zuten.<NOD
+Jan egin zituzten, eta gero 
+roboten aurka aritu ziren.<NOD<CLR
+Hala ere...<NOD<CLRBadakizu zer gertatu
+zen gero?<NOD<CLR.....<NOD<CLRHistoria tristea da...<NOD
+Amorruz betetako Mimigak,
+beraien burua ezin kontrolatuz,
+arrastorik utzi gabe desagertu<NOD
+ziren.<NOD
+Kontakizunek egia badiote,
+gainazalera jaitsi
+ziren,<NOD
+gizakiak bizi diren lekura.<NOD<CLRMimiga amorratuen
+armada bat lurrean
+zehar...<NOD
+Hori egia bada...<NOD<CLRUlertzen duzu?<NOD
+Ulertzen duzu zeinen
+arriskutsuak diren lore gorriak?<NOD<CLR.....<NOD<CLRBi falta dira...<NOD<FL+0592<END
 
 #0222
-<KEY<MSG<FAC0013Parece que te han
-cogido cariño.<NOD
-Mis cachorros no le
-cogen afecto a cualquiera.<NOD<CLR<GIT1014Muchas gracias...<NOD<CLR
-<GIT0000<FAC0000Le diste la =Mascota=.<NOD<CLR<CNP0303:0130:0000<DNP0401<FL-0274
-<FAC0013.....<NOD<CLRQuieres conseguir la llave
-del Almacén, ¿verdad?<NOD
-Donde se encuentran
-guardadas las semillas
-de las flores rojas...<NOD<CLRNo me importa quién seas,
-no te voy a dar la llave.<NOD
-Abrir ese almacén podría
-repetir la tragedia una
-y otra vez...<NOD<CLRUno, dos, tres...<NOD<CLRSólo falta uno.<NOD<FL+0593<END
+<KEY<MSG<FAC0013Gustuko zaituztela
+dirudi.<NOD
+Nire kumetxoek ez dute
+edozein izaten begiko.<NOD<CLR<GIT1014Eskerrik asko...<NOD<CLR
+<GIT0000<FAC0000=Maskota= eman diozu.<NOD<CLR<CNP0303:0130:0000<DNP0401<FL-0274
+<FAC0013.....<NOD<CLRBiltegiko giltza
+lortu nahi duzu, ezta?<NOD
+Lore gorrien 
+haziak gordeta
+dauden lekua...<NOD<CLREz zait axola nor zaren,
+ez dizut giltza emango.<NOD
+Biltegi hori irekitzeak
+tragedia behin eta berriz
+errepikatzea ekarriko luke...<NOD<CLRBat, bi, hiru...<NOD<CLRBakarra falta da.<NOD<FL+0593<END
 
 #0300
 <FLJ0590:0310<END
@@ -168,15 +168,15 @@ y otra vez...<NOD<CLRUno, dos, tres...<NOD<CLRSólo falta uno.<NOD<FL+0593<END
 <FLJ0594:0314<END
 
 #0310
-<KEY<MSG¡Arf!<NOD<END
+<KEY<MSGArf!<NOD<END
 #0311
-<KEY<MSG¡Arf arf!<NOD<END
+<KEY<MSGArf arf!<NOD<END
 #0312
-<KEY<MSG¡Arf arf arf!<NOD<END
+<KEY<MSGArf arf arf!<NOD<END
 #0313
 <KEY<MSGAuuuuuh...<NOD<END
 #0314
-<KEY<MSG¡Cinco!<NOD<END
+<KEY<MSGBost!<NOD<END
 
 
 #0400

@@ -16,16 +16,16 @@
 #0100
 <KEY<FLJ0800:0101<SOU0011<ANP0100:0000:0002<FAO0000<TRA0045:0090:0081:0053
 #0101
-<KEY<MSGNo se abre.<NOD<END
+<KEY<MSGEz da irekitzen.<NOD<END
 
 #0110
 <KEY<SOU0011<ANP0110:0000:0002<FAO0002<TRA0047:0092:0004:0017
 
 #0120
-<KEY<MSGEscuchas el sonido del agua
-fluyendo por dentro.<NOD
-Si no fuera por los barrotes,
-probablemente podrías pasar.<NOD<END
+<KEY<MSGBarrutik dabilen uraren
+soinua entzuten da.<NOD
+Burdin-barrarik ez balego,
+pasa zintezke ziurrenik.<NOD<END
 #0121
 <KEY<FAO0003<TRA0048:0093:0155:0001
 <KEY<FAO0003<TRA0031:0092:0030:0008
@@ -35,13 +35,13 @@ probablemente podrías pasar.<NOD<END
 <WAI0010
 <ANP0300:0003:0002<WAI0016
 <ANP0300:0001:0002
-<MSG<FAC0025¿Seguimos en el Laberinto?<NOD<FAC0000<CLO
+<MSG<FAC0025Labirintoan jarraitzen dugu?<NOD<FAC0000<CLO
 <ANP0300:0003:0002<WAI0064
 <ANP0300:0020:0002<WAI0050
 <ANP0300:0001:0000
-<MSG<FAC0025No podemos pasar por aquí.<NOD
-Tenemos que seguir
-avanzando.<NOD<CLO
+<MSG<FAC0025Ezin dugu hemendik pasatu.<NOD
+Aurrera jarraitu
+behar dugu.<NOD<CLO
 <ANP0300:0003:0002<WAI0141
 <ANP0300:0020:0002<WAI0010
 <SOU0011<ANP0110:0000:0002<WAI0020
@@ -51,7 +51,7 @@ avanzando.<NOD<CLO
 #0300
 
 #0330
-<PRI<MSGVes un botón.<NOD<SOU0043<CLR<MSGLo pulsas.<NOD<CLO
+<PRI<MSGBotoi bat ikusi duzu.<NOD<SOU0043<CLR<MSGSakatu duzu.<NOD<CLO
 <WAI0050
 <SOU0071
 <CMP0007:0035:0000

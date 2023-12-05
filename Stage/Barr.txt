@@ -20,11 +20,11 @@
 <KEY<SOU0011<ANP0100:0000:0002
 <FAO0004<TRA0011:0094:0042:0052
 #0101
-<PRI<MSG¡No se abre!<NOD<END
+<PRI<MSGEz da irekitzen!<NOD<END
 #0102
 <KEY<FAO0004<TRA0011:0094:0042:0052
 #0103
-<PRI<MSG¡No puedes escapar!<NOD<END
+<PRI<MSGEzin duzu alde egin!<NOD<END
 
 #0150
 #0151
@@ -35,15 +35,15 @@
 #0290
 <FLJ0370:0291<END
 #0291
-<FLJ0360:0000<PRI<MSG<FAC0008¡¡Por qué, tú!!<NOD<DNP0290<CNP1000:0063:0002<END
+<FLJ0360:0000<PRI<MSG<FAC0008Zergatik, zu!!<NOD<DNP0290<CNP1000:0063:0002<END
 
 #0400
 <KEY<FL-0361<FL-0362
 <SMC<CNP0400:0012:0000<ANP0400:0020:0004<WAI0140
-<PRI<MSG<FAC0005¡Espera y verás!<NOD<FAC0000<KEY<CLO
+<PRI<MSG<FAC0005Itxaron eta ikusiko duzu!<NOD<FAC0000<KEY<CLO
 <WAI0100<CMU0015
 <MSG
-¡Derrotaste a Balrog!<WAI0140<NOD
+Balrog garaitu zenuen!<WAI0140<NOD
 <SOU0045<CNP0150:0001:0000<WAI0004
 <SOU0045<CNP0151:0001:0000<WAI0004
 <SOU0045<CNP0152:0001:0000<WAI0004
@@ -54,22 +54,22 @@
 #0500
 
 #1000
-<KEY<FL+0360<FL+0361<FL+0440<FL-0326<MSG¡Aaaaah!<NOD<CLR¡¡Socorro, socorro!!<NOD<CLR.....<NOD¿Uh?<NOD<MYB0002<WAI0030<MYD0002<CNP1000:0060:0004<CLR<FAC0006¿No... No estás con
-el Doctor?<NOD<CLR¡Oh! Lo siento.<NOD
-Me habías preocupado.
-El Doctor es un hombre
-malo.<NOD
-Aparece en nuestro pueblo
-y nos secuestra.
-A veces incluso nos mata...<NOD<CLRComo a mi hermano.
-Él mató a mi hermano.<NOD<CLR¡Oh!<NOD
-¡Ese colgante!<GIT1004<NOD<CLR¿Lo has encontrado para mí?<NOD
-¡Sue me lo dio!<NOD<CLR.....<NOD<CLRBueno... Ya no debería
-tenerlo.<NOD
-<GIT0000King se mosquea cada
-vez que nos ve a Sue y
-a mí juntas...<NOD
-Te lo puedes quedar.<NOD<CLO
+<KEY<FL+0360<FL+0361<FL+0440<FL-0326<MSGAaaaah!<NOD<CLRLaguntza, laguntza!!<NOD<CLR.....<NODEh?<NOD<MYB0002<WAI0030<MYD0002<CNP1000:0060:0004<CLR<FAC0006Ez... ez al zaude
+Doktorearekin?<NOD<CLROh! Sentitzen dut.<NOD
+Arduratuta nengoen.
+Doktorea pertsona gaiztoa
+da.<NOD
+Gure herrian agertu eta
+bahitu egin gaitu.
+Batzuetan baita hil ere...<NOD<CLRNire anaia, adibidez.
+Berak hil zuen nire anaia.<NOD<CLROh!<NOD
+Lepoko hori!<GIT1004<NOD<CLRNiretzat aurkitu al duzu?<NOD
+Suek eman zidan!<NOD<CLR.....<NOD<CLRTira... jada ez luke
+eduki behar.<NOD
+<GIT0000Kingek Sue eta ni
+elkarrekin ikusten gaituen
+guztietan haserretzen da...<NOD
+Hartu zuretzat.<NOD<CLO
 <FAC0000<CMU0000
 <QUA0030<SOU0026
 <ANP1000:0008:0000
@@ -94,34 +94,34 @@ Te lo puedes quedar.<NOD<CLO
 <CMP0006:0009:0098
 
 
-<MSG¡Huzzah!<WAI0050<CNP0400:0012:0002<ANP0400:0030:0002<CLR<KEY<CMU0011<FAC0014¡Ahí estás!<NOD<CLR<FAC0005¡No te puedes esconder,
-no no!<NOD
-¡Tengo el olfato de un
-sabueso!<NOD<FAC0000<CLRDe eso no hay duda.<NOD
-<CNP0500:0067:0002<WAI0100<ANP0500:0013:0002<WAI0050<ANP1000:0008:0000<MSG<FAC0015El olfato, y diría que
-el cerebro también.<NOD<CLR<FAC0005¡Misery!<NOD<CLR¡Yo la encontré primero!<NOD<CLR<FAC0008¡Vosotros--Vosotros estáis
-con el Doctor, a que sí!<NOD<CLR<FAC0015.....<NOD<CLR<FAC0016¿Así que tú eres Sue, eh?
-El Doctor te estaba
-buscando.<NOD
-Y ahora ven, vamos.<NOD<CLR<FAC0006Uh... ¿Qué?<NOD<CLR
-No soy Sue.<NOD<FAC0000<CLO
+<MSGHuzzah!<WAI0050<CNP0400:0012:0002<ANP0400:0030:0002<CLR<KEY<CMU0011<FAC0014Hor zaude!<NOD<CLR<FAC0005Ezin zara ezkutatu,
+ez ez!<NOD
+Untxari baten usaimena
+dut!<NOD<FAC0000<CLRHorrenn zalantzarik ez dago.<NOD
+<CNP0500:0067:0002<WAI0100<ANP0500:0013:0002<WAI0050<ANP1000:0008:0000<MSG<FAC0015Usaimena, eta burmuina
+ere bai, nik uste.<NOD<CLR<FAC0005Misery!<NOD<CLRNik aurkitu nuen!<NOD<CLR<FAC0008Zuek--Zuek Doktorearekin
+zaudete, baietz!<NOD<CLR<FAC0015.....<NOD<CLR<FAC0016Zu zara Sue, beraz, eh?
+Doktorea zure bila
+zebilen.<NOD
+Zatoz orain, goazen.<NOD<CLR<FAC0006Eh... Zer?<NOD<CLR
+Ez naiz Sue.<NOD<FAC0000<CLO
 <ANP0500:0015:0002<WAI0110
-<PRI<MSG<FAC0008¡Aaah!<NOD<FAC0015<CLRBalrog.<NOD
-El resto te lo dejo a ti.<NOD<CLO
+<PRI<MSG<FAC0008Aaah!<NOD<FAC0015<CLRBalrog.<NOD
+Gainontzekoa zuretzat.<NOD<CLO
 <ANP0500:0020:0002<FAC0000<CLO
-<KEY<WAI0050<MSG<FAC0008¡No, espera, os equivo--!<NOD<FAC0000<CLO
+<KEY<WAI0050<MSG<FAC0008Ez, itxaron, oker zabiltz--!<NOD<FAC0000<CLO
 <WAI0050
-<FAC0005<MSG¡No OTRA VEZ!<NOD
-¡Siempre tengo que hacer el
-trabajo sucio!<NOD
-¡Y eso que yo la encontré 
-PRIMERO!<NOD<CLR.....<NOD<CLR¿Y a ti que te pasa?<NOD
-¿Vas a enfrentarte a mí 
-con eso?<YNJ1001<ANP0400:0030:0002<CLR
-<FAC0014¡Lo sabía!<NOD<CLO
+<FAC0005<MSGBERRIZ ez!<NOD
+Beti tokatzen zait lan
+zikina egitea!<NOD
+Eta hori nik aurkitu nuela
+LEHENENGO!<NOD<CLR.....<NOD<CLRZuri zer gertatzen zaizu?<NOD
+Horrekin egin nahi didazu
+aurre?<YNJ1001<ANP0400:0030:0002<CLR
+<FAC0014Banekien!<NOD<CLO
 <FL+0361<CMU0004<CNP0400:0068:0002<BSL0400<END
 
 #1001
 <KEY<FL-0362<FL-0361<CMU0008<MSG<FAC0005Huh.<NOD
-Bueno, pues hasta luego.<NOD<CLO<ANP0400:0010:0002<END
+Tira, gero arte bada.<NOD<CLO<ANP0400:0010:0002<END
 

@@ -25,15 +25,15 @@
 #0110
 <KEY<SOU0011<ANP0110:0000:0002<FAO0002<MYD0002<TRA0044:0092:0002:0013
 
-<KEY<MSGThank you. This is as far as it
-goes for now.
+<KEY<MSGEskerrik asko. Hau da oraingoz egin
+daitekeen guztia.
   2003/09/27 Studio Pixel<NOD<END
 
 #0200
-<KEY<FLJ0744:0201<MS3El suministrador de energía parece estar roto.<NOD<CLRUn ingeniero habilidoso sería
-capaz de repararlo, quizás...<NOD<END
+<KEY<FLJ0744:0201<MS3Energia hornigailua hondatuta dagoela dirudi.<NOD<CLRBeharbada ingeniari treberen
+batek asmatuko luke moldatzen...<NOD<END
 #0201
-<KEY<MSG¿Quieres ir a la Casa de Arthur?<YNJ0000<CLO
+<KEY<MSGArthuren etxera joan nahi duzu?<YNJ0000<CLO
 <CNP0300:0111:0002<HMC<WAI0060<ANP0200:0001:0000
 <WAI0100<FAO0004<TRA0001:0099:0005:0008
 
@@ -48,40 +48,40 @@ capaz de repararlo, quizás...<NOD<END
 
 #0501
 <KEY<ITJ0030:0503<FLJ0741:0502
-<MSGOohhh...<NOD<CLR<FAC0017¡Oh!<NOD
-¡¿Qué estás haciendo aquí?!<NOD<CLR.....<NOD<CLR¿En serio? Así que Misery
-te envió aquí también...<NOD<CLR*risa*...<NOD<CLRQuizá esto tenga su lado
-positivo...<NOD<CLRVerás,<NOD
-esta isla flota en el
-cielo gracias al poder
-de cierto organismo,<NOD
-y hace poco descubrí su
-localización.<NOD<CLREste laberinto.<NOD<CLREl organismo vive en
-algún lugar de este
-mismo laberinto.<NOD
-Si alguien lo destruyera,
-la isla dejaría de
-funcionar.<NOD<CLR*risa*<NOD<CLRSi el Doctor te ha
-enviado al mismísimo
-corazón de la isla,<NOD
-es porque debe tener
-mucha prisa.<NOD<CLRLlévate esto.<NOD<CLR<FAC0000<IT+0018<GIT1018
-Conseguiste el Booster v0.8.<NOD<CLR<FAC0017Esta pequeña máquina te
-ayudará a volar.<NOD
-Si presionas el Botón
-de Salto en el aire,
-podrás flotar.<NOD<CLRÚsalo en el Inventario
-para equipártelo.<NOD<GIT0000<CLRFiu...<NOD<CLREn el momento en el que
-empecé a caer, pensé que
-me iba a morir.<NOD
-Pero en lugar de eso
-ha hecho que nos
-volvamos a encontrar...<NOD
-Parece que mi suerte
-ya se ha acabado.<NOD<CLRRezo por tu victoria...<NOD<FL+0741<FL+0834<ANP0501:0020:0000<END
+<MSGOohhh...<NOD<CLR<FAC0017Oh!<NOD
+Zer ari zara hemen?!<NOD<CLR.....<NOD<CLRBenetan? Miseryk zu ere
+hona bidali zaitu orduan...<NOD<CLR*irria*...<NOD<CLRHonek bere alde ona izango
+du azkenean...<NOD<CLRZera,<NOD
+uharte hau organismo
+bati esker ari da
+zeruan flotatzen,<NOD
+eta berriki non dagoen
+jakin dut.<NOD<CLRLabirinto honetan.<NOD<CLROrganismoa
+labirinto honetako lekuren
+batean bizi da.<NOD
+Norbaitek suntsituko 
+balu, uharteak ez luke
+funtzionatuko.<NOD<CLR*irria*<NOD<CLRDoktoreak uharteare
+bihotz-bihotzera
+bidali bazaitu,<NOD
+prisa handia duenaren
+seinale.<NOD<CLREramazu hau.<NOD<CLR<FAC0000<IT+0018<GIT1018
+Booster v0.8 lortu duzu.<NOD<CLR<FAC0017Makinatxo honek hegan
+egiten lagunduko dizu.<NOD
+Airean zaudela Jauzei
+botoia sakatuta,
+flotatu ahalko duzu.<NOD<CLRBila ezazu Inbentarioan
+erabiltzeko.<NOD<GIT0000<CLRFiu...<NOD<CLRErotzen hasi nintzen
+unean, hilko nintzela
+uste nuen.<NOD
+Baina horren ordez
+berriz aurkitzera
+ekarri gaitu...<NOD
+Nire zortea bukatu 
+dela dirudi.<NOD<CLRZure garaipenagatik egingo dut otoitz...<NOD<FL+0741<FL+0834<ANP0501:0020:0000<END
 
 #0502
-<KEY<MSGRezo por tu...<NOD<END
+<KEY<MSGOtoitz egingo dut...<NOD<END
 
 #0503
 <KEY<MSGOoh...<NOD<END

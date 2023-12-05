@@ -29,19 +29,19 @@
 <KEY<ANP0120:0000:0002<SOU0011<FAO0004<TRA0066:0094:0010:0008
 
 #0130
-<PRI<MSGÉste debe ser el helicoptero en
-el que vinieron Sue y los demás...<NOD<END
+<PRI<MSGHau izango da Sue eta gainontzekoak
+ekarri zituen helikopteroa...<NOD<END
 
 #0199
-<PRI<MSGBuen trabajo.<NOD<END
-<FAO0004Finalizando.<NOD<CLO<CMU0033<CRE<WAI9999<END
+<PRI<MSGOngi egina.<NOD<END
+<FAO0004Bukatuta.<NOD<CLO<CMU0033<CRE<WAI9999<END
 
 #0200
-<KEY<MYD0000<DNP0200<WAS<MSG¡Si te alejas más te caerás!<NOD<END
+<KEY<MYD0000<DNP0200<WAS<MSGGehiago urrunduz gero, erori egingo zara!<NOD<END
 
 #0201
 <PRI<MSG<TUR
-         ¡ESO ES TODO, AMIGOS!<NOD<END
+         HORI IZAN DA GUZTIA, LAGUNAK!<NOD<END
 
 #0210
 <PRI<FLJ1191:0211<FLJ1192:0212

@@ -14,12 +14,12 @@
 <PRI<FAO0004<TRA0002:0094:0259:0011
 
 #0200
-<KEY<FLJ0470:0202<ITJ0007:0201<TUR<MSGTarjeta de Identidad necesaria
-para desactivar el escudo.<NOD<END
+<KEY<FLJ0470:0202<ITJ0007:0201<TUR<MSGEzkutua desaktibatzeko Nortasun
+txartela beharrezkoa da.<NOD<END
 #0201
-<KEY<FL+0470<MSG<GIT1007Insertaste la
-=Tarjeta de Identidad=.<NOD<GIT0000<CLR
-<SOU0043Escudo desactivado.<NOD<END
+<KEY<FL+0470<MSG<GIT1007=Nortasun Txartela=
+txertatu duzu.<NOD<GIT0000<CLR
+<SOU0043Ezkutua desaktibatuta.<NOD<END
 #0202
-<KEY<MSG<TUREl escudo está desactivado.<NOD<END
+<KEY<MSG<TUREzkutua desaktibatuta dago.<NOD<END
 

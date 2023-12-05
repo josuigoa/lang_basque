@@ -15,6 +15,6 @@
 
 #0200
 <PRI<FLJ0140:0001<FL+0140<SOU0022<CNP0200:0021:0000
-<MSGHas abierto el cofre.<NOD<GIT1007<IT+0007<CLR<CMU0010Conseguiste la
-=Tarjeta de Identidad=.<WAI0160<NOD<RMU<END
+<MSGKutxa ireki duzu.<NOD<GIT1007<IT+0007<CLR<CMU0010=Nortasun Txartela=
+lortu duzu.<WAI0160<NOD<RMU<END
 

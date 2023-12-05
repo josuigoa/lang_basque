@@ -45,55 +45,55 @@
 <FLJ0157:0203
 <FLJ0325:0202
 <FLJ0154:0201
-<KEY<MSGUnas palabras iluminan la
-pantalla...<NOD<CLR<TUR"...Aunque, si lo necesito,
-quizá lo haré..."<NOD<FLJ0153:0000<CLR<MSG¿Quieres permitir el acceso
-al Pasillo Oval?<YNJ0000<CLRAcceso al Pasillo Oval permitido.<NOD<FL+0153<PS+0001:6001<END
+<KEY<MSGHitz batzuk pantaila
+argiztatzen dute...<NOD<CLR<TUR"...Baina, behar badut,
+agian egingo dut..."<NOD<FLJ0153:0000<CLR<MSGKorridore Obalerako sartzeko
+baimena eman?<YNJ0000<CLRKorridore Obalerako sarrera onartuta.<NOD<FL+0153<PS+0001:6001<END
 #0201
-<KEY<MSGUnas palabras iluminan la
-pantalla...<NOD<CLR
-<TURConectando con Villavergel...<NOD<END
+<KEY<MSGHitz batzuk pantaila
+argiztatzen dute...<NOD<CLR
+<TURSoroherrirekin konektatzen...<NOD<END
 #0202
 <KEY<MSG<TUR
-Conectado con Villavergel.<NOD<END
+Soroherrirekin konektatuta.<NOD<END
 #0203
 <KEY<MSG<TUR
-Introduce un comando.<NOD<END
+Idatzi komando bat.<NOD<END
 #0204
 <KEY<MSG<TUR
-Conectado con Zona Desértica.<NOD<END
+Hare Eremuarekin konektatzen.<NOD<END
 #0205
-<KEY<MSGUnas palabras iluminan la
-pantalla...<NOD<CLR<TUR
-Ven al Pasillo Oval.
+<KEY<MSGHitz batzuk pantaila
+argiztatzen dute...<NOD<CLR<TUR
+Etorri Korridore Obalera.
                         --Kazuma<NOD<END
 #0210
-<KEY<MSG¿Flores...?<NOD<END
+<KEY<MSGLoreak...?<NOD<END
 
 #0300
 #0301
 #0303
 
 #0500
-<KEY<MSGUn teletransportador.<NOD<SLP<NOD<END
+<KEY<MSGTelegarraiagailu bat.<NOD<SLP<NOD<END
 
 #0600
 <FLJ0325:0601
-<KEY<MSG<FAC0009Bienvenido de nuevo.<NOD<CLRSue ha vuelto.<NOD
-La hemos encerrado en una
-jaula ahí fuera.<NOD
-Cuando los esbirros del
-Doctor vengan, vamos a
-intentar recuperar a
-Toroko.<NOD
-A cambio de Sue, claro.<NOD<CLRNo es que esté bien,
-ya lo sé, pero Toroko
-es una de los nuestros.<NOD
-Eso es lo que ocurre
-cuando actúas solo.<NOD<END
+<KEY<MSG<FAC0009Ongi etorri berriz.<NOD<CLRSue itzuli da.<NOD
+Hor kanpoko kaiola batean
+sartu dugu.<NOD
+Doktorearen lekaioak
+etortzean, Toroko
+berreskuratzen
+saiatuko gara.<NOD
+Sue-ren truke, noski.<NOD<CLREz da egokiena,
+badakit, baina Toroko
+gutako bat da.<NOD
+Bakarrik aritzen zarenean
+horrelakoak gertatzen dira.<NOD<END
 #0601
-<KEY<MSG<FAC0009Espero que Toroko esté 
-bien...<NOD<END
+<KEY<MSG<FAC0009Toroko ongi egotea
+espero dut...<NOD<END
 
 
 #0620
@@ -103,35 +103,35 @@ bien...<NOD<END
 <FAI0004
 <CNP0621:0113:0000
 <ANP0621:0030:0000<WAI0100
-<MSG<FAC0018Oooohh...<NOD<CLR<FAC0010¿...Estás bien?<NOD<CLO<FAC0000
+<MSG<FAC0018Oooohh...<NOD<CLR<FAC0010...Ongi zaude?<NOD<CLO<FAC0000
 <WAI0030<ANP0621:0000:0002
-<MSG<FAC0018...Mmm.<NOD<CLRMi vida pasó por
-delante de mis ojos.<NOD<CLR<FAC0010.....<NOD<CLO<FAC0000
+<MSG<FAC0018...Mmm.<NOD<CLRNire bizitza begien
+aurretik pasatu zitzaidan.<NOD<CLR<FAC0010.....<NOD<CLO<FAC0000
 <ANP0500:0000:0000<WAI0030
 <ANP0102:0000:0002<SOU0011
 <CNP0625:0042:0000
-<MSG<FAC0001¡¡Kazuma!!<NOD<ANP0622:0000:0002<CLR¡Y el Profesor Booster!<NOD<CLR<FAC0018¡Oh!<NOD<CLO<FAC0000
+<MSG<FAC0001Kazuma!!<NOD<ANP0622:0000:0002<CLREta Booster Irakaslea!<NOD<CLR<FAC0018Oh!<NOD<CLO<FAC0000
 <ANP0621:0003:0002<WAI0080
 <ANP0621:0000:0002
-<MSG<FAC0018¡¿Estáis todos bien?!<NOD<CLR<FAC0001Bueno, más o menos.<NOD<CLO<FAC0000
+<MSG<FAC0018Ongi zaudete denak?!<NOD<CLR<FAC0001Tira, gutxi gora-behera.<NOD<CLO<FAC0000
 <CNP0624:0061:0000
 <ANP0625:0003:0000<WAI0016
 <ANP0624:0008:0000<WAI0016
 <ANP0624:0000:0000
 <SOU0011<ANP0102:0000:0000<WAI0048
 <ANP0625:0000:0000
-<MSG<FAC0007.....<NOD<CLR<FAC0018¿Quién es ese Mimiga?<NOD<CLO<FAC0000
+<MSG<FAC0007.....<NOD<CLR<FAC0018Nor da Mimiga hori?<NOD<CLO<FAC0000
 <WAI0030
 <ANP0625:0000:0002<WAI0030
 <ANP0624:0000:0002<WAI0050
 <ANP0625:0000:0000<WAI0020
-<MSG<FAC0001Es King.<NOD<CLRUn amigo mío del pueblo.<NOD<CLRAquí habían antes muchos
-Mimigas.<NOD
-Sin embargo, casi todos
-ellos han sido capturados
-por los esbirros del
-Doctor.<NOD<CLRIncluso King ha
-perdido amigos...<NOD<CLO
+<MSG<FAC0001King da.<NOD<CLRNire herriko lagun bat.<NOD<CLRMimiga asko zegoen
+lehenago hemen.<NOD
+Baina ia denak
+Doktorearen lekaioek
+bahitu izan 
+dituzte.<NOD<CLRKingek ere lagunak
+galdu ditu...<NOD<CLO
 <CMU0002
 <ANP0500:0001:0000
 <CNP0301:0112:0002<WAI0100
@@ -139,100 +139,100 @@ perdido amigos...<NOD<CLO
 <MYD0002<SMC<DNP0301<FL-0157<END
 
 #0621
-<KEY<FLJ0158:0631<MSG<FAC0018Los planes del Doctor van
-justo como él había
-planeado...<NOD
-Si no hacemos algo
-pronto...<NOD<END
+<KEY<FLJ0158:0631<MSG<FAC0018Doktorearen planak
+berak pentsatu bezalaxe
+doaz...<NOD
+Zerbait egin behar dugu
+azkar...<NOD<END
 #0622
-<KEY<FLJ0158:0632<MSG<FAC0010Gracias por tu ayuda.<NOD<CLRNuestro transporte no
-sobrevivió, pero al menos
-nosotros lo hemos hecho.<NOD<END
+<KEY<FLJ0158:0632<MSG<FAC0010Eskerrik asko zure laguntzagatik.<NOD<CLRGure garraioak ez
+du biziraun, baina gutxienez
+guk lortu dugu.<NOD<END
 #0624
-<KEY<FLJ0158:0634<MSG<FAC0007Toroko como un arma
-mortal...<NOD
-¡No! ¡Nunca lo permitiré!<NOD<END
+<KEY<FLJ0158:0634<MSG<FAC0007Toroko arma hilkor
+bezala...<NOD
+No! Ez dut inoiz onartuko!<NOD<END
 #0625
 <KEY<FLJ0158:0635<MYB0000<WAI0030<MYD0000<ANP0625:0000:0002<MSG
-<FAC0001¡Bienvenido de nuevo!<NOD<CLRParece que te debo otra.<NOD
-Con la ayuda de mi hermano,<NOD
-deberíamos ser capaces de
-conseguir la contraseña
-para eclosionar ese huevo.<NOD<CLO<FAC0000
+<FAC0001Ongi etorri berriz!<NOD<CLRBeste bat zor dizudala dirudi.<NOD
+Nire anaiaren laguntzarekin,<NOD
+arraultza eklosionatzeko
+pasahitza lortu 
+beharko nuke.<NOD<CLO<FAC0000
 <ANP0625:0003:0000<WAI0008
-<ANP0625:0000:0000<MSG<FAC0001¡Booster!<NOD<CLR¿Podemos llevarnos a este
-chico cuando nos vayamos?<NOD<CLO<FAC0000
+<ANP0625:0000:0000<MSG<FAC0001Booster!<NOD<CLRAlde egitean mutil hau
+gurekin eraman dezakegu?<NOD<CLO<FAC0000
 <ANP0622:0003:0002<WAI0015
 <ANP0622:0005:0002
 <MSG<FAC0018<CMU0000.....<NOD<CLR
-<FAC0010Profesor.<NOD<CLR<FAC0001???<NOD<CLR<FAC0018Sue, querida...<NOD
-Tenemos que suspender
-nuestra huida.<NOD<CLREl Doctor ha localizado
-las flores rojas.<NOD<ANP0624:0000:0000<CLR
-<FAC0007!!!<NOD<CLR<FAC0001¿Qué?<NOD<CLR<FAC0018Sólo es cuestión de
-tiempo que las consiga.<NOD
-La localización es la
-Zona Desértica.<NOD<CLRAl parecer, las flores
-están en algún sitio de la
-Zona Desértica.<NOD<CLR
-<FAC0007¿La Zona Desértica?<NOD<CLR¿Quieres decir que allí 
-encontraremos al Doctor?<NOD<CLR<FAC0018Bueno,<NOD más bien a uno
-de sus sirvientes.<NOD
-Si no destruimos esas
-flores antes de que las
-consigan...<NOD<CLRSin embargo, la
-Zona Desértica es
-extremadamente peligrosa.<NOD
-Incluso aunque lleguemos
-a salvo,<NOD no es seguro
-que volvamos vivos...<NOD<CLR
-<FAC0007¿Estás tirando la toalla?<NOD<CLR<FAC0018En realidad...<NOD<CLRHay uno de nosotros
-que haría este trabajo
-perfectamente.<NOD<CLO<FAC0000
+<FAC0010Irakasle.<NOD<CLR<FAC0001???<NOD<CLR<FAC0018Sue, maitea...<NOD
+Gure ihesa baztertu
+beharra dugu.<NOD<CLRDoktoreak lore gorriak
+aurkitu ditu.<NOD<ANP0624:0000:0000<CLR
+<FAC0007!!!<NOD<CLR<FAC0001Zer?<NOD<CLR<FAC0018Lore horiek lortzea
+denbora kontua bakarrik da.<NOD
+Hare Eremuak kokaturik
+daude.<NOD<CLRDirudienez, loreak
+Hare Eremuko lekuren batean
+daude.<NOD<CLR
+<FAC0007Hare Eremua?<NOD<CLRDoktorea han aurkituko 
+dugula esan nahi duzu?<NOD<CLR<FAC0018Tira,<NOD bere zerbitzari
+bat ziurrenik.<NOD
+Berak lortu baino lehen
+ez baditugu lore horiek
+deusezten...<NOD<CLRHala ere, 
+Hare Eremua izugarri
+arriskutsua da.<NOD
+Salbu ailegatuta
+ere,<NOD bizirik itzuliko
+garenik ez da ziurra...<NOD<CLR
+<FAC0007Amore ematen ari zara?<NOD<CLR<FAC0018Zera da...<NOD<CLRLan hau bikainki
+egingo lukeen bat dago
+gure artean.<NOD<CLO<FAC0000
 <ANP0621:0003:0002<ANP0625:0003:0000<WAI0020
 <ANP0621:0000:0002<WAI0002<ANP0625:0000:0002
-<MSG<FAC0018Eres tú.<NOD<CLR
-<CMU0002<FAC0010¿...Quién ES él?<NOD<CLR<FAC0018De hecho...<NOD<CLRÉste es uno de los robots
-armados de reconocimiento
-que enviaron a esta isla
-hace 10 años.<NOD<CLR<FAC0010¡¿Un robot?!<NOD<CLR<FAC0018Creí que todos
-habían sido aniquilados,<ANP0621:0000:0000<NOD
-pero no estaba seguro.<NOD
-Era completamente posible
-que uno de ellos hubiese...<NOD<CLR<FAC0010Profesor.<NOD
-He conectado con la
-Zona Desértica.<NOD<CLR<FAC0018Ya veo.<NOD<CLO<FAC0000
+<MSG<FAC0018Zu zara.<NOD<CLR
+<CMU0002<FAC0010...Nor DA bera?<NOD<CLR<FAC0018Izan ere...<NOD<CLROrain dela 10 urte
+uharte hau ikuskatzera
+bidali zuten robot armadunetako
+bat da hau.<NOD<CLR<FAC0010Robot bat?!<NOD<CLR<FAC0018Denak hilda 
+zeudela uste nuen,<ANP0621:0000:0000<NOD
+baina ez nengoen ziur.<NOD
+Erabat posiblea zen
+beraietako bat...NOD<CLR<FAC0010Profesor.<NOD
+Hare Eremuarekin
+konektatu dut.<NOD<CLR<FAC0018Ya veo.<NOD<CLO<FAC0000
 <ANP0622:0003:0000<WAI0015
 <ANP0622:0000:0002
-<ANP0621:0000:0002<WAI0030<MSG<FAC0018Eres el más adecuado
-para explorar esta isla.<NOD<CLRPor favor.
-Échanos una mano.<NOD<FL+0158<PS+0003:6003<END
+<ANP0621:0000:0002<WAI0030<MSG<FAC0018Uharte hau ikertzeko
+egokiena zara.<NOD<CLRMesedez.
+Lagundu gaitzazu.<NOD<FL+0158<PS+0003:6003<END
 
 
 
 
 #0631
-<KEY<MSG<FAC0018Puedes llegar a la
-Zona Desértica usando el
-teletransportador.<NOD
-Encuentra las flores rojas
-y quémalas todas.<NOD<END
+<KEY<MSG<FAC0018Telegarraiagailua
+erabiliz Hare Eremura
+iritsi zaitezke.<NOD
+Aurkitu lore gorriak eta
+erre itzazu denak.<NOD<END
 #0632
-<KEY<MSG<FAC0010Así que eres uno de los...<NOD<CLRNo me había dado cuenta.<NOD<CLRVaya, vaya, sí que estás
-bien construido.<NOD<END
+<KEY<MSG<FAC0010Orduan horietako bat zara...<NOD<CLREz naiz ohartu.<NOD<CLRTira, tira, oso ongi
+eraiki zaituzte.<NOD<END
 #0634
-<KEY<MSG<FAC0007La Zona Desértica...<NOD<END
+<KEY<MSG<FAC0007Hare Eremua...<NOD<END
 #0635
-<KEY<MSG<FAC0001Si te deshaces de las
-flores, podremos prevenir
-la guerra por ahora.<NOD<CLREs una gran
-responsabilidad.<NOD<END
+<KEY<MSG<FAC0001Lore horiek deuseztatzen
+badituzu, oraingoz gerra
+ekidin ahalko dugu.<NOD<CLRHori ardura
+handia da.<NOD<END
 
 
 #0650
-<KEY<MSG<FAC0018Llévate a Sue contigo
-y escapad de esta isla...<NOD
-Te lo ruego...<NOD<END
+<KEY<MSG<FAC0018Eraman Sue zurekin
+eta egin uhartetik ihes...<NOD
+Arren eskatzen dizut...<NOD<END
 
 #0651
 <DNP0651<KEY<MYD0000
@@ -247,45 +247,45 @@ Te lo ruego...<NOD<END
 <MSG
 <FAC0018.....<NOD<CLO<FAC0000
 <ANP0650:0000:0002<WAI0050
-<MSG<FAC0018Sólo estás tú...<NOD<CLR...El Doctor ha adquirido
-las flores rojas.<NOD<CLR...Todos los Mimigas de
-la isla han caído en
-sus manos.<NOD<CLRLa tragedia se ha vuelto
-inevitable...<NOD<CLRAl menos debería haber
-dejado escapar a Sue
-cuando tuve la
-oportunidad...<NOD<CLO<FAC0000
+<MSG<FAC0018Zu bakarrik zaude...<NOD<CLR...Doktoreak lore gorriak
+lortu ditu.<NOD<CLR...Uharteko Mimiga 
+guztiak bere esku
+ditu orain.<NOD<CLRTragedia ezin izango
+dugu saihestu...<NOD<CLRSueri ihes egiten
+utzi behar nion
+aukera izan
+nuenean...<NOD<CLO<FAC0000
 <ANP0650:0003:0002<WAI0022
 <ANP0650:0005:0002
 <IT+0023<FL+0744<FL+0162<GIT1023
 <MSG
-Conseguiste el =Booster v2.0=.<WAI0030<NOD<CLO<GIT0000
+=Booster v2.0= lortu duzu.<WAI0030<NOD<CLO<GIT0000
 <ANP0650:0000:0002
-<MSG<FAC0018Ésta es mi última petición.<NOD<CLRSi vuelves a ver a Sue,<NOD
-quiero que escapes
-con ella de esta isla.<NOD<CLREsa chica es la hija
-de Sakamoto,<NOD
-y ella nunca quiso
-venir aquí.<NOD
-Pero no podíamos dejar
-a la niña sola,<NOD
-así que no tuvo otra
-opción que venir con
-nosotros.<NOD<CLR
-Te lo ruego.<NOD<CLREscapa de esta isla
-junto a Sue.<NOD<CLO
+<MSG<FAC0018Nire azken eskaera egingo dizut.<NOD<CLRBerriro Sue ikusten baduzu,<NOD
+uharte honetatik berekin
+ihes egin dezazun nahi dut.<NOD<CLRNeska hori Sakamotiren
+alaba da,<NOD
+eta berak ez zuen hona
+etorri nahi.<NOD
+Baina ezin genuen neskatoa
+bakarrik utzi,<NOD
+beraz ez zuen gurekin
+etortzea beste erremediorik
+izan.<NOD<CLR
+Arren eskatzen dizut.<NOD<CLREgin uhartetik ihes
+Suerekin.<NOD<CLO
 <FL-0160<FL+0161<FL+0741<PS+0004:6004<END
 
 
 #0660
-<KEY<FLJ1020:0661<MSG<FAC0018Llévate a Sue contigo
-y escapad de esta isla...<NOD
-Te lo ruego...<NOD<END
+<KEY<FLJ1020:0661<MSG<FAC0018Hartu Sue zurekin
+eta egizue uhartetik ihes...<NOD
+Arren eskatzen dizut...<NOD<END
 #0661
-<KEY<MSG<FAC0018Siento mucho todo el caos
-que ha sufrido vuestra
-isla.<NOD<CLRLos humanos tenemos toda
-la culpa.<NOD<END
+<KEY<MSG<FAC0018Zuen uharteak pairatu duen
+kaos guzti hau benetan
+sentitzen dut.<NOD<CLRGizakiok dugu erru
+guztia.<NOD<END
 
 
 #0700
@@ -293,25 +293,25 @@ la culpa.<NOD<END
 
 
 #6001
-<PRI<MSG¿Quieres ir al Pasillo Oval?<YNJ0000<CLO
+<PRI<MSGKorridore Obalera joan nahi duzu?<YNJ0000<CLO
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
 <WAI0100<FAO0004<FLJ0159:6011<TRA0002:0099:0005:0006
 #6002
-<PRI<MSG¿Quieres ir a Villavergel?<YNJ0000<CLO
+<PRI<MSGSoroherrira joan nahi duzu?<YNJ0000<CLO
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
 <WAI0100<FAO0004<TRA0006:0098:0004:0018
 #6003
-<PRI<MSG¿Quieres ir a la Zona Desértica?<YNJ0000<CLO
+<PRI<MSGHare Eremura joan nahi duzu?<YNJ0000<CLO
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
 <WAI0100<FAO0004<TRA0010:0099:0036:0033
 
 #6004
-<PRI<MSG¿Quieres ir al Laberinto?<YNJ0000<CLO
+<PRI<MSGLabirintora joan nahi duzu?<YNJ0000<CLO
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
 <WAI0100<FAO0004<TRA0043:0099:0010:0034
 
 #6005
-<PRI<MSG¿Quieres ir a la Plantación?<YNJ0000<CLO
+<PRI<MSGPlantaziora joan nahi duzu?<YNJ0000<CLO
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
 <WAI0100<FAO0004<TRA0060:0099:0009:0009
 

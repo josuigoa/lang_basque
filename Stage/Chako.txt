@@ -20,19 +20,19 @@
 
 #0200
 <ITJ0008:0202
-<KEY<MSGTras las oscilantes llamas
-divisas un agujero.<NOD<FLJ0241:0201<END
+<KEY<MSGSugarren dantzen tartetik
+zulo bat ikusten duzu.<NOD<FLJ0241:0201<END
 #0201
-<MSGLas llamas está enmedio y no
-puedes pasar...<NOD<CLO
+<MSGSugarrak daude tartean eta
+ezin zara pasatu...<NOD<CLO
 <FLJ0261:0000<WAI0030<FL+0261<FL+0263
 <ANP0300:0003:0002<WAI0045<ANP0300:0000:0002<MYD0000
-<MSGOh, ¿te gustaría pasar
-por mi hoguera?<NOD<CLRSi es así necesitarás el
-=Zumo de Medusa= que puedes
-obtener de las medusas.<NOD<END
+<MSGOh, nire sutik pasatu
+nahi zenuke?<NOD<CLRHala bada =Marmoka Zukua=
+beharko duzu, marmoketatik
+lortu beharko duzu.<NOD<END
 #0202
-<KEY<GIT1008<MSG¿Quieres usar el =Zumo de Medusa=?<YNJ0000<CLO
+<KEY<GIT1008<MSG=Marmoka Zukua= erabili nahi duzu?<YNJ0000<CLO
 <FL+0213<IT-0008
 <ANP0200:0010:0000<WAI0030<FAO0004
 <TRA0006:0099:0124:0011
@@ -41,32 +41,32 @@ obtener de las medusas.<NOD<END
 <PRI<ITJ0037:0019<FLJ0263:0211<EVE0019
 #0211
 <KEY<MSG
-¿Quieres descansar?<YNJ0000<FAO0004<CMU0000<WAI0020<CLR.....<IT+0037<NOD<CLO
+Atseden hartu nahi duzu?<YNJ0000<FAO0004<CMU0000<WAI0020<CLR.....<IT+0037<NOD<CLO
 <MNP0300:0012:0006:0000<ANP0300:0010:0000
 <WAI0050
 <LI+1000<SOU0020<MYD0002<MSG
-Salud restaurada.<NOD<CLO<RMU<FAI0004<END
+Osasuna berrezarrita.<NOD<CLO<RMU<FAI0004<END
 
 
 #0300
 <ITJ0008:0302
 <FLJ0261:0301
 <FLJ0241:0303
-<KEY<MSG¡Holaaa!<NOD<CLR¿Has conocido ya a Santa,
-el gallina miedoso?<NOD<END
+<KEY<MSGKaixooo!<NOD<CLREzagutu al duzu Santa,
+oilo beldurtia?<NOD<END
 #0301
-<KEY<MSGPara apagar las llamas
-necesitas =Zumo de Medusa=.<NOD<CLRPuedes conseguir =Zumo de Medusa=
-de las medusas.<NOD
-¡Busca al malo más grande!<NOD<END
+<KEY<MSGSugarrak itzali ahal izateko
+=Marmoka Zukua= beharko duzu.<NOD<CLR=Marmoka Zukua=
+marmoketatik lortuko duuz.<NOD
+Bila ezazu gaiztorik handiena!<NOD<END
 #0302
-<KEY<MSG¡¿Has conseguido
-=Zumo de Medusa=?!<NOD
-¡Increíble!<NOD<CLRSólo puedes llevar uno a la
-vez, pero puedes conseguir
-todos los que quieras.<NOD<END
+<KEY<MSG=Marmoka Zukua=
+lortu duzu?!<NOD
+Sinesgaitza!<NOD<CLRAldiko bakar bat
+garraia dezakezu, baina nahi
+adina lor ditzakezu.<NOD<END
 #0303
-<KEY<MSG¡Holaaa!<NOD<CLRMadre mía, esa arma que
-llevas es muy peligrosa.<NOD
-¿Eres un viajero?<NOD<END
+<KEY<MSGKaixooo!<NOD<CLRAi ama, hor duzun
+arma oso arriskutsua da.<NOD
+Bidaiaria al zara?<NOD<END
 

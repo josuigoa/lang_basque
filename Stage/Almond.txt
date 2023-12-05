@@ -21,7 +21,7 @@
 <FAO0000<TRA0046:0090:0017:0009
 
 #0101
-<KEY<MSGNo se abre...<NOD<END
+<KEY<MSGEz da irekitzen...<NOD<END
 
 #0200
 <KEY
@@ -29,8 +29,8 @@
 <FLJ0824:0203
 <FLJ0823:0202
 <FLJ0821:0201<MSG
-¿ABRIR COMPUERTA?<YNJ0000<CLR
-ABRIENDO COMPUERTA<NOD<CLO<MYD0000
+UHATEA IREKI?<YNJ0000<CLR
+UHATEA IREKITZEN<NOD<CLO<MYD0000
 <WAI0030<ANP0250:0010:0001<WAI0010<ANP0300:0001:0002
 <WAI0022<ANP0251:0010:0001<ANP0300:0003:0002
 <WAI0032<ANP0252:0010:0001
@@ -41,51 +41,51 @@ ABRIENDO COMPUERTA<NOD<CLO<MYD0000
 <ANP0253:0001:0000<WAI0032<DNP0300
 <CNP0301:0117:0000
 <ANP0301:0021:0002
-<FL-0820<FL+0821<FL+0822<MSGANORMALIDAD DETECTADA EN
-COMPUERTA NO. 4<NOD<END
+<FL-0820<FL+0821<FL+0822<MSG4. UHATEAN ANORMALTASUNA
+ANTZEMAN DA.<NOD<END
 #0201
-<KEY<MSGANORMALIDAD DETECTADA EN
-COMPUERTA NO. 4<NOD<END
+<KEY<MSG4. UHATEAN NORMALTASUNA
+ANTZEMAN DA.<NOD<END
 #0202
 <KEY<MSG
-¿BAJAR ASCENSOR?<YNJ0000<CLR<FL+0824
-BAJANDO ASCENSOR<NOD<CLO<FON0257:0016
+IGOGAILUA JAITSI?<YNJ0000<CLR<FL+0824
+IGOGAILUA JAISTEN<NOD<CLO<FON0257:0016
 <WAI0050
 <ANP0257:0010:0003<WAI0192<ANP0257:0000:0000
 <WAI0050<FOM0016
 <MSG
-ASCENSOR BAJADO<NOD<END
+IGOGAILUA JAITSITA<NOD<END
 #0203
 <KEY<MSG
-EL ASCENSOR ESTÁ BAJADO<NOD<END
+IGOGAILUA JAITSITA DAGO<NOD<END
 #0204
 <KEY<MSG
-ERROR<NOD<END
+ERROREA<NOD<END
 
 #0210
 <KEY<FLJ0830:0212<FLJ0825:0211<MSG
-¿ABRIR COMPUERTA?<YNJ0000<CLR<FL+0825
-ABRIENDO COMPUERTA<NOD<CLO<WAI0040
+UHATEA IREKI?<YNJ0000<CLR<FL+0825
+UHATEA IREKITZEN<NOD<CLO<WAI0040
 <ANP0256:0010:0001<WAI0128<DNP0256
 <MSG
-COMPUERTA ABIERTA<NOD<END
+UHATEA IREKITA<NOD<END
 #0211
 <KEY<MSG
-COMPUERTA ABIERTA<NOD<END
+UHATEA IREKITA<NOD<END
 #0212
 <KEY<MSG
-ERROR<NOD<END
+ERROREA<NOD<END
 
 #0240
-<PRI<FLJ0828:0241<MSGHay algo enrollado en el
-brazo del robot roto.<NOD<CLR¿Quieres cogerlo?<YNJ0000<CLR<GIT1030<DNP0240<IT+0030<FL+0839<CLR<CMU0010Conseguiste la
-=Cuerda de Remolque=.<WAI0160<NOD<RMU<END
+<PRI<FLJ0828:0241<MSGPuskatutako robotaren besoan
+zerbait dago bilduta.<NOD<CLRHartu nahi duzu?<YNJ0000<CLR<GIT1030<DNP0240<IT+0030<FL+0839<CLR<CMU0010=Atoi Soka=
+lortu duzu.<WAI0160<NOD<RMU<END
 #0241
 <PRI<MSG
 ...?<NOD<END
 #0242
-<PRI<MSGEstá enredado.
-No puedes aflojarlo...<NOD<END
+<PRI<MSGKorapilatuta dago.
+Ezin duzu lasaitu...<NOD<END
 
 #0250
 #0251
@@ -93,8 +93,8 @@ No puedes aflojarlo...<NOD<END
 #0253
 #0254
 #0255
-<PRI<MSGUn robot roto.<NOD
-Está severamente dañado.<NOD<END
+<PRI<MSGPuskatutako robot bat.<NOD
+Lazki hondatuta dago.<NOD<END
 
 #0256
 
@@ -102,42 +102,42 @@ Está severamente dañado.<NOD<END
 #0258
 
 #0300
-<KEY<MSG<FAC0019Qué lugar más raro, ¿eh?<NOD
-Me pregunto si esto era
-algún tipo de base.<NOD<END
+<KEY<MSG<FAC0019Leku arraroa da hau, ezta?<NOD
+Nik uste hau lehenago
+baseren bat izango zela.<NOD<END
 #0301
-<KEY<FLJ0823:0302<MSG<FAC0025Esta compuerta sólo se
-ha abierto un poco.<NOD<CLRParece que se ha
-atascado...<NOD<END
+<KEY<FLJ0823:0302<MSG<FAC0025Uhate hau apur bat
+besterik ez dago zabalik.<NOD<CLRTrabatuta dagoela
+dirudi...<NOD<END
 #0302
-<KEY<MSG<FAC0019Sólo hay compuertas y más
-compuertas.<NOD
-Toda esta seguridad me
-hace preguntarme que es
-lo que guardarán aquí.<NOD
-¿No crees?<NOD<END
+<KEY<MSG<FAC0019Uhateak eta uhateak
+besterik ez dago.<NOD
+Segurtasun hau ikusita,
+hemen zer gordetzen ote
+duten jakinmina dut.<NOD
+Zuk ez?<NOD<END
 
 
 #0304
-<PRI<MSGYo...<NOD<END
+<PRI<MSGNi...<NOD<END
 
 #0305
-<PRI<MSG¿...está inconsciente?<NOD<END
+<PRI<MSG...konorte gabe zaude?<NOD<END
 
 #0306
-<PRI<MSGNo hay respuesta...<NOD<ITJ0030:0307<END
+<PRI<MSGErantzunik ez...<NOD<ITJ0030:0307<END
 
 #0307
-<PRI<MSGNo se mueve, pero parece que
-sigue viva.<NOD<CLR<GIT1030¿Quieres usar la
-=Cuerda de Remolque=?<YNJ0000<CLO<GIT0000
+<PRI<MSGEz da mugitzen, baina bizirik
+dagoelan dirudi.<NOD<CLR<GIT1030=Atoi Soka= erabili
+nahi duzu?<YNJ0000<CLO<GIT0000
 <CNP0306:0259:0000
 <FL+0835<FL+0836<FL-0829
-<MSGConectaste la cuerda a su cuerpo.<NOD<END
+<MSGSoka bere gorputzarekin konektatu duzu.<NOD<END
 
 #0340
 <KEY<DNP0340<WAI0010<SOU0022<WAI0010
-<MSGAlgo se ha movido.<NOD<CLO<WAI0050<ANP0253:0010:0001
+<MSGZerbait mugitu ein da.<NOD<CLO<WAI0050<ANP0253:0010:0001
 <WAI0048<DNP0253
 <ANP0301:0003:0002<WAI0128
 <ANP0301:0001:0002
@@ -173,27 +173,27 @@ sigue viva.<NOD<CLR<GIT1030¿Quieres usar la
 <KEY
 <FLJ0837:0304
 <FLJ0828:0305
-<MYB0002<WAI0030<MYD0002<MSG<FAC0019Mira.<NOD<CLREs un soldado de la
-superficie.<NOD
-Está completamente
-destrozado.<NOD<CLO<FAC0000
+<MYB0002<WAI0030<MYD0002<MSG<FAC0019Begira.<NOD<CLRGainazaleko soldadu
+bat da.<NOD
+Erabat hondatuta
+dago.<NOD<CLO<FAC0000
 <FON0254:0016<ANP0450:0001:0000
 <WAI0040
-<MSG<FAC0025Esto está lleno de robots
-como él.<NOD
-Qué demonios podría...<NOD<CLRNo un Mimiga.
-No, para hacer todo este
-daño...<NOD<CLO
+<MSG<FAC0025Hau bera bezalako robotez
+beteta dago.<NOD
+Baina nola demontre egin...<NOD<CLRMimiga batek ez.
+Ez, min guzti hau egin
+ahal izateko...<NOD<CLO
 <CMU0000<ANP0255:0020:0000<WAI0020<FOM0016
 <ANP0450:0001:0002<MSG
 <FAC0025!!!<WAI0050<CLO<FAC0000
 <WAI0030<ANP0450:0001:0002<MSG
-<FAC0019¡¡Sigue vivo!!<NOD<CLR
-<FAC0024*Bzzbzbzztbz*<NOD<CLREQUIPO 9 ANIQUILADO<NOD
-MISIÓN DE ELIMINACIÓN
-FALLIDA<NOD<CLRFUERZAS ACTUALES
-INSUFICIENTES<NOD<CLRRETROCEDED<NOD
-¡¡RETROCEDED!!<NOD<CLO
+<FAC0019Bizirik dago!!<NOD<CLR
+<FAC0024*Bzzbzbzztbz*<NOD<CLR9. TALDEA SUNTSITUTA<NOD
+EZABATZE MISIOAK MISIÓN DE ELIMINACIÓN
+HUTS EGIN DU<NOD<CLRUNE HONETAN EZ
+DAGO INDAR NAHIKORIK<NOD<CLRATZERA EGIN<NOD
+ATZERA EGIN!!<NOD<CLO
 <FON0258:0016<FL+0828<FL-0824<MNP0257:0007:0018:0000
 <CMP0040:0015:0030<CMP0040:0016:0030
 <CNP0258:0184:0000
@@ -219,29 +219,29 @@ INSUFICIENTES<NOD<CLRRETROCEDED<NOD
 <ANP0410:0010:0000
 <CNP0450:0117:0004
 <WAI00100
-<MSG<FAC0019¡¿Lo conseguimos?!<WAI0100<NOD<CLO<FAC0000
+<MSG<FAC0019Lortu al dugu?!<WAI0100<NOD<CLO<FAC0000
 <FON0401:0016<CNP0400:0067:0002<WAI0050
-<MSG<FAC0026¡Hmph!<NOD<CLR¡Parece que habéis
-conseguido llegar hasta
-aquí!<NOD<CLR<FAC0019¡Tú!<NOD<CLR¡Tú eres esa bruja que
-me tiró aquí!<NOD<CLR¡Más te vale que esos
-niños estén a salvo!<NOD<CLR<FAC0016¡Ja! ¡Silencio!<NOD<CLR¡No eres su madre!<NOD
-¡¿Acaso sabéis qué sitio
-es éste?!<NOD<CLR
-<FAC0019¿Qué?<NOD<CLR<FAC0016Hmph. Por esto odio
-a los robots.<NOD<CLR¡Éste es el corazón de
-la isla!<NOD<CLR¡Si lo paráis, la isla
-caerá a la tierra!<NOD<CLR¿Es éste vuestro gran plan?<NOD<CLR¡¿Estrellaros junto a la
-isla en un ataque suicida?!<NOD<CLR¡¡Idiotas!!<NOD<CLO<FAC0000
+<MSG<FAC0026Hmph!<NOD<CLRHonaino ailegatu
+zaretela ematen
+du!<NOD<CLR<FAC0019Zu!<NOD<CLRZu zara hona bota
+ninduen sorgina!<NOD<CLRHobe duzu haur horiek
+salbu egotea!<NOD<CLR<FAC0016Ja! Ixo!<NOD<CLREz zara beraien ama!<NOD
+Horrelako lekurik ezagutzen
+al duzue?!<NOD<CLR
+<FAC0019Zer?<NOD<CLR<FAC0016Hmph. Honegatik gorroto
+ditut robotak.<NOD<CLRHau da uhartearen
+bihotza!<NOD<CLRGelditzen baduzue, uhartea
+lurrera eroriko da!<NOD<CLRHau al da zuen plan bikaina?<NOD<CLRUhartearekin eraso suizida
+batean joatea?!<NOD<CLRErgelak!!<NOD<CLO<FAC0000
 <CNP0402:0139:0000<ANP0402:0040:0000<WAI0100
 <MSG<FAC0021
-¡Hey!<NOD<CLR¿Qué estás haciendo?
-¡Trae el núcleo al
-laboratorio!<NOD<CLR¡Aún queda tiempo!<NOD<CLO<FAC0000
+Aizu!<NOD<CLRZertan ari zara?
+Ekarri nukleoa
+laborategira!<NOD<CLRGaraiz gabiltza oraindik!<NOD<CLO<FAC0000
 <ANP0400:0013:0002<WAI0050
 <CNP0400:0082:0002<WAI0020
 <ANP0400:0025:0002<FMU
-<MSG¡¡HooooooOOOOOOOOH!!<WAI0050<NOD<CLO
+<MSGHooooooOOOOOOOOH!!<WAI0050<NOD<CLO
 <BOA0600<WAI0030
 <ANP0400:0020:0002
 <ANP0402:0030:0000
@@ -254,8 +254,8 @@ laboratorio!<NOD<CLR¡Aún queda tiempo!<NOD<CLO<FAC0000
 
 #1100
 <KEY<FL-4000<FAO0004<WAI0050
-<MSGTus sentidos se debilitan,
-y el mundo se oscurece...<NOD<CLO
+<MSGZure zentzumenak ahultzen,
+eta mundua iluntzen...<NOD<CLO
 <DNP0450
 <FL+0830<FL-0825<FL+0829<FL-0827
 <FL+0800<FL+0801<FL+0372<FL+0411
@@ -265,12 +265,12 @@ y el mundo se oscurece...<NOD<CLO
 
 #1101
 <WAI0150
-<KEY<MS2¿Sabías que la bruja Jenka
-una vez tuvo un hermano?<NOD
-Su nombre era Ballos.<NOD
-Al igual que su hermana, poseía
-poderes más allá de lo que
-cualquier humano comprendería...<NOD<CLO<EVE1110
+<KEY<MS2Ba al dakizu Jenka sorginak
+nozbait anaia bat izan zuela?<NOD
+Ballos zuen izena.<NOD
+Arrebaren antzera, edozein
+gizakiren ulermenetik haratago
+zeuden botereak zituen...<NOD<CLO<EVE1110
 
 #1110
 <CNP0306:0117:0002
@@ -278,8 +278,8 @@ cualquier humano comprendería...<NOD<CLO<EVE1110
 <ANP0258:0010:0001<WAI0096<ANP0258:0001:0000
 <WAI0050
 <MOV0055:0018
-<DNA0183<IT+0021<EQ+0016<MSG¿......?<NOD<CLR
-...Puedes respirar.<NOD<FAI0004<WAI0050<END
+<DNA0183<IT+0021<EQ+0016<MSG......?<NOD<CLR
+...Arnasa har dezakezu.<NOD<FAI0004<WAI0050<END
 
 
 #1200

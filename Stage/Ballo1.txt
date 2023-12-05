@@ -26,29 +26,29 @@
 
 #0500
 <DNP0500<MYD0002
-<KEY<MSGBienvenido.<NOD<CLR
-<FAC0029Soy Ballos.<NOD<CLRHace muchos años,
-temiendo que la tortura
-pudiese empeorar,<NOD<CLRpermití que mi magia
-se descontrolase...<NOD<CLRLa magia se volvió tan
-poderosa que ni su
-propio amo podía
-controlarla.<NOD<CLRObservando, incapaz de
-controlar mi furia,<NOD<CLRpude ver cómo me
-apartaba de mis seres
-queridos, mis hijos,<NOD
-mi querida mujer...<NOD<CLRSus gritos de agonía
-se oían a través de
-las llamas.<NOD<CLRNo podía hacer nada,
-así que me limité a
-observar la tragedia...<NOD<CLRRiendo...<NOD<CLRJenka me selló aquí,
-pero mi magia sigue
-descontrolada.<NOD<CLRHe esperado durante mucho
-tiempo...<NOD<CLREsperado a aquel que
-pueda poner fin a la
-furia de mi magia...<NOD<CLRY ahora, ¡mátame!<NOD
-O yo...<NOD ¡¡Tendré que
-matarte a TI!!<NOD<CLO
+<KEY<MSGOngi etorri.<NOD<CLR
+<FAC0029Ballos naiz.<NOD<CLROrain dela urte asko,
+tortura okerrera joango
+zenaren beldurrez,<NOD<CLRnire magiaren kontrola
+galtzen ausartu nintzen...<NOD<CLRMagia hain bihurtu
+zen boteretsua,
+bere jabea zenak ere ezin
+zuela kontrolatu.<NOD<CLRBehatuz, nire sumina ezin
+kontrolatuz,<NOD<CLRmaite nituen pertsonengandik
+baztetzen ninduela ikusi ahal
+izan nuen, nire semeak,<NOD
+nire emazte maitea...<NOD<CLRSugarren artetik
+beraien oinaze oihuak
+entzuten nituen.<NOD<CLREzin nuen ezer egin,
+tragedia hori ikusi
+besterik ez...<NOD<CLRBarrez...<NOD<CLRJenkak hemen itxi
+ninduen, baina magiak
+deskontrolatuta darrai.<NOD<CLRDenbora luzez egon naiz
+zain...<NOD<CLRNire magiaren suminarekin
+bukatuko duena noiz
+etorriko zain...<NOD<CLREta orain, hil nazazu!<NOD
+Edo nik...<NOD ...hil beharko
+zaitut ZU!!<NOD<CLO
 <CMU0004
 <ANP0402:0100:0900<FON0402:0016
 <BSL0900<ANP0900:0010:0000<END

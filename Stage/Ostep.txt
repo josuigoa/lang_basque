@@ -26,11 +26,11 @@
 
 #0900
 <DNP0900
-<KEY<MYD0002<MSGPor favor, mata a mi amo.<NOD
-Es la única manera para que
-Misery pueda ser libre...<NOD
-...La única forma de evitar
-la repetición de esta tragedia.<NOD<CLREl nombre de mi maestro es Ballos.<NOD<CLRSus poderes mágicos se han
-descontrolado, y ahora ni siquiera
-él puede morir...<NOD<ANP0201:0010:0000<FL+1620<END
+<KEY<MYD0002<MSGMesedez, hil nire nagusia.<NOD
+Misery askatzeko modu
+bakarra da...<NOD
+...Tragedia hau ez
+errepikatzeko modu bakarra da.<NOD<CLRNire nagusiaren izena Ballos da.<NOD<CLRBere botere magikoak
+deskontrolatu egin dira, eta orain
+ezin da hil...<NOD<ANP0201:0010:0000<FL+1620<END
 

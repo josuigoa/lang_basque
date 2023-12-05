@@ -17,6 +17,6 @@
 <PRI<FAO0001<TRA0039:0091:0004:0016
 
 #0200
-<PRI<MSGEs un robot.
-O al menos lo que queda de él.<NOD<END
+<PRI<MSGRobot bat da.
+Gelditzen dena behintzat.<NOD<END
 

@@ -15,13 +15,13 @@
 
 #0200
 <KEY<FLJ1042:0201
-<MSGNo se abre...<NOD<END
+<MSGEz da irekitzen...<NOD<END
 #0201
 <KEY<FLJ1700:0202<FL+1700<SOU0022<CNP0200:0021:0000
-<MSGHas abierto el cofre.<NOD<GIT1022<IT+0022<CLR<CMU0010¡Conseguiste el
-=Cronómetro Nikumaru=!<WAI0160<NOD<RMU<EVE0202
+<MSGKutxa ireki duzu.<NOD<GIT1022<IT+0022<CLR<CMU0010=Nikumaru Kronometroa=
+lortu duzu!<WAI0160<NOD<RMU<EVE0202
 #0202
-<KEY<MSGAquí hay algo escrito...<NOD<CLR<TUREste objeto es un tributo a tu
-determinación. ¡Gloria a todos los
-competidores entusiastas!<NOD<END
+<KEY<MSGZerbait dago hemen idatzita...<NOD<CLR<TURZure irmotasuna omentzeko
+objektua da hau. Biba lehiakide
+gogotsuak!<NOD<END
 

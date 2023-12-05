@@ -111,40 +111,40 @@
 #0390
 <PRI<FLJ1551:0001<FL+1551
 <SOU0022<CNP0390:0021:0000
-<MSGHas abierto el cofre.<NOD<CLR<EVE0400
+<MSGKutxa ireki duzu.<NOD<CLR<EVE0400
 #0400
 <PRI<FLJ0202:0402<FLJ0201:0401<FL+0201<GIT0005<AM+0005:0100
-<CMU0010¡Conseguiste el =Lanzamisiles=!<WAI0160<NOD<RMU<CLREl Lanzamisiles es un arma
-poderosa, pero su munición es
-limitada.<NOD<CLRPuedes recargar su munición con
-objetos soltados por los enemigos.<NOD<END
+<CMU0010=Misil-jaurtigailua= lortu duzu!<WAI0160<NOD<RMU<CLRMisil-jaurtigailua arma
+boteretsua da, baina munizio
+mugatua du.<NOD<CLRArerioek askatutako objektuekin
+berrezarri dezakezu munizioa.<NOD<END
 #0401
-<PRI<AM+0005:0032<MSG<GIT0006¡Misiles máximos +<NUM0000!<NOD<END
+<PRI<AM+0005:0032<MSG<GIT0006Misil maximoak +<NUM0000!<NOD<END
 #0402
-<PRI<AM+0010:0024<MSG<GIT0011¡Misiles máximos +<NUM0000!<NOD<END
+<PRI<AM+0010:0024<MSG<GIT0011Misil maximoak +<NUM0000!<NOD<END
 
 
 #0900
 <DNP0900<SKJ0024:0000<SK+0024
-<PRI<MS3Jenka, consciente de la locura
-de su hermano, lo confinó en
-esta isla flotante.<NOD
-Era lo máximo que podía hacer.<NOD
-Incluso en su estado, no podría
-perdonarse el matar a su propio
-hermano...<NOD<END
+<PRI<MS3Jenka, bere anaiaren zoramenaren
+jakitun, uharte flotagarri
+honetan konfinatu zuen.<NOD
+Egin zezakeen guztia zen.<NOD
+Bere egoeran ere, ezin izango 
+zion bere buruari barkatu anaia
+hil izana...<NOD<END
 
 #0901
 <DNP0901<SKJ0025:0000<SK+0025
-<PRI<MS3Fue la hija de Jenka, Misery,
-la que le pidió a Ballos que
-creara la =Corona Demoníaca=.<NOD
-No tardó en ser maldecida por
-la corona, forzada a obedecer
-a aquel que la posea.<NOD
-Si la corona es destruida,
-el hechizo se deshace.<NOD<CLR
-Sin embargo...<NOD<END
+<PRI<MS3Jenkaren alaba izan zen, Misery,
+Ballosi =Deabru Koroa= sortzeko
+eskatu ziona.<NOD
+Berehala etorri zitzaion koroaren
+madarikazioa, gainean daraman edonork
+bere eginduak bete behar izatea.<NOD
+Koroa suntsituz gero,
+sorginkeria desegingo da.<NOD<CLR
+Baina...<NOD<END
 
 
 #1000

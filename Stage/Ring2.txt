@@ -38,22 +38,22 @@
 <KEY
 <FLJ1272:0204
 <FLJ1270:0202
-<FLJ1271:0201<MSGOh, eres el Sr. Viajero.<NOD<FLJ1020:0205<CLR¿Has venido a rescatarme?<NOD<END
+<FLJ1271:0201<MSGOh, Bidaiari Jauna zara.<NOD<FLJ1020:0205<CLRNi salbatzera etorri zara?<NOD<END
 #0201
-<PRI<MSG¡Puedes hacerlo!<NOD<END
+<PRI<MSGEgin dezakezu!<NOD<END
 #0202
-<KEY<MSG¡Lo has conseguido!<NOD<CLRMe siento como una princesa.<NOD<CLR
-¿Sue?<NOD<CLROooh, la conozco.<NOD
-Esa chica se parece a un Mimiga,
-pero en realidad es humana,
-¿verdad?<NOD
-Mis ojos no pueden ser engañados.<NOD
-De todas formas, ella no está aquí.<NOD<CLO
+<KEY<MSGLortu duzu!<NOD<CLRPrintzesa bat bezala sentitzen naiz.<NOD<CLR
+Sue?<NOD<CLROooh, ezagutzen dut.<NOD
+Neska horrek Mimiga baten antza du,
+baina benetan gizakia da,
+ezta?<NOD
+Nire begiak ezin dira engainatu.<NOD
+Edonola ere, bera ez dago hemen.<NOD<CLO
 <FL+1272<END
 #0203
 #0204
-<KEY<MSG¡Eres muy fuerte!<NOD
-Casi como el gran guerrero Arthur.<NOD<FLJ1274:0000<FL+1274<CLR¡Jee-jee!...<NOD<CLO
+<KEY<MSGOso indartsua zara!<NOD
+Ia Arthur gerlari handia adina.<NOD<FLJ1274:0000<FL+1274<CLRJee-jee!...<NOD<CLO
 <ANP0250:0010:0005
 <ANP0251:0010:0005
 <ANP0252:0010:0005
@@ -62,34 +62,34 @@ Casi como el gran guerrero Arthur.<NOD<FLJ1274:0000<FL+1274<CLR¡Jee-jee!...<NOD
 <ANP0255:0010:0005
 <END
 #0205
-<KEY<MSGNo me importa lo que parezcas,
-no puedes engañarme.<NOD<END
+<KEY<MSGEz zait inporta zer dirudizun,
+ezin nauzu engainatu.<NOD<END
 
 #0210
 <PRI<FLJ1270:0212
 <FLJ1271:0211
-<MSGEl Doctor nos tiene miedo.<NOD
-Por eso nos ha enjaulado.<NOD
-Estoy segura de ello.<NOD<END
+<MSGDoktorea gure beldur da.<NOD
+Horregatik sartu gaitu kaiolan.<NOD
+Ziur nago.<NOD<END
 #0211
-<PRI<MSGTienes unas prioridades bastante
-interesantes.<NOD<END
+<PRI<MSGLehentasun nahiko interesgarriak
+dituzu.<NOD<END
 #0212
-<PRI<MSG¡Ha sido impresionante!<NOD<END
+<PRI<MSGHarrigarria izan da!<NOD<END
 
 #0220
 <PRI<FLJ1270:0222
 <FLJ1271:0221
-<MSGOh hey,<NOD tú eres ese...<NOD<END
+<MSGOh hey,<NOD zu zara...<NOD<END
 #0221
 <PRI<MSG
-¡Cuidado! ¡Detrás de ti!<NOD<END
+Kontuz! Zure atzean!<NOD<END
 #0222
-<KEY<MSG¿Te acuerdas de mí?<NOD
-¿De Villavergel? El tipo que perdió su llave...<NOD<FLJ1020:0223<CLRBueno, da igual...<NOD<CLREse Doctor no tenía ninguna
-oportunidad, a que no.<NOD<END
+<KEY<MSGGogoratzen nauzu?<NOD
+Soroherrikoa? Bere giltza galdu zuena...<NOD<FLJ1020:0223<CLRTira, ez dio axola...<NOD<CLRDoktore horrek ez du
+inongo aukerarik, ezetz.<NOD<END
 #0223
-<KEY<MSG¡¿Por qué pareces un Mimiga?!<NOD<END
+<KEY<MSGZergatik dirudizu Mimiga bat?!<NOD<END
 
 #0250
 #0251
@@ -103,8 +103,8 @@ oportunidad, a que no.<NOD<END
 
 #0410
 <KEY<FON0410:0016<ANP0410:0500:0004<WAI0050
-<CMU0000<MS3¡Gyaaahhh!<MYB0410<NOD<CLREl...<WAI0020el poder...<WAI0020<CLR
-¡¡¡No puedo controlarlo!!!<NOD<CLO
+<CMU0000<MS3Gyaaahhh!<MYB0410<NOD<CLRBot...<WAI0020boterea...<WAI0020<CLR
+zin dut kontrolatu!!!<NOD<CLO
 <WAI0050<CNP0420:0267:0004<WAI0100
 <FOM0016
 <ANP0420:0007:0004<BSL0420<DNP0410<FL-1270<CMU0031<END
@@ -112,10 +112,10 @@ oportunidad, a que no.<NOD<END
 #0420
 <KEY<FON0420:0016<FL+1270
 <ANP0420:0500:0004<WAI0100
-<MS3¡¡Aaaiiggghh!!<MYB0420<NOD<CLO
+<MS3Aaaiiggghh!!<MYB0420<NOD<CLO
 <ANP0420:0510:0004<WAI0450<CMU0015
 <FOM0016<ANP0420:0520:0000<MS3
-¡Derrotaste al Doctor!<WAI0140<NOD<CMU0000<CLO
+Doktorea garaitu duzu!<WAI0140<NOD<CMU0000<CLO
 <FON0450:0016<WAI0050
 <CMP0003:0009:0021<SOU0012<WAI0020
 <CMP0003:0006:0021<SOU0012<WAI0020
@@ -134,28 +134,28 @@ oportunidad, a que no.<NOD<END
 <CMU0017<MYD0002
 <CMP0003:0013:0021
 <MS3<FAC0021<ANP0400:0010:0000Mua-ja-ja...<NOD<CLR
-Al fin está completo.<NOD<CLO<FAC0000
+Azkenean osatu da.<NOD<CLO<FAC0000
 <WAI0020<ANP0400:0020:0000<WAI0030
-<MS3<FAC0021Suministrar flores rojas a
-un Mimiga le provoca una
-furia violenta...<NOD<CLRLa razón para esto es
-muy simple.<NOD<CLRLas flores no sólo
-contienen una sustancia
-que saca los poderes<NOD
-latentes del que las
-consume,<NOD<CLRtambién destruye su
-capacidad de razonamiento.<NOD<CLREs esto lo que he
-extraído con éxito y
-he concentrado.<NOD<CLRLo puedes ver en la forma
+<MS3<FAC0021Mimiga bati lore gorriak
+emanda, oldarraldi basati
+bat sortzen dio...<NOD<CLRHorretarako arrazoia oso
+sinplea da.<NOD<CLRLore horiek,
+hartzen dituztenen
+botere ezkutuak<NOD
+ateratzeko substantziak
+izateaz gain,<NOD<CLRberaien arrazonamendu
+gaitasuna kentzen die.<NOD<CLRHori erauzi eta
+konzentratzea lortu
+dut azkenean.<NOD<CLRLo puedes ver en la forma
 de este...<NOD<CLO<FAC0000
 <WAI0020<DNP0401<ANP0400:0040:0000<WAI0020
-<MS3<FAC0021...Cristal Rojo.<WAI0030<NOD<CLRY al contrario que las
-flores,<NOD este Cristal
-afecta también a los
-humanos.<NOD<CLR<ANP0400:0050:0000Jo-jo-jo...<NOD<CLR¡Es maravilloso!<NOD<CLR¿Comprendes ahora su
-esplendor?
-¡¿Lo comprendes?!<NOD<CLR¡Dudo que lo hagas!<NOD<CLRAsí que permíteme
-explicarlo...<NOD<CLR¡¡En una prueba real!!<NOD<CLO
+<MS3<FAC0021...Kristal gorria.<WAI0030<NOD<CLREta loreek egiten dutenen
+ordez,<NOD Kristal honek
+gizakiei ere eragiten
+die.<NOD<CLR<ANP0400:0050:0000Jo-jo-jo...<NOD<CLRZoragarria da!<NOD<CLRUlertzen duzu orain bere
+fama?
+Ulertzen duzu?!<NOD<CLREz dut uste!<NOD<CLRUtzidazu
+azaltzen...<NOD<CLRProba erreala da hau!!<NOD<CLO
 <CNP0410:0263:0000<WAI0005
 <ANP0410:0002:0000<WAI0050
 <CMP0003:0013:0021<DNP0400

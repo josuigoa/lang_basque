@@ -29,56 +29,56 @@
 
 #0200
 <FLJ0327:0201
-<KEY<MSG<FAC0007La llave de la Casa de
-Arthur...<NOD
-Creo que hay al menos otra.<NOD
-Maldita Toroko, actuando
-como si no lo supieras...
-<NOD<CLRBueno, quizá Jack sepa
-dónde encontrarla...<NOD<END
+<KEY<MSG<FAC0007Arthuren etxeko
+giltza...<NOD
+Gutxienez beste bat dagoela uste dut.<NOD
+Toroko madarikatua, ez bazeneki
+bezala jokatzen...
+<NOD<CLRTira, beharbada Jackek
+badaki non aurkitu...<NOD<END
 #0201
 <KEY<MSG<FAC0007Toroko...
-No me lo puedo creer...<NOD
-El hermano mayor de Toroko,
-Arthur, era un guerrero
-fabuloso.<NOD
-Pero fue asesinado por uno
-de los esbirros del Doctor.<NOD
-Y ahora, yo... Yo no he
-podido protegerla.<NOD<END
+Ezin dut sinetsi...<NOD
+Torokoren anaia nagusia,
+Arthur, gerlari zoragarria
+zen.<NOD
+Baina Doktorearen lekaio
+batek erail zuen.<NOD
+Eta orain nik... Nik ezin
+izan dut babestu.<NOD<END
 
 #0210
-<KEY<MSG<FAC0009Hay dos llaves de la
-Casa de Arthur.<NOD
-Toroko tiene una.<NOD
-La otra está escondida en
-el cementerio Mimiga.<NOD<END
+<KEY<MSG<FAC0009Arthuren etxeko bi
+giltza daude.<NOD
+Torokok dauka bat.<NOD
+Bestea Mimiga hilerrian
+dago ezkutatuta.<NOD<END
 
 #0220
-<KEY<MSG<FAC0009Arthur, el hermano de
-Toroko, luchó contra un
-monstruo rojo horrible...<NOD<CLREl terrorífico demonio de
-esta isla que se alimenta
-de Mimigas.<NOD<CLRNo es el Doctor, es...
-Otra cosa.<NOD
-Ese demonio ha vivido en
-esta isla durante siglos.<NOD<CLRVino aquí, a nuestro
-pueblo,<NOD pero Arthur lo
-derrotó él solo.<NOD
-Su galante figura
-defendiendo nuestro pueblo
-sin ayuda alguna...<NOD<CLRNunca lo olvidaré.<NOD<CLRPuede que el Doctor lo
-haya matado, pero fue
-un verdadero héroe.<NOD<END
+<KEY<MSG<FAC0009Arthur, Torokoren anaia,
+munstro gorri izugarri
+baten aurka borrokatu zen...<NOD<CLRMimigez elikatzen den
+uharteko deabru
+beldurgarria.<NOD<CLREz da Doktorea, beste...
+Beste gauza bat da.<NOD
+Deabru mendeak daramatza
+uharte honetan.<NOD<CLRHona etorri zen, gure
+herrira,<NOD baina Arthurek
+bakarrik garaitu zuen.<NOD
+Bere itxura dotorearekin
+inongo laguntzrik gabe
+gure herria defendatzen...<NOD<CLREz dut inoiz ahanztuko.<NOD<CLRBaliteke Doktoreak
+hil egin izatea, baina
+heroi handi bat izan zen.<NOD<END
 
 #0300
 <ITJ0008:0301
-<KEY<MSG*Crujido* *¡Clac!*<NOD<FLJ0442:0000<CLRVes algo tras las llamas.<NOD<END
+<KEY<MSG*Crujido* *Klak!*<NOD<FLJ0442:0000<CLRSugar artean zerbait ikusten duzu.<NOD<END
 #0301
-<KEY<GIT1008<MSG¿Quieres usar el =Zumo de Medusa=?<YNJ0000<CLO<GIT0000
+<KEY<GIT1008<MSG=Marmoka Zukua= erabili nahi duzu?<YNJ0000<CLO<GIT0000
 <IT-0008<ANP0300:0010:0000<WAI0030<FLJ0442:0302<FL+0442
-<MSGEncuentras algo en las cenizas...<NOD<CLR<GIT0007<AM+0007:0100
-<CMU0010¡Has conseguido la =Burbuja=!<WAI0160<NOD<CLO<RMU<DNP0300<END
+<MSGErrauts artean zerbait aurkitu duzu...<NOD<CLR<GIT0007<AM+0007:0100
+<CMU0010=Burbuila= lortu duzu!<WAI0160<NOD<CLO<RMU<DNP0300<END
 #0302
 <KEY<DNP0300<END
 

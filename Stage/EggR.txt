@@ -30,53 +30,53 @@ ser capaz de desactivar el escudo...<NOD<END
 #0500
 
 #0501
-<PRI<MS3<TURHuevo de Dragón Celeste No. 01
+<PRI<MS3<TURDragoi Zerutiarraren 01 arraultza
 Error: Condiciones del huevo anormales.
 Se recomienda investigación.<NOD<END
 #0502
-<PRI<MS3<TURHuevo de Dragón Celeste No. 02
+<PRI<MS3<TURDragoi Zerutiarraren 02 arraultza
 Condiciones normales.<NOD<END
 #0503
-<PRI<MS3<TURHuevo de Dragón Celeste No. 03
+<PRI<MS3<TURDragoi Zerutiarraren 03 arraultza
 Condiciones normales.<NOD<END
 #0504
-<PRI<MS3<TURHuevo de Dragón Celeste No. 04
+<PRI<MS3<TURDragoi Zerutiarraren 04 arraultza
 Condiciones normales.<NOD<END
 #0505
-<PRI<MS3<TURHuevo de Dragón Celeste No. 05
+<PRI<MS3<TURDragoi Zerutiarraren 05 arraultza
 Condiciones normales.<NOD<END
 #0506
-<PRI<MS3<TURHuevo de Dragón Celeste No. 06
+<PRI<MS3<TURDragoi Zerutiarraren 06 arraultza
 Error: Condiciones del huevo anormales.
 Se recomienda investigación.<NOD<END
 #0507
-<PRI<MS3<TURHuevo de Dragón Celeste No. 07
+<PRI<MS3<TURDragoi Zerutiarraren 07 arraultza
 Condiciones normales.<NOD<END
 #0508
-<PRI<MSG<TURHuevo de Dragón Celeste No. 08
+<PRI<MSG<TURDragoi Zerutiarraren 08 arraultza
 Condiciones normales.<NOD<END
 #0509
-<PRI<MSG<TURHuevo de Dragón Celeste No. 09
+<PRI<MSG<TURDragoi Zerutiarraren 09 arraultza
 Condiciones normales.<NOD<END
 #0510
-<PRI<MSG<TURHuevo de Dragón Celeste No. 10
+<PRI<MSG<TURDragoi Zerutiarraren 10 arraultza
 Condiciones normales.<NOD<END
 #0511
-<PRI<MSG<TURHuevo de Dragón Celeste No. 11
+<PRI<MSG<TURDragoi Zerutiarraren 11 arraultza
 Condiciones normales.<NOD<END
 #0512
-<PRI<MSG<TURHuevo de Dragón Celeste No. 12
+<PRI<MSG<TURDragoi Zerutiarraren 12 arraultza
 Condiciones normales.<NOD<END
 #0513
-<PRI<MSG<TURHuevo de Dragón Celeste No. 13
+<PRI<MSG<TURDragoi Zerutiarraren 13 arraultza
 Condiciones normales.<NOD<END
 #0514
-<PRI<MSG<TURHuevo de Dragón Celeste No. 14
+<PRI<MSG<TURDragoi Zerutiarraren 14 arraultza
 Condiciones normales.<NOD<END
 #0515
-<PRI<MSG<TURHuevo de Dragón Celeste No. 15
+<PRI<MSG<TURDragoi Zerutiarraren 15 arraultza
 Condiciones normales.<NOD<END
 #0516
-<PRI<MSG<TURHuevo de Dragón Celeste No. 16
+<PRI<MSG<TURDragoi Zerutiarraren 16 arraultza
 Condiciones normales.<NOD<END
 

@@ -52,17 +52,17 @@
 <PRI<FAO0001<MYD0002<TRA0065:0091:0003:0012
 
 #0400
-<KEY<FON0400:0016<ANP0400:1000:0005<MSG¡Gaahhh!<NOD<CLO
+<KEY<FON0400:0016<ANP0400:1000:0005<MSGGaahhh!<NOD<CLO
 <ANP0400:1010:0005<WAI0100
 <FLJ1020:0401
-<MSG<FAC0026¡Ergh...!<NOD<CLO<FAC0000<EVE0402
+<MSG<FAC0026Ergh...!<NOD<CLO<FAC0000<EVE0402
 #0401
-<MSG<FAC0026¡Tú...!<NOD<CLO<FAC0000<EVE0402
+<MSG<FAC0026Zuk...!<NOD<CLO<FAC0000<EVE0402
 #0402
 <CNP0400:0082:0005<WAI0010
 <ANP0400:0020:0005<WAI0150<CMU0015
 <FOM0016<MSG
-¡Derrotaste a Misery!<WAI0140<NOD<CLO
+Misery garaitu duzu!<WAI0140<NOD<CLO
 <FON0410:0016<WAI0050
 <CMP0002:0001:0021<SOU0012<WAI0020
 <CMP0003:0003:0021<SOU0012<WAI0020
@@ -82,19 +82,19 @@
 <KEY<DNP0500<MYD0002
 <CMP0000:0010:0021
 <CMP0000:0011:0021
-<MSG<FAC0016Tú otra vez.<NOD<CLO<FAC0000
+<MSG<FAC0016Berriro zu.<NOD<CLO<FAC0000
 <ANP0400:0020:0000<WAI0060
-<MSG<FAC0015Tengo que admitir que
-eres duro de pelar.<NOD<CLRSupongo que estás aquí 
-para destruir el núcleo.<NOD<CLRTe consideré un simple
-robot fuera de control,<NOD<CLRpero veo que te he
-subestimado.<NOD<CLR
-.....<NOD<CLRDeberías saber que no
-le tengo nada de afecto
-a esta isla.<NOD<CLRSólo es que mi destino
-es obedecer a aquel que
-lleva la Corona.<NOD<CLR
-<FAC0016¡¡Prepárate a morir!!<NOD<CLR
+<MSG<FAC0015Benetan gogorra zarela
+onartu behar dut.<NOD<CLRNukleoa deusezteko etorri
+zarela pentsatzen dut.<NOD<CLRKontrolik gabeko robot
+bat zinela uste nuen,<NOD<CLRbaina gutxietsi 
+egin zaitut.<NOD<CLR
+.....<NOD<CLRJakin ezazu uharte
+honi ez diodala 
+inongo estimurik.<NOD<CLRBaina nire patua
+Koroa daramanaren aginduak
+jarraitzea da.<NOD<CLR
+<FAC0016Prestatu hiltzeko!!<NOD<CLR
 <BSL0400
 <ANP0400:0100:0000<CMU0007<END
 
@@ -102,11 +102,11 @@ lleva la Corona.<NOD<CLR
 <KEY<DNP0500<MYD0002
 <CMP0000:0010:0021
 <CMP0000:0011:0021
-<MSG<FAC0016Jee-jee-jee...<NOD<CLRVaya, pareces un poco
-raro...<NOD<CLO<FAC0000
+<MSG<FAC0016Jee-jee-jee...<NOD<CLRTira, arraro ikusten 
+zaitut...<NOD<CLO<FAC0000
 <ANP0400:0020:0000<WAI0060
-<MSG<FAC0015Bueno, da igual.<NOD
-Sólo me aburría un poco.<NOD<CLR<FAC0016Veamos de qué estas hecho.<NOD<CLR
+<MSG<FAC0015Tira, berdin dio.<NOD
+Pixka bat aspertuta nengoen.<NOD<CLR<FAC0016Ikus dezagun zerez eginda zauden.<NOD<CLR
 <BSL0400
 <ANP0400:0100:0000<CMU0007<END
 

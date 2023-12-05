@@ -24,104 +24,104 @@
 <KEY<FAO0004<TRA0039:0094:0091:0012
 
 #0200
-<KEY<MSGEl robot misterioso,
-Monstruo X...<NOD
-Tu oportunidad para atacar
-es cuando su coraza se abre.<NOD<END
+<KEY<MSGRobot misteriotsua,
+X Munstora...<NOD
+Koraza irekitzen zaion unea
+da zure erasotzeko aukera.<NOD<END
 
 
 #0300
-<KEY<MSGSoy un médico.<NOD
-Por favor, déjame curarte.<NOD<CLO<LI+1000<SOU0020
+<KEY<MSGMedikua naiz.<NOD
+Mesedez, utzi sendatzen.<NOD<CLO<LI+1000<SOU0020
 <FLJ0704:0304
 <FLJ0702:0303
 <ITJ0016:0302
 <FLJ0700:0301<FL+0700<WAI0050
-<MSGNo, no, no te cobraré, tranquilo.<NOD<CLRSin embargo, a cambio hay algo
-que me gustaría pedirte.<NOD<CLRHay una vieja clínica cerca de
-aquí.<NOD
-Ve a ver si hay alguna
-medicina por allí.<NOD<CLR<GIT1017<IT+0017Conseguiste la
-=Llave de la Clínica=.<NOD<GIT0000<END
+<MSGEz, ez, ez dizut kobratuko, lasai.<NOD<CLRHala ere, gauza bat eskatu
+nahi nizuke trukean.<NOD<CLRHemendik hurbil klinika zahar
+bat dago.<NOD
+Joan eta begiratu ea
+botikarik dagoen.<NOD<CLR<GIT1017<IT+0017=Klinikako Giltza=
+lortu duzu.<NOD<GIT0000<END
 #0301
-<KEY<MSGLa clínica no está lejos.<NOD
-Ve y busca alguna medicina que
-parezca usable.<NOD<END
+<KEY<MSGKlinika ez dago urrun.<NOD
+Joan eta bilatu erabilgarriak
+diruditen botikak.<NOD<END
 #0302
 <KEY<MSG<IT-0016<FL+0702
-<GIT1016Entregaste el =Curatodo=.<NOD<CLR<GIT0000¡Oh, lo has encontrado!<NOD
-Muchas gracias.<NOD
-Ahora déjame ocuparme del resto.<NOD<END
+<GIT1016=Denasenda= eman duzu.<NOD<CLR<GIT0000Oh, aurkitu duzu!<NOD
+Eskerrik asko.<NOD
+Orain utzi gainotzekoa nire esku.<NOD<END
 #0303
-<KEY<MSGMuchas gracias.<NOD
-Ahora déjame ocuparme del resto.<NOD<END
+<KEY<MSGEskerrik asko.<NOD
+Orain utzi gainotzekoa nire esku.<NOD<END
 #0304
-<KEY<MSGParece que la medicina funciona.<NOD
-Estará de vuelta en acción
-dentro de poco.<NOD
-Todo gracias a ti, por supuesto.<NOD<END
+<KEY<MSGBotikak funtzionatzen duela dirudi.<NOD
+Hemendik gutxira prest
+egongo da berriro.<NOD
+Dena zuri esker, noski.<NOD<END
 
 #0310
 <FLJ0704:0313
 <FLJ0702:0312
 <FLJ0701:0311
-<KEY<MSGSoy una enfermera.<NOD
-Antes trabajaba en la vieja
-clínica que hay cerca de aquí,<NOD
-pero fue invadida por fantasmas
-y me vine aquí.<NOD<END
+<KEY<MSGErizaina naiz.<NOD
+Hemendik hurbil dagoen
+klinikan egiten nuen lan,<NOD
+baina mamuz bete zen eta
+hona etorri nintzen.<NOD<END
 #0311
-<KEY<MSG¿Eres un amigo suyo?<NOD
-Si ella te importa, te
-recomendaría hacer lo que
-el médico te diga.<NOD<END
+<KEY<MSGBere laguna zara?<NOD
+Arduratuta bazaude, medikuak
+esandakoa egiteko
+gomendatuko nizuke.<NOD<END
 #0312
-<KEY<MSGBuen trabajo.<NOD
-¿No viste a ningún fantasma,
-verdad?<NOD<END
+<KEY<MSGLan ona.<NOD
+Ez duzu inongo mamurik ikusi,
+ezta?<NOD<END
 #0313
-<KEY<MSGOh, ¿has venido a ver a
-esa chica?<NOD<CLRSe acaba de ir a la
-"Cámara de la Roca".<NOD<END
+<KEY<MSGOh, neska hori ikustera
+etorri zara?<NOD<CLR"Harkaitz Ganbera"ra
+joan berri da.<NOD<END
 
 #0320
 <FLJ0702:0322
 <FLJ0701:0321<FL+0701
-<KEY<MSG<FAC0019¡Oh, hey!<NOD<CLRHace mucho que no nos
-vemos.<NOD
-¡Tienes buen aspecto!<NOD<CLREsa bruja te ha tirado
-aquí también, ¿eh?<NOD
-¡Igual que a mí!<NOD<CLR<FAC0020Así al final no pudiste
-vencerles...<NOD
-De verdad que confiaba en
-ti, pero...<NOD<CLRLo intenté.
-Vaya si lo intenté.<NOD
-Y mira cómo he acabado.<NOD<CLR.....<NOD<CLRY todo para nada.<NOD
-Al final, no pude salvar
-a ninguno de esos niños.<NOD
-En este estado no voy
-a poder salir por
-un tiempo...<NOD<END
+<KEY<MSG<FAC0019Oh, aizu!<NOD<CLRAspaldian ez dugu elkar
+ikusi.<NOD
+Itxura ona duzu!<NOD<CLRSorgin horrek zu ere hona
+bota zaitu, eh?<NOD
+Baita ni ere!<NOD<CLR<FAC0020Azkenean ezin izan zenituen
+garaitu...<NOD
+Benetan sinesten nuen zugan,
+baina...<NOD<CLRSaiatu nintzen.
+Eta nola saiatu gainera.<NOD
+Eta begira non nagoen.<NOD<CLR.....<NOD<CLRHau guztia ezertarako.<NOD
+Azkenean, ezin izan nuen
+haur bat ere salbatu.<NOD
+Egoera honetan ezin 
+izango naiz denboraldi batean
+hemendik atera...<NOD<END
 #0321
-<KEY<MSG<FAC0020Sobreviví, sí, pero
-¿y ahora qué?<NOD<CLRSupongo que tendré que
-sentarme aquí y pudrirme...<NOD<END
+<KEY<MSG<FAC0020Biziraun nuen, bai, baina
+orain zer?<NOD<CLRHemen eseri eta usteltzea
+besterik ezin izango dut egin...<NOD<END
 #0322
-<KEY<MSG<FAC0020Éste es el legendario
-Laberinto.<NOD
-No sé quién lo hizo,
-pero al parecer es el
-vertedero de esta isla.<NOD<CLRSólo hay una forma de
-salir.<NOD
-Tienes que atravesar la
-gran roca que hay en la
-Cámara de la Roca.<NOD<CLRIría contigo,<NOD
-pero en este estado sólo
-sería un estorbo...<NOD<FL+0760<FL+0703<END
+<KEY<MSG<FAC0020Hau da Labirinto
+ospetsua.<NOD
+Ez dakit nork egin zuen,
+baina dirudienez, uharteko
+zabortegia da.<NOD<CLRAteratzeko modu bakarra
+dago.<NOD
+Harkaitz Ganberan dagoen
+harkaitz handia gurutzatu
+behar duzu.<NOD<CLRJoango nintzateke,<NOD
+baina egoera honetan, traba
+bakarrik egingo nuke...<NOD<FL+0760<FL+0703<END
 
 
 #0400
 <KEY<FLJ0705:0001<FL+0705<SOU0022<CNP0400:0021:0000
-<MSGHas abierto el cofre.<NOD<GIT1019<IT+0019<EQ+0004<CLR<CMU0010¡Conseguiste la
-=Barrera de Energía=!<WAI0160<NOD<RMU<END
+<MSGKutxa ireki duzu.<NOD<GIT1019<IT+0019<EQ+0004<CLR<CMU0010=Energia Hesia=
+lortu duzu!<WAI0160<NOD<RMU<END
 

@@ -4,9 +4,9 @@
 #0091
 <MNA<CMU0029<FAI0001<END
 #0092
-<PRI<CMU0000<MSG<ZAMSientes el soplido de un viento
-oscuro.<NOD<CLR
-¡Todas tus armas bajan al Nivel 1!<NOD<CLO
+<PRI<CMU0000<MSG<ZAMHaize ilun baten hatsa
+sumatu duzu.<NOD<CLR
+Zure arma guztiak 1 Mailara jaitsi dira!<NOD<CLO
 <FRE<MNA<CMU0029<FAI0002<END
 #0093
 <MNA<CMU0029<FAI0003<END
@@ -49,6 +49,6 @@ oscuro.<NOD<CLR
 <END
 #0251
 <PRI<FLJ1320:0001<FL+1320<SOU0022<CNP0251:0021:0000
-<MSGHas abierto el cofre.<NOD<GIT1031<IT+0031<CLR<CMU0010Conseguiste la
-=Medalla de la Figura de Arcilla=.<WAI0160<NOD<RMU<END
+<MSGKutxa ireki duzu.<NOD<GIT1031<IT+0031<CLR<CMU0010=Buztinezko Figuraren Domina=
+lortu duzu.<WAI0160<NOD<RMU<END
 

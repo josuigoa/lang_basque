@@ -18,12 +18,12 @@
 
 
 #0200
-<KEY<FLJ1290:0201<FL+1290<MSGOho.<NOD<CLR¿Un soldado de la superficie?
-No esperaba verte aquí...<NOD
-¿Dónde están los otros?<NOD<CLR.....<NOD<CLR¿Qué ocurre?
-¿Has perdido la memoria?<NOD
-Je je je...<NOD<END
+<KEY<FLJ1290:0201<FL+1290<MSGOho.<NOD<CLRGainazaleko soldadu bat?
+Ez zintudan hemen espero...<NOD
+Non daude gainontzekoak?<NOD<CLR.....<NOD<CLRZer gertatzen da?
+Memoria galdu al duzu?<NOD
+Kar kar kar...<NOD<END
 #0201
-<KEY<MSGBueno, hasta que tus reservas
-se acaben, diviértete paseándote.<NOD<END
+<KEY<MSGTira, goza ezazu paseoaz
+zure erreserbak bukatu bitartean.<NOD<END
 

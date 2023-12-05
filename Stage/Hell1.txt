@@ -16,9 +16,9 @@
 <SOU0043<GIT1022Cronómetro activado.<NOD<GIT0000<EVE0096
 
 #0096
-<MSGSientes el soplido de un viento
-oscuro.<NOD<CLR
-¡Todas tus armas bajan al Nivel 1!<NOD<CLO
+<MSGHaize ilun bate hatsa
+nabari duzu.<NOD<CLR
+Zure arma guztiak 1 Mailara jaitsi dira!<NOD<CLO
 <FRE<MNA<CMU0036<FAI0003<END
 
 
@@ -34,14 +34,14 @@ oscuro.<NOD<CLR
 
 #0200
 <PRI<MSG<TUR
-¡Bienvenido al Infierno!<NOD<END
+Ongi etorri Infernura!<NOD<END
 
 
 #0400
 <PRI<SOU0022<DNP0400
-<MSG<GIT1006¡Conseguiste una
-=Cápsula de Energía=!<NOD<ML+0005
-¡Salud máxima +5!<NOD<END
+<MSG<GIT1006=Energia Kapsula=
+bat lortu duzu!<NOD<ML+0005
+Osasun maximoa +5!<NOD<END
 
 #0420
 <DNP0420
@@ -51,23 +51,23 @@ oscuro.<NOD<CLR
 
 
 #0500
-<PRI<FL-1531<FL+1532<MS3<FAC0020Oohh...<NOD<CLR<FAC0000<CNP0500:0259:0000<GIT1030Conectaste su cuerpo al tuyo
-con la cuerda.<NOD<END
+<PRI<FL-1531<FL+1532<MS3<FAC0020Oohh...<NOD<CLR<FAC0000<CNP0500:0259:0000<GIT1030Sokaren bidez zure gorputza
+berearkin konektatu duzu.<NOD<END
 
 
 #0900
 <DNP0900<SKJ0020:0000<SK+0020
-<PRI<MS3¿Sabías que la bruja Jenka
-una vez tuvo un hermano?<NOD
-Su nombre era Ballos.<NOD
-Al igual que su hermana, poseía
-poderes más allá de lo que
-cualquier humano comprendería...<NOD<END
+<PRI<MS3Ba al dakizu Jenka sorginak
+nozbait anaia bat izan zuela?<NOD
+Ballos zuen izena.<NOD
+Arrebaren antzera, edozein
+gizakiren ulermenetik haratago
+zeuden botereak zituen...<NOD<END
 
 #0901
 <DNP0901<SKJ0021:0000<SK+0021
-<PRI<MS3Usó sus poderes mágicos para
-ayudar y guiar a la gente.<NOD
-La gente le quería y confiaba
-en él.<NOD<CLRIncluso más que a su propio rey...<NOD<END
+<PRI<MS3Bere botere magikoak jendea
+gidatu eta laguntzeko erabili zituen.<NOD
+Jendeak maite zuen eta berekin
+fio ziren.<NOD<CLRBeraien errearekin baino gehiago...<NOD<END
 

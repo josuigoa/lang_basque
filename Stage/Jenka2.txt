@@ -19,11 +19,11 @@
 
 #0200
 <KEY<MYD0000<ANP0400:0030:0000
-<MSG<FAC0014¿La llave del almacén?<NOD
-¡Vaya, GRACIAS, no
-tenías por qué molestarte!<NOD
-¡Ya volveremos a vernos!<NOD<CLR
-<FAC0013¡¡Espera!!<NOD<CLO
+<MSG<FAC0014Biltegiko giltza?<NOD
+Hara, ESKERRIK ASKO, ez
+zenuen zertan hori egin!<NOD
+Ikusiko dugu elkar!<NOD<CLR
+<FAC0013Itxaron!!<NOD<CLO
 <ANP0400:0030:0002<WAI0030
 <ANP0400:0010:0002<FL+0595<FL+0278<WAI0200<CMU0019<END
 
@@ -31,43 +31,43 @@ tenías por qué molestarte!<NOD
 <KEY
 <FLJ0596:0230
 <FL+0596<FL+0594<IT-0014
-<MSG<FAC0013Oohhh...<NOD ¿...Tú?<NOD<FAC0000<CLO
+<MSG<FAC0013Oohhh...<NOD ...Zu?<NOD<FAC0000<CLO
 <WAI0050
 <CNP0220:0133:0000<WAI0050
-<MSG<GIT1014<FAC0000Le diste la =Mascota=.<NOD<GIT0000<CNP0300:0130:0000<DNP0401<FL-0274<CLR<FAC0013La llave...<NOD
-Me han robado la llave...<NOD
-Por favor.
-Debes detenerlos.<NOD<CLRPlanean enfurecer a los
-Mimigas y soltarlos
-en la superficie.<NOD<CLROh, sí...<NOD
-Quizá te interese llevarte
-esto...<NOD<GIT1015<IT+0015<CLR
-<FAC0000<CMU0010¡Conseguiste un =Frasco de Salud=!<WAI0160<NOD<RMU<CLR<FAC0013Puedes usar esto una,
-pero sólo una vez, para
-restaurar tu energía.<NOD<END
+<MSG<GIT1014<FAC0000=Maskota= eman diozu.<NOD<GIT0000<CNP0300:0130:0000<DNP0401<FL-0274<CLR<FAC0013Giltza...<NOD
+Giltza lapurtu didate...<NOD
+Mesedez.
+Harrapatu behar dituzu.<NOD<CLRMimigak sumindu
+eta gainazalean
+askatu nahi dituzte.<NOD<CLROh, eta...<NOD
+Agian hau eraman nahiko
+duzu...<NOD<GIT1015<IT+0015<CLR
+<FAC0000<CMU0010=Osasun Flaskoa= lortu duzu!<WAI0160<NOD<RMU<CLR<FAC0013Hau behin,
+behin bakarrik erabil dezakezu,
+zure energia berrezartzeko.<NOD<END
 
 #0230
-<KEY<FLJ0830:0231<MSG<FAC0013¡Por favor!<NOD
-¡Debes detenerlos!<NOD<CLR¡Planean enfurecer a los
-Mimigas y soltarlos
-en la superficie!<NOD<END
+<KEY<FLJ0830:0231<MSG<FAC0013Mesedez!<NOD
+Gelditu itzazu!<NOD<CLRMimigak sumindu
+eta gainazalean
+askatu nahi dituzte!<NOD<END
 #0231
 <KEY<ITJ0015:0232
-<MSG<FAC0013Ah, vienes en un
-buen momento.<NOD<GIT1015<IT+0015<CLR
-<FAC0000¡Recibiste un =Frasco de Salud=!<WAI0030<NOD<GIT0000<CLR<FAC0013Vuelve si alguna
-vez necesitas otro.<NOD
-Es lo menos que esta
-anciana puede hacer...<NOD<END
+<MSG<FAC0013Ah, une egokian
+zatoz.<NOD<GIT1015<IT+0015<CLR
+<FAC0000=Osasun Flasko= bat jaso duzu!<WAI0030<NOD<GIT0000<CLR<FAC0013Itzuli nozbait
+besterik behar baduzu.<NOD
+Andre zahar honek egin
+dezakeen gutxienekoa da...<NOD<END
 #0232
-<KEY<MSG<FAC0013Incluso una bruja como yo
-envejece y se debilita...<NOD
-Lo único que puedo hacer
-ahora es posar todas
-mis esperanzas en ti...<NOD<END
+<KEY<MSG<FAC0013Ni bezalako sorgin bat ere
+zahartu eta ahuldu egiten da...<NOD
+Orain egin dezakedan 
+bakarra, nire esperantza
+zugan jartzea da...<NOD<END
 
 #0300
-<KEY<MSG*gimoteo*...<NOD<END
+<KEY<MSG*negar-zotina*...<NOD<END
 
 
 #0400

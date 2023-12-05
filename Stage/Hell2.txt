@@ -23,28 +23,28 @@
 
 #0200
 <PRI<MSG<TUR
-No hay vuelta atrás...<NOD<END
+Ez dago atzera bueltarik...<NOD<END
 
 
 
 #0900
 <DNP0900<SKJ0022:0000<SK+0022
-<PRI<MS3El rey celoso mandó que
-encerraran a Ballos en prisión,<NOD
-donde su castigo fue brutal
-y despiadado.<NOD
-Los humanos pueden llegar a
-ser realmente crueles...<NOD<END
+<PRI<MS3Errege jeloskor horrek
+Ballos espetxeratu zuen,<NOD
+bertan zigor basati eta ankerra
+pairatu zuen.<NOD
+Gizakiak oso krudelak
+izan daitezke...<NOD<END
 
 #0901
 <DNP0901<SKJ0023:0000<SK+0023
-<PRI<MS3Bajo la extrema crueldad de la
-tortura, los poderes mágicos
-de Ballos se descontrolaron.<NOD
-El rey fue envuelto en una
-espiral de magia y destruido
-en un instante.<NOD
-En una sola noche, el reino
-que Ballos amaba tanto fue
-reducido a cenizas.<NOD<END
+<PRI<MS3Tortura krudel horien 
+eraginez, Ballosen botere magikoak
+erabat deskontrolatu ziren.<NOD
+Erregea magia zurrunbilo batean
+bildu eta instatean
+suntsitu zuen.<NOD
+Gau bakar batean, Ballosek
+hainbeste maite zuen erresuma
+errauts bihurtu zen.<NOD<END
 
