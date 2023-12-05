@@ -144,8 +144,8 @@ zaitzake.<NOD<CLR<FAC0006Baina... Baina...<NOD<CLR<FAC0007Giltza, Toroko!<NOD
 Erori zinenean egin zuen ihes.<NOD<END
 #0306
 <KEY<MSG<FAC0007Grrrrr!<NOD<CLRToroko!<NOD
-Ez zara hain erraz
-eskapatuko!<NOD<END
+Ez duzu hain erraz
+ihes egingo!<NOD<END
 #0307
 #0308
 <KEY<MYD0002<FAI0002<CMU0000<WAI0020

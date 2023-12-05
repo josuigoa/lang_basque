@@ -23,8 +23,8 @@ Hor al zaude?<NOD
 Ongi zaude?<NOD<FAO0004<TRA0018:0700:0002:0000
 #0701
 <KEY<FAI0004<MSG<FAC0001Ni naiz.<NOD
-Sue Sakamoto.<NOD<CLRZu ere eskapatu 
-zara?<NOD
+Sue Sakamoto.<NOD<CLRZuk ere ihes 
+egin duzu?<NOD
 Non zaude orain?<NOD
 Dragoi arraultza batzuk
 aurkitu ditut.<NOD
