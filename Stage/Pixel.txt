@@ -91,7 +91,7 @@ lortuko genuenik.<NOD
 Konorterik gabe
 gelditu zarenean, ez zait
 beste modurik bururatu...<NOD<CLRBadirudi nire
-aire tangak pentsatu bezala
+aire-tangak pentsatu bezala
 funtzionatu duela.<NOD<CLR
 <FAC0020Ah...<NOD<CLO<FAC0000<ANP0260:0001:0000
 <WAI0050

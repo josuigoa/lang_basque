@@ -21,9 +21,9 @@
 [- Mimiga Herria -]0000-0064
 [Goxo eta ausarta]0000-0032
 [  Toroko]0013-0064
-[Herriko nagusia]0000-0032
+[Herriko agintaria]0000-0032
 [  King]0014-0064
-[Nagusi ordea]0000-0032
+[Agintari-ordea]0000-0032
 [  Jack]0015-0064
 [Beti jaten]0000-0032
 [  Mahin]0016-0064

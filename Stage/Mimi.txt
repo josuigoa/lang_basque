@@ -40,9 +40,9 @@
 <FLJ0360:0111
 <KEY<MSG<FAC0009Jack naiz,<NOD
 hemengo agintari-ordea.<NOD<CLRAte honek
-Mimiga Hilerrira darama, Arthur
-heroiak atseden hartzen duen
-lekura.<NOD<CLROh, zertan ari naizen,
+Mimiga Hilerrira darama,
+Arthur heroiak atseden
+hartzen duen lekura.<NOD<CLROh, zertan ari naizen,
 diozu?<NOD<CLRTira, hilerrian 
 barrengorri batzuk agertzen
 aritu dira, horregatik,<NOD
@@ -141,7 +141,7 @@ zaitzake.<NOD<CLR<FAC0006Baina... Baina...<NOD<CLR<FAC0007Giltza, Toroko!<NOD
 
 #0305
 <KEY<MSG<FAC0007Toroko madarikatua...<NOD
-Erori zinenean egin zuen ihes.<NOD<END
+Zu erortzean egin du ihes.<NOD<END
 #0306
 <KEY<MSG<FAC0007Grrrrr!<NOD<CLRToroko!<NOD
 Ez duzu hain erraz
@@ -162,11 +162,11 @@ ihes egingo!<NOD<END
 <FLJ0120:0312
 <FLJ0360:0314
 <MSGOh! Beldurtu nauzu...<NOD<CLRSue?<NOD
-Oh, egia.<NOD<CLRArthuren etxeko neska, ezta?<NODTorokorekin bizi da.<NOD<CLRNeska maitagarria, dudarik gabe.<NOD
+Oh, egia.<NOD<CLRArthuren etxeko neska, ezta?<NOD Torokorekin bizi da.<NOD<CLRNeska maitagarria, dudarik gabe.<NOD
 "Dragoi Zerutiarra"ren bila
 dabilela diote...<NOD
 Zeruetan dabiltzan dragoiak...
-Benetan existitzen dira gauza horiek?<NOD<ANP0311:0000:0002<END
+Benetan existitzen ote dira?<NOD<ANP0311:0000:0002<END
 #0312
 <MSGOh, zu berriz ere.<NOD<CLRSue gora eraman dute.<NOD
 Toroko bahitu izanaren 
@@ -218,7 +218,7 @@ onartuko!<NOD<CLO
 
 #0500
 <KEY<MSG<TUR          Gora: Yamashita Baserria
- Ezker: Ur-tanga   Eskuin: Hilerria
+ Ezker: Urtegia   Eskuin: Hilerria
           Behera: Arthuren etxea<NOD
 <END
 
@@ -227,7 +227,7 @@ onartuko!<NOD<CLO
               Yamashita Baserria<NOD<END
 #0502
 <KEY<MSG<TUR
-                 Ur-tanga<NOD<END
+                 Urtegia<NOD<END
 #0503
 <KEY<MSG<TUR
              Mimiga Hilerria

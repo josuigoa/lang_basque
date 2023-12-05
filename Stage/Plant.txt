@@ -31,9 +31,9 @@
 <PRI<LI+1000<SOU0020<AE+<MSGOsasuna berrezarrita.<NOD<END
 
 #0200
-<KEY<MSGÉsta es nuestra granja.
-Aquí cultivamos flores.<NOD
-Mi trabajo es vigilar la granja.<NOD<CLRMimigok lore hauek behar
+<KEY<MSGHau da gure baserria.
+Hemen loreak landatzen ditugu.<NOD
+Nire lana baserria zaintzea da.<NOD<CLRMimigaok lore hauek behar
 ditugu bizirauteko.<NOD<CLRLore gorriak, berriz,
 txarrak dira.<NOD<CLRLore gorri bat janez gero, 
 odolak irakin egiten duela diote,

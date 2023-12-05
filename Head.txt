@@ -11,7 +11,7 @@ Gorde nahi duzu?<YNJ0000<FL+0431<SVP<CLRPartida gordeta.<NOD<END
 #0017
 <PRI<FLJ0201:0018
 <LI+1000<SOU0020<AE+<MSG
-Osasuna leheneratuta.<NOD<END
+Osasuna berrezarrita.<NOD<END
 #0018
 <PRI
 <LI+1000<SOU0020<AE+<MSG
@@ -22,7 +22,7 @@ Osasuna eta misilak maximoan.<NOD<END
 Atseden hartu nahi duzu?<YNJ0000<FAO0004<CMU0000<WAI0020<CLR.....<NOD<CLO
 <WAI0050
 <LI+1000<SOU0020<MYD0002<MSG
-Osasuna leheneratuta.<NOD<CLO<RMU<FAI0004<END
+Osasuna berrezarrita.<NOD<CLO<RMU<FAI0004<END
 
 #0030
 <PRI<FLJ0202:0032<FLJ0201:0031<FL+0201<GIT0005<AM+0005:0010
