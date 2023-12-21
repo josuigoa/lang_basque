@@ -36,7 +36,7 @@
 [Bakarrik bizi da]0000-0032
 [  Santa]0017-0064
 [Mimiga koloreduna]0000-0032
-[  Chaco]0018-0064
+[  Chako]0018-0064
 [ Robot zaindaria]0000-0032
 [  Malco]0025-0064
 -0063
@@ -196,7 +196,7 @@ f2000:0190j0200l0190
 l0200
 -0100
 +0064
-[ = Nagusiak = ]0000-0032
+[ = Buruzagiak = ]0000-0032
 -0063
 [Sue bahitu zuen]0000-0016
 [ Mimiga kontrolaezina]0000-0016

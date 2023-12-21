@@ -46,19 +46,21 @@ izango zinela.<NOD<CLR.....<NOD
 <CLREdonola ere...<NOD
 Nire izena Kazuma
 Sakamoto da.<NOD
-Baina Kazuma bakarri dei
+Baina Kazuma soilik dei
 nazakezu.<NOD<CLRDoktorearenetik
-ihes egiteko zortea izan nuen,<NOD
+ihes egiteko zortea izan
+nuen,<NOD
 baina zoritxarrez,
-nire telegarraiagailuak hona
-bidali ninduen.<NOD
-Gosez hilko nintzela pentsatzen
-hasita nengoen...<NOD
+nire telegarraiagailuak
+hona bidali ninduen.<NOD
+Gosez hilko nintzela
+pentsatzen hasita
+nengoen...<NOD
 Bizitza zor dizut!<NOD<CLROh, egia da...<NOD<CLR...Ez duzu deskuiduan
 Mimiga Herria
 ezagutuko?<NOD<CLR...Sue?<NOD<CLRSue ezagutu
 duzu?!<NOD<CLRAh, noski.<NOD
-Sue-ren ordez etorri zinen
+Sueren ordez etorri zinen
 ni aurkitzera.<NOD<CLROngi da!<NOD
 Eraman gaitzazu herrira!<NOD<SOU0043<ANP0102:0001:0000<WAI0030<ANP0210:0000:0002<CLR?!<NOD<CLO<FAC0000
 <CNP0303:0113:0000<ANP0303:0030:0000<WAI0100
@@ -87,8 +89,8 @@ deskubritu dituela.<NOD<CLR<FAC0010Baina, Sue...<NOD<CLRLore gorriek berari
 ere eragiten diote?<NOD
 Gainontzeko Mimigei bezalaxe<CLR<FAC0018Kazuma.<NOD<CLRDoktorea Mimigak biltzen
 hasi da.<NOD
-Badakizu horre zer esan nahi
-duen, ezta?<NOD<CLR<FAC0010<CMU0000Ge... gerra datorrela
+Badakizu horrek zer esan
+nahi duen, ezta?<NOD<CLR<FAC0010<CMU0000Ge... gerra datorrela
 esan nahi duzu?
 Bera...<NOD<CLO<FAC0000
 <ANP0303:0003:0002<WAI0032
@@ -97,7 +99,8 @@ Bera...<NOD<CLO<FAC0000
 Bera geldiaraztea beste 
 aukerarik ez dugu.<NOD<CLR<FAC0010Geldiarazi? Baina nola?<NOD<CLR<FAC0018Ideia bat dut.<NOD
 Oraingoz, mugi gaitezen
-eta goazen Sue dagoen lekura.<NOD
+eta goazen Sue dagoen
+lekura.<NOD
 Orduan hitz egingo dugu.<NOD<FAC0000<CLO
 <ANP0303:0003:0000<WAI0038
 <MYB0002<WAI0016<MYD0002<ANP0303:0000:0000

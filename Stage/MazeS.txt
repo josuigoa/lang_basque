@@ -45,11 +45,12 @@ Ez da irekitzen...<NOD<END
 Noiz aterako zinen zain
 nengoen.<NOD<CLRHarkaitz handi hau mugitzen
 badugu, irteerara joan ahal
-izango dugu.<NOD<CLRHala ere, harkaitzaren
-beste aldean munstroaren habia
-dagoela diote zurrumurruek...<NOD
-Horretarako prest egon behar
-zenuke.<NOD<CLREdonola ere,
+izango gara.<NOD<CLRHala ere, harkaitzaren
+beste aldean munstroaren
+habia dagoela diote
+zurrumurruek...<NOD
+Horretarako prest egon
+behar zenuke.<NOD<CLREdonola ere,
 kendu dezagun gauza hau
 behingoz.<NOD
 Bultza alde horretatik.<NOD<CLO
@@ -90,7 +91,7 @@ Balrog garaitu duzu!<WAI0140<NOD<CLO<FAC0000
 <ANP0300:0000:0000<WAI0050<MYD0002
 <MSG<FAC0025Ez da ezer mugitu.<NOD
 Ez dut uste gu biotako
-batere hau mugitzeko
+bat ere hau mugitzeko
 gai denik...<NOD<FAC0000<CLO
 <WAI0050
 <MSGHuzzah!<CMU0000<NOD<CLO
@@ -155,7 +156,8 @@ diezaiokezu bultza?<NOD<CLO
 <SMC<CMU0008<CNP0330:0012:0002<ANP0300:0000:0002
 <MNP0320:0000:0000:0000
 <FAI0004
-<MSG<FAC0005Zu garaile...<NOD<CLRHarkaitza mugitzen lagunduko dizuet.<NOD
+<MSG<FAC0005Zu garaile...<NOD<CLRHarkaitza mugitzen
+lagunduko dizuet.<NOD
 Baina gogoan izan...<NOD<ANP0330:0000:0000<CLREz INORI esan lagundu
 dizuedanik.<NOD<CLR<FAC0019Zure sekretua gurekin
 salbu dago!<NOD<FAC0000<CLO

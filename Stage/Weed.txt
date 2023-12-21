@@ -63,7 +63,7 @@
 "Txikle" hitza atean 
 idatzita dago.<NOD<END
 #0110
-<SOU0022<MSG<GIT1010=Txikleren Giltza= erabili duzu.<NOD<CLO
+<SOU0022<MSG<GIT1010=Txikle Giltza= erabili duzu.<NOD<CLO
 <GIT0000<FL+0222<EVE0111
 #0111
 <PRI<SOU0011<DNP0109<FAO0004<TRA0028:0094:0006:0013
@@ -112,7 +112,7 @@ uste nuen.<NOD<CLRTira, berdin dio.<NOD<CLO<EVE0207
 
 #0205
 <FLJ0481:0206
-<PRI<MSGHazagailuak ez dute funtzionatzen.<NOD
+<PRI<MSGHaizagailuek ez dute funtzionatzen.<NOD
 Norbaitek eremu honetako korrontea
 moztu du.<NOD
 Berriro martxan jarri nahi
@@ -120,17 +120,18 @@ badituzu, Sorgailuaren gela
 aurkitu beharko duzu.<NOD<END
 #0206
 <PRI<MSGAholku bat emango dizut.<NOD<CLRHaizagailu batek bultzatzen
-zaituen bitartean Jauzi botoia eusten baduzu,<NOD
+zaituen bitartean Jauzi botoia
+eusten baduzu,<NOD
 urrunago ailegatuko zara.<NOD<END
 
 #0207
 <PRI<MSGHortik jarraituko baldin baduzu,
-kontuz ibili Críters Alfa horiekin.<NOD
+kontuz ibili Criters Alfa horiekin.<NOD
 Gainera erortzean mina ematen dute.<NOD<END
 
 #0210
 <PRI<MSGKazumak erabiltzen zuen aeromotorra.
-Ez dirudi funtzionatzen duenik.<NOD<END
+Hondatu egin dela dirudi.<NOD<END
 
 #0220
 <ITJ0013:0250
@@ -179,7 +180,7 @@ Orduan materialak lortzen
 ari zara?<NOD<CLR.....<NOD<CLREgon, Txiklea esan duzu?<NOD
 Itxaron segundu bat.<NOD<CLO<WAI0100
 <MSGTori, hartu hau.<NOD<GIT1010<IT+0010<FL+0221<CLR
-<CMU0010=Txikleren Giltza= hartu duzu.<WAI0160<NOD<RMU<CLRParetan zegoen zintzilik.<NOD
+<CMU0010=Txikle Giltza= hartu duzu.<WAI0160<NOD<RMU<CLRParetan zegoen zintzilik.<NOD
 Bertan "Txikle" jartzen du.<NOD
 Loturaren bat egongo da.<NOD
 Zutaz fio naiz, mutil!<NOD<END
@@ -226,8 +227,8 @@ Osasun maximoa +5!<NOD<END
 Nire izena Santa da.<NOD<CLRKanpoan ura lortzen ari
 nintzela, bapatean munstro batzuk
 eraso egin didate.<NOD
-Etxera lasterka joan nintzen, baina
-bidean giltza galdu nuen.<NOD<CLR... Nire etxearen kanpoaldean
+Etxera lasterka joan naiz, baina
+bidean giltza galdu dut.<NOD<CLR... Nire etxearen kanpoaldean
 harrapaturik nago.<NOD<END
 #0501
 <PRI<MSGNire giltza gabe, kanpoan

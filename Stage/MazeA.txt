@@ -26,7 +26,7 @@ izateko helburuarekin.<NOD<END
 #0210
 <PRI<MSGBadago hemendik irteteko beste bide bat.
 Baina bidea harkaitz handi
-batekin blokeatuta dago.<NOD<CLREta arkaitz hori mugitzea
+batekin blokeatuta dago.<NOD<CLREta harkaitz hori mugitzea
 lehenengo arazoa besterik ez da...<NOD<END
 #0220
 <PRI<FLJ1020:0221<MSGAah... Mimiga haragia jateko
@@ -38,7 +38,7 @@ Mimiga usaina daukazu.<NOD<END
 <PRI<MSGIkusi al duzu inoiz uhartearen
 kanpoaldea?<NOD<CLRUharte honek zeru goian 
 flotatzen du.<NOD
-Eta nola flotatzen du...<NOD
+Eta nola flotatzen ote du...<NOD
 Sekretu hori labirintoaren 
 barruan dago.<NOD<END
 #0240

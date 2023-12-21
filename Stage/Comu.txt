@@ -32,8 +32,8 @@
 <KEY<MSG<FAC0007Arthuren etxeko
 giltza...<NOD
 Gutxienez beste bat dagoela uste dut.<NOD
-Toroko madarikatua, ez bazeneki
-bezala jokatzen...
+Toroko madarikatua, ez
+bazeneki bezala jokatzen...
 <NOD<CLRTira, beharbada Jackek
 badaki non aurkitu...<NOD<END
 #0201
@@ -73,7 +73,7 @@ heroi handi bat izan zen.<NOD<END
 
 #0300
 <ITJ0008:0301
-<KEY<MSG*Crujido* *Klak!*<NOD<FLJ0442:0000<CLRSugar artean zerbait ikusten duzu.<NOD<END
+<KEY<MSG*Krak* *Klak!*<NOD<FLJ0442:0000<CLRSugar artean zerbait ikusten duzu.<NOD<END
 #0301
 <KEY<GIT1008<MSG=Marmoka Zukua= erabili nahi duzu?<YNJ0000<CLO<GIT0000
 <IT-0008<ANP0300:0010:0000<WAI0030<FLJ0442:0302<FL+0442

@@ -33,15 +33,15 @@ Galdu zenituen
 hazi guztiak ekarri
 ditut.<NOD<CLR
 <FAC0021Oso ongi.<NOD<CLRAh, kontu bat...<NOD
-Loreak ez dira hemen hazten.<NOD<CLO
+Hemen hazten diren loreak.<NOD<CLO
 <WAI0030<ANP0502:0000:0000<WAI0030
 <MSGHoriek al dira deabru
 loreak?<NOD<FAC0000<CLO
 <WAI0030<ANP0502:0000:0002
 <MSG<FAC0015Zalantzarik gabe.<NOD<CLR<FAC0021Hara, hara...<NOD<CLRUste nuena baino
 misteriotsuagoak dira...<NOD<CLR<FAC0015Jauna...<NOD
-Probatzeko bat dastatu beharko
-nuke?<NOD<CLR<FAC0021...Ez, hobe da
+Probatzeko bat dastatu
+beharko nuke?<NOD<CLR<FAC0021...Ez, hobe da
 guk ez egitea.<NOD<CLR
 .....<NOD<CLRHmmmm...<NOD
 Horren ordez, proba dezagun
@@ -54,12 +54,12 @@ Mimiga baten erreakzioa.<NOD<CLR<FAC0016Bai, jauna.<NOD<FAC0000<CLO
 <CNP0504:0012:0002<ANP0503:0010:0002
 <ANP0504:0030:0002
 <MSG<FAC0014Oh-oh.<NOD
-Nora zoazela uste duzu?<NOD<FON0506:0016<CLR<FAC0016Balrog.<NOD
+Nora uste duzu zoazela?<NOD<FON0506:0016<CLR<FAC0016Balrog.<NOD
 Emaiozu jateko lore bat.<NOD<CLR<FAC0014<ANP0504:0030:0002
 Jakina.<NOD<FAC0000<CLO
 <ANP0504:0060:0002<WAI0032
 <ANP0504:0050:0002<WAI0050
-<MSG<FAC0008No! Geldi!<NOD<CLR
+<MSG<FAC0008Ez! Geldi!<NOD<CLR
 <FAC0005Jan ezazu. Jan ezazu!<NOD<CLR
 <CMU0000<FAC0000Aska ezazu!!<NOD<CLO
 <FON0505:0016<WAI0030<CMU0018
@@ -78,7 +78,7 @@ Doktorea naiz.<NOD<CLREta hemendik aurrera,
 zure lider berria naiz.<NOD<CLRPozte naiz zu ezagutu
 izanaz.<NOD<CLREta, ze egingo
 duzu hor duzun Ezpata
-horrekin?<NOD<CLRHm-hm-hmm...<NOD<CLR<FAC0007Hilko zaitut!!<NOD<FAC0000<CLO
+horrekin?<NOD<CLRHm-hm-hmm...<NOD<CLR<FAC0007Hil egingo zaitut!!<NOD<FAC0000<CLO
 <ANP0505:0010:0002<WAI0040
 <ANP0502:0020:0000<WAI0015
 <ANP0501:0010:0000

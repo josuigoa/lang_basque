@@ -17,7 +17,7 @@
 <KEY<FL-0440<FL-0443<CMU0021<FAI0004
 <MSG<TURSarera konektatzen...<WAI0050
 <TURKonektatuta.<WAI0050
-<TUREChat-aren algoritmoa exekutatzen.<WAI0100<CLR
+<TURChat-aren algoritmoa exekutatzen.<WAI0100<CLR
 <MSG<FAC0001Kazuma.<NOD
 Hor al zaude?<NOD
 Ongi zaude?<NOD<FAO0004<TRA0018:0700:0002:0000
@@ -35,11 +35,12 @@ Baina pasahitz batekin
 blokeatuta dago.<NOD
 Konpon dezakezu?<NOD<FAC0000<CLR<TUR"Kazuma" erabiltzailearen informazioa
 berreskuratzen...<WAI0150<CLR<TUROsatuta.
-Localizazioa: Soroherriko D Egitura<NOD
+Kokapena: Soroherriko D Egitura<NOD
 Telegarraiagailu bat bilatzeko eskaneatzen.<NOD<CLR"Soroherri"ko telegarraiagailuarekin
 konektatzeko prestatzen......<NOD<CLR
 <MSG<FAC0001Tira, edonola ere,
-zuri laguntzera noa horrantz.<NOD
+zuri laguntzera noa
+horrantz.<NOD
 Itxaroidazu han.<NOD<FAO0004<TRA0018:0702:0002:0000
 #0703
 <KEY<CNP0700:0042:0000<FAI0004<MSG.....<NOD

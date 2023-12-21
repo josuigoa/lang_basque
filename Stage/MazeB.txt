@@ -61,14 +61,14 @@ labirinto honetako lekuren
 batean bizi da.<NOD
 Norbaitek suntsituko 
 balu, uharteak ez luke
-funtzionatuko.<NOD<CLR*irria*<NOD<CLRDoktoreak uharteare
+funtzionatuko.<NOD<CLR*irria*<NOD<CLRDoktoreak uhartearen
 bihotz-bihotzera
 bidali bazaitu,<NOD
-prisa handia duenaren
+presa handia duenaren
 seinale.<NOD<CLREramazu hau.<NOD<CLR<FAC0000<IT+0018<GIT1018
 Booster v0.8 lortu duzu.<NOD<CLR<FAC0017Makinatxo honek hegan
 egiten lagunduko dizu.<NOD
-Airean zaudela Jauzei
+Airean zaudela Jauzi
 botoia sakatuta,
 flotatu ahalko duzu.<NOD<CLRBila ezazu Inbentarioan
 erabiltzeko.<NOD<GIT0000<CLRFiu...<NOD<CLRErotzen hasi nintzen

@@ -60,13 +60,13 @@ Arduratuta nengoen.
 Doktorea pertsona gaiztoa
 da.<NOD
 Gure herrian agertu eta
-bahitu egin gaitu.
+bahitu egiten gaitu.
 Batzuetan baita hil ere...<NOD<CLRNire anaia, adibidez.
 Berak hil zuen nire anaia.<NOD<CLROh!<NOD
 Lepoko hori!<GIT1004<NOD<CLRNiretzat aurkitu al duzu?<NOD
-Suek eman zidan!<NOD<CLR.....<NOD<CLRTira... jada ez luke
+Suek eman zidan!<NOD<CLR.....<NOD<CLRTira... jada ez nuke
 eduki behar.<NOD
-<GIT0000Kingek Sue eta ni
+<GIT0000King Sue eta ni
 elkarrekin ikusten gaituen
 guztietan haserretzen da...<NOD
 Hartu zuretzat.<NOD<CLO
@@ -97,9 +97,9 @@ Hartu zuretzat.<NOD<CLO
 <MSGHuzzah!<WAI0050<CNP0400:0012:0002<ANP0400:0030:0002<CLR<KEY<CMU0011<FAC0014Hor zaude!<NOD<CLR<FAC0005Ezin zara ezkutatu,
 ez ez!<NOD
 Untxari baten usaimena
-dut!<NOD<FAC0000<CLRHorrenn zalantzarik ez dago.<NOD
+dut!<NOD<FAC0000<CLRHorren zalantzarik ez dago.<NOD
 <CNP0500:0067:0002<WAI0100<ANP0500:0013:0002<WAI0050<ANP1000:0008:0000<MSG<FAC0015Usaimena, eta burmuina
-ere bai, nik uste.<NOD<CLR<FAC0005Misery!<NOD<CLRNik aurkitu nuen!<NOD<CLR<FAC0008Zuek--Zuek Doktorearekin
+ere bai, nik uste.<NOD<CLR<FAC0005Misery!<NOD<CLRNik aurkitu dut!<NOD<CLR<FAC0008Zuek--Zuek Doktorearekin
 zaudete, baietz!<NOD<CLR<FAC0015.....<NOD<CLR<FAC0016Zu zara Sue, beraz, eh?
 Doktorea zure bila
 zebilen.<NOD
@@ -109,7 +109,8 @@ Ez naiz Sue.<NOD<FAC0000<CLO
 <PRI<MSG<FAC0008Aaah!<NOD<FAC0015<CLRBalrog.<NOD
 Gainontzekoa zuretzat.<NOD<CLO
 <ANP0500:0020:0002<FAC0000<CLO
-<KEY<WAI0050<MSG<FAC0008Ez, itxaron, oker zabiltz--!<NOD<FAC0000<CLO
+<KEY<WAI0050<MSG<FAC0008Ez, itxaron, oker
+zabiltz--!<NOD<FAC0000<CLO
 <WAI0050
 <FAC0005<MSGBERRIZ ez!<NOD
 Beti tokatzen zait lan

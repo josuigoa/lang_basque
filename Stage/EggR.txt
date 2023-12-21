@@ -14,69 +14,69 @@
 <PRI<FAO0004<TRA0002:0094:0220:0007
 
 #0150
-<KEY<MSGHay pétalos rojos desperdigados.<NOD<END
+<KEY<MSGPetalo gorriak daude barreiatuta.<NOD<END
 
 #0200
-<KEY<MSGEncuentras una nota.<NOD<CLR<TURCon el escudo activado, no puedo
-acceder a la sala del No. 00.<NOD<CLR<TURCreo que uno de estos terminales debería
-ser capaz de desactivar el escudo...<NOD<END
+<KEY<MSGOhar bat aurkitu duzu.<NOD<CLR<TUREzkutua aktibatuta egonda, ezin dut
+00 arraultzaren gelara sartu.<NOD<CLR<TURHemengo terminalen batek ezkutua
+desaktibatu behar lukeela uste dut...<NOD<END
 
 #0300
 <PRI<FLJ0200:0001<FL+0200
 <SOU0022<CNP0300:0021:0000
-<MSGHas abierto el cofre.<NOD<CLR<EVE0030
+<MSGKutxa ireki duzu.<NOD<CLR<EVE0030
 
 
 #0500
 
 #0501
 <PRI<MS3<TURDragoi Zerutiarraren 01 arraultza
-Error: Condiciones del huevo anormales.
-Se recomienda investigación.<NOD<END
+Errorea: Arraultzaren egoera anormala.
+Ikerketa gomendatzen da.<NOD<END
 #0502
 <PRI<MS3<TURDragoi Zerutiarraren 02 arraultza
-Condiciones normales.<NOD<END
+Egoera normala.<NOD<END
 #0503
 <PRI<MS3<TURDragoi Zerutiarraren 03 arraultza
-Condiciones normales.<NOD<END
+Egoera normala.<NOD<END
 #0504
 <PRI<MS3<TURDragoi Zerutiarraren 04 arraultza
-Condiciones normales.<NOD<END
+Egoera normala.<NOD<END
 #0505
 <PRI<MS3<TURDragoi Zerutiarraren 05 arraultza
-Condiciones normales.<NOD<END
+Egoera normala.<NOD<END
 #0506
 <PRI<MS3<TURDragoi Zerutiarraren 06 arraultza
 Error: Condiciones del huevo anormales.
 Se recomienda investigación.<NOD<END
 #0507
 <PRI<MS3<TURDragoi Zerutiarraren 07 arraultza
-Condiciones normales.<NOD<END
+Egoera normala.<NOD<END
 #0508
 <PRI<MSG<TURDragoi Zerutiarraren 08 arraultza
-Condiciones normales.<NOD<END
+Egoera normala.<NOD<END
 #0509
 <PRI<MSG<TURDragoi Zerutiarraren 09 arraultza
-Condiciones normales.<NOD<END
+Egoera normala.<NOD<END
 #0510
 <PRI<MSG<TURDragoi Zerutiarraren 10 arraultza
-Condiciones normales.<NOD<END
+Egoera normala.<NOD<END
 #0511
 <PRI<MSG<TURDragoi Zerutiarraren 11 arraultza
-Condiciones normales.<NOD<END
+Egoera normala.<NOD<END
 #0512
 <PRI<MSG<TURDragoi Zerutiarraren 12 arraultza
-Condiciones normales.<NOD<END
+Egoera normala.<NOD<END
 #0513
 <PRI<MSG<TURDragoi Zerutiarraren 13 arraultza
-Condiciones normales.<NOD<END
+Egoera normala.<NOD<END
 #0514
 <PRI<MSG<TURDragoi Zerutiarraren 14 arraultza
-Condiciones normales.<NOD<END
+Egoera normala.<NOD<END
 #0515
 <PRI<MSG<TURDragoi Zerutiarraren 15 arraultza
-Condiciones normales.<NOD<END
+Egoera normala.<NOD<END
 #0516
 <PRI<MSG<TURDragoi Zerutiarraren 16 arraultza
-Condiciones normales.<NOD<END
+Egoera normala.<NOD<END
 

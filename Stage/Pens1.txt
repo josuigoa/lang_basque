@@ -86,7 +86,7 @@ Doktorearen lekaioak
 etortzean, Toroko
 berreskuratzen
 saiatuko gara.<NOD
-Sue-ren truke, noski.<NOD<CLREz da egokiena,
+Sueren truke, noski.<NOD<CLREz da egokiena,
 badakit, baina Toroko
 gutako bat da.<NOD
 Bakarrik aritzen zarenean
@@ -106,7 +106,7 @@ espero dut...<NOD<END
 <MSG<FAC0018Oooohh...<NOD<CLR<FAC0010...Ongi zaude?<NOD<CLO<FAC0000
 <WAI0030<ANP0621:0000:0002
 <MSG<FAC0018...Mmm.<NOD<CLRNire bizitza begien
-aurretik pasatu zitzaidan.<NOD<CLR<FAC0010.....<NOD<CLO<FAC0000
+aurretik pasatu zait.<NOD<CLR<FAC0010.....<NOD<CLO<FAC0000
 <ANP0500:0000:0000<WAI0030
 <ANP0102:0000:0002<SOU0011
 <CNP0625:0042:0000
@@ -129,8 +129,7 @@ aurretik pasatu zitzaidan.<NOD<CLR<FAC0010.....<NOD<CLO<FAC0000
 lehenago hemen.<NOD
 Baina ia denak
 Doktorearen lekaioek
-bahitu izan 
-dituzte.<NOD<CLRKingek ere lagunak
+bahitu dituzte.<NOD<CLRKingek ere lagunak
 galdu ditu...<NOD<CLO
 <CMU0002
 <ANP0500:0001:0000
@@ -154,8 +153,10 @@ bezala...<NOD
 No! Ez dut inoiz onartuko!<NOD<END
 #0625
 <KEY<FLJ0158:0635<MYB0000<WAI0030<MYD0000<ANP0625:0000:0002<MSG
-<FAC0001Ongi etorri berriz!<NOD<CLRBeste bat zor dizudala dirudi.<NOD
-Nire anaiaren laguntzarekin,<NOD
+<FAC0001Ongi etorri berriz!<NOD<CLRBeste bat zor dizudala
+dirudi.<NOD
+Nire anaiaren
+laguntzarekin,<NOD
 arraultza eklosionatzeko
 pasahitza lortu 
 beharko nuke.<NOD<CLO<FAC0000
@@ -167,7 +168,7 @@ gurekin eraman dezakegu?<NOD<CLO<FAC0000
 <MSG<FAC0018<CMU0000.....<NOD<CLR
 <FAC0010Irakasle.<NOD<CLR<FAC0001???<NOD<CLR<FAC0018Sue, maitea...<NOD
 Gure ihesa baztertu
-beharra dugu.<NOD<CLRDoktoreak lore gorriak
+beharko dugu.<NOD<CLRDoktoreak lore gorriak
 aurkitu ditu.<NOD<ANP0624:0000:0000<CLR
 <FAC0007!!!<NOD<CLR<FAC0001Zer?<NOD<CLR<FAC0018Lore horiek lortzea
 denbora kontua bakarrik da.<NOD
@@ -194,14 +195,14 @@ gure artean.<NOD<CLO<FAC0000
 <MSG<FAC0018Zu zara.<NOD<CLR
 <CMU0002<FAC0010...Nor DA bera?<NOD<CLR<FAC0018Izan ere...<NOD<CLROrain dela 10 urte
 uharte hau ikuskatzera
-bidali zuten robot armadunetako
-bat da hau.<NOD<CLR<FAC0010Robot bat?!<NOD<CLR<FAC0018Denak hilda 
+bidali zuten robot
+armadunetako bat da hau.<NOD<CLR<FAC0010Robot bat?!<NOD<CLR<FAC0018Denak hilda 
 zeudela uste nuen,<ANP0621:0000:0000<NOD
 baina ez nengoen ziur.<NOD
 Erabat posiblea zen
-beraietako bat...NOD<CLR<FAC0010Profesor.<NOD
+beraietako bat...<NOD<CLR<FAC0010Irakasle.<NOD
 Hare Eremuarekin
-konektatu dut.<NOD<CLR<FAC0018Ya veo.<NOD<CLO<FAC0000
+konektatu dut.<NOD<CLR<FAC0018Ados.<NOD<CLO<FAC0000
 <ANP0622:0003:0000<WAI0015
 <ANP0622:0000:0002
 <ANP0621:0000:0002<WAI0030<MSG<FAC0018Uharte hau ikertzeko

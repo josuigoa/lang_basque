@@ -43,7 +43,8 @@ Munstro horrek sekulako
 jipoia eman dit...<ANP0200:0000:0000<NOD<CLR.....<NOD
 Zuk salbatu nauzu?<YNJ0202<EVE0201
 #0201
-<FAC0003Ez dut zure laguntzarik behar!!<NOD<CLRBakarrik molda naiteke!<NOD
+<FAC0003Ez dut zure laguntzarik
+behar!!<NOD<CLRBakarrik molda naiteke!<NOD
 Grr... Gorroto dut uharte
 madarikatu hau, eta bertako
 bizidun guztiak ere bai!<NOD<FAC0000<CLO<EVE0203
@@ -58,13 +59,14 @@ genezake!<NOD<CLO<FAC0000<MYD0002
 <ANP0200:0005:0002<WAI0050
 <MSG<FAC0001Arraultzaren egoera:
 Normal!
-Horixe bera entzun nahi nuen!<NOD<CLO<WAI0050<SOU0043<WAI0020<FAC0000
+Horixe bera entzun nahi
+nuen!<NOD<CLO<WAI0050<SOU0043<WAI0020<FAC0000
 <MSG<FAC0002Hm?<NOD Pasahitz bat?<NOD<FAC0000<CLO
 <WAI0050
 <ANP0200:0000:0000<WAI0050
 <MSG<FAC0001Arraultza hau 
-eklosionatzeko pasahitza behar
-duzula dirudi.<NOD<CLR<FAC0002Tira, asunto zaila.<NOD<CLRNire anaia hemen
+eklosionatzeko pasahitza
+behar dela dirudi.<NOD<CLR<FAC0002Tira, asunto zaila.<NOD<CLRNire anaia hemen
 balego sikiera, dena
 errazagoa litzateke.<NOD<CLR.....<NOD<CLR<FAC0001Ongi da, badirudi
 hemen ez dudala beste
@@ -78,9 +80,10 @@ Ez dute uharte honetako
 hizkuntzetakoen antzik.<NOD<CLR
 ...Galdu egin zara?<NOD<CLROngi da.<NOD
 Nirekin etor zaitezke.<NOD
-Zabortegi honetatik elkarrekin
-joan gaitezke.<NOD
-Trukean, lagundu egin beharko didazu.<NOD<CLO
+Zabortegi honetatik
+elkarrekin joan gaitezke.<NOD
+Trukean, lagundu egin
+beharko didazu.<NOD<CLO
 <ANP0200:0005:0002<WAI0020
 <SOU0011<ANP0100:0000:0002<WAI0020
 <ANP0100:0000:0000<DNP0200<SOU0023<END

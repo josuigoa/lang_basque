@@ -156,7 +156,7 @@ ihes egingo!<NOD<END
 
 
 #0311
-<KEY<MSG*am am*<NOD<CLR!<NOD<CLO
+<KEY<MSG*miam miam*<NOD<CLR!<NOD<CLO
 <MYB0000<ANP0311:0002:0004<WAI0030<MYD0000
 <FLJ0156:0313
 <FLJ0120:0312
@@ -206,10 +206,12 @@ erabili nahi ditu zuek
 gizakiak eraso ditzazuen.<NOD<CLR<FAC0009Ze--Zergatik egin nahi
 du hori?!<NOD<CLR<FAC0002Gizon hori...
 ...deabrua da.<NOD<CLR<FAC0009Eta lore horiek
-Torokorengan erabiliko ditu?<NOD<CLR<FAC0002Dirudienez,
-oraindik bila dabil.<NOD<CLREz aurkitzea
-espero beharko dugu.<NOD<CLR<FAC0009Baina...<NOD<CLRBaina loreak aurkitzen baditu,
-Toroko...<NOD<CLR<FAC0002Deskontrolatuko litzateke...
+Torokorengan erabiliko
+ditu?<NOD<CLR<FAC0002Dirudienez,
+oraindik bila dabil.<NOD<CLREz aurkitzeko otoiz
+egin beharko dugu.<NOD<CLR<FAC0009Baina...<NOD<CLRBaina loreak aurkitzen
+baditu, Toroko...<NOD<CLR<FAC0002Deskontrolatu
+egingo litzateke...
 Arma hilgarria...<NOD<CLR<FAC0007Ez dut horrelakorik
 onartuko!<NOD<CLO
 <FL-0154<FL+0157
@@ -248,15 +250,16 @@ onartuko!<NOD<CLO
 Mimiga bat bahitu zuten
 ni nintzelakoan.<NOD
 Toroko du izena,<NOD
-eta gainontzeko Mimigetan
-inork ez zidanean
+eta gainontzeko Mimigetako
+batek ere ez zidanean
 kasurik ere egin,<NOD
 bera goxo eta atsegina
 izan zen.<NOD<CLR.....<NOD<CLRBadakit.<NOD<CLRJoango zinateke
 nire ordez?<NOD<CLRNire anaia
 Soroherri izeneko
 leku batean dago.<NOD
-Bilatu eta ekarri ezazu hona.<NOD<END
+Bilatu eta ekarri ezazu
+hona.<NOD<END
 
 
 #0601
@@ -273,8 +276,9 @@ nire anaia?<NOD<END
 #0610
 <FLJ0224:0611
 <KEY<MSG<FAC0007Horrela bukatzen 
-dute gure herriaren bakearekin
-bukatu nahi dutenek.<NOD<END
+dute gure herriaren
+bakearekin bukatu nahi
+dutenek.<NOD<END
 #0611
 <KEY<MSG<FAC0007Oraindik zain nago...<NOD<END
 

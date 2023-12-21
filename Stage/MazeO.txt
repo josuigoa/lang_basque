@@ -93,15 +93,15 @@ Itxura ona duzu!<NOD<CLRSorgin horrek zu ere hona
 bota zaitu, eh?<NOD
 Baita ni ere!<NOD<CLR<FAC0020Azkenean ezin izan zenituen
 garaitu...<NOD
-Benetan sinesten nuen zugan,
-baina...<NOD<CLRSaiatu nintzen.
+Benetan sinesten nuen
+zugan, baina...<NOD<CLRSaiatu nintzen.
 Eta nola saiatu gainera.<NOD
-Eta begira non nagoen.<NOD<CLR.....<NOD<CLRHau guztia ezertarako.<NOD
+Eta begira non nagoen.<NOD<CLR.....<NOD<CLRHau guztia ezertarako ez.<NOD
 Azkenean, ezin izan nuen
 haur bat ere salbatu.<NOD
 Egoera honetan ezin 
-izango naiz denboraldi batean
-hemendik atera...<NOD<END
+izango naiz denboraldi
+batean hemendik atera...<NOD<END
 #0321
 <KEY<MSG<FAC0020Biziraun nuen, bai, baina
 orain zer?<NOD<CLRHemen eseri eta usteltzea

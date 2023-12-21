@@ -97,7 +97,7 @@ etorkizuna aurreikusten duela.<WAI9999<END
 #5009
 <MSG<TURHerdoildutako Giltza<WAI9999<END
 #5010
-<MSG<TURTxikleren Giltza<WAI9999<END
+<MSG<TURTxikle Giltza<WAI9999<END
 #5011
 <MSG<TURTxiklea<WAI9999<END
 #5012
@@ -156,7 +156,7 @@ etorkizuna aurreikusten duela.<WAI9999<END
 #5036
 <MSG<TURDomina Estralurtarra<WAI9999<END
 #5037
-<MSG<TURChacoren Ezpainetakoa<WAI9999<END
+<MSG<TURChakoren Ezpainetakoa<WAI9999<END
 #5038
 <MSG<TURIzar Apetatsua<WAI9999<END
 #5039

@@ -21,15 +21,17 @@
 <MSG<FAC0015Bizirik zaude, beraz.<NOD<FAC0000<CLO
 <ANP0601:0013:0000<WAI0050<CNP0601:0082:0000
 <MSG<FAC0015Aspaldi ezagutu nuen
-beste bat gogorarazten didazu.<NOD
+beste bat gogorarazten
+didazu.<NOD
 Zu bezalako robot txiki
 eta gogor bat...<NOD<CLRZure aurka zuzenean
-borrokatzeak gauzak zailduko
-dizkidala uste dut.<NOD<CLR
-<FAC0016Labirintora zurekin.<NOD<FAC0000<CLO
+borrokatzeak gauzak
+zailduko dizkidala uste
+dut.<NOD<CLR
+<FAC0016Labirintora zoaz.<NOD<FAC0000<CLO
 <ANP0601:0030:0000<WAI0050<ANP0603:0020:0002<WAI0050
 <ANP0602:0030:0002<WAI0050
-<MSG<FAC0016Baita zurekin ere.<NOD<CLR
+<MSG<FAC0016Baita zu ere.<NOD<CLR
 <FAC0005...Uh?<NOD<FAC0000<CLO
 <ANP0601:0030:0000<WAI0050<ANP0602:0070:0002<WAI0100
 <MSG<FAC0016Jo-jo-jo...<NOD

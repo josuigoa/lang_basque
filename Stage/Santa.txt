@@ -31,7 +31,8 @@ Egurra bizi ari da erretzen.<NOD<END
 #0301
 <KEY<GIT1008<MSG=Marmoka Zukua= nahi duzu?<YNJ0000<CLO<GIT0000
 <IT-0008<ANP0300:0010:0000<WAI0030<FLJ0242:0302<FL+0242
-<MSGErrauts artean zerbait aurkitu duzu...<NOD<CLR<GIT1012<IT+0012
+<MSGErrauts artean zerbait aurkitu
+duzu...<NOD<CLR<GIT1012<IT+0012
 <CMU0010=Ikatz Begetala= lortu duzu.<WAI0160<NOD<CLO<RMU<DNP0300<END
 
 #0302
@@ -46,14 +47,14 @@ Egurra bizi ari da erretzen.<NOD<END
 <FLJ0240:0502
 <KEY<FL+0240<MSGEskerrik asko laguntzeagatik.<NOD
 Tori, hartu hau zuretzat.<NOD<GIT0003<AM+0003:0000<CLR
-<CMU0010=Su bola= lortu duzu!<WAI0160<NOD<RMU<GIT0000<CLRNorbaiten bila zabiltzan?<NOD
+<CMU0010=Su bola= lortu duzu!<WAI0160<NOD<RMU<GIT0000<CLRNorbaiten bila zenbiltzan?<NOD
 Ez dut hemen beste inor ikusi.<NOD
 Handik zehar bilatzen jarraitu 
-nahi baduzu, Chacoren etxeko
+nahi baduzu, Chakoren etxeko
 suaren ondotik pasatu beharko duzu.<NOD<FL+0241<END
 #0503
 <KEY<MSGSoroherriko gune sakonera
-joateko, Chacoren etxeko suan 
+joateko, Chakoren etxeko suan 
 zehar pasatu beharko duzu.<NOD<END
 #0504
 <KEY<MSG=Ikatz Begetala= behar duzu?<NOD

@@ -35,8 +35,8 @@
 #0201
 <KEY<MSGKontuz Krokhareekin.<NOD
 Harea zapaltzen baduzu, atera
-eta koska egingo dizut.<NOD
-Eta min HANDI ematen du!<NOD<END
+eta koska egingo dizute.<NOD
+Eta min HANDIA ematen du!<NOD<END
 #0202
 <FLJ0273:0205
 <KEY<MSGEguzki Harkaitzak mugitzeko
@@ -55,7 +55,7 @@ robotek erail zituzten.<NOD<CLROraindik ezin dugu sinetsi...<NOD
 Baina Curly izan da
 hazi gaituena.<NOD<END
 #0206
-<KEY<MSGLore gorrein bila zabiltza?<NOD
+<KEY<MSGLore gorrien bila zabiltza?<NOD
 Jenka izeneko agure bat dago,
 agian zerbait daki.<NOD<CLROh, ahaztua nuen.<NOD<CLRBera ikustera bazoaz,
 ohe ondoan dagoen txakurra
