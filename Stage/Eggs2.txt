@@ -58,9 +58,9 @@
 <ANP0201:0000:0002<END
 
 #0210
-<PRI<MSGLeherketa handi bat izan zen!
-Etorri nintzenerako, orain dagoen
-moduan zegoen..<NOD
+<PRI<MSGLeherketa handi bat egon da!
+Etorri naizenerako, ikusten duzun
+moduan zegoen.<NOD
 Zer demontre gertatu ahal izan da?!<NOD<END
 
 #0300

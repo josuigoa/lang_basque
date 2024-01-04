@@ -66,6 +66,9 @@ Berak hil zuen nire anaia.<NOD<CLROh!<NOD
 Lepoko hori!<GIT1004<NOD<CLRNiretzat aurkitu al duzu?<NOD
 Suek eman zidan!<NOD<CLR.....<NOD<CLRTira... jada ez nuke
 eduki behar.<NOD
+<GIT0000King sutan jartzen
+da Sue eta ni elkarrekin
+ikusten gaituenean...<NOD
 <GIT0000King Sue eta ni
 elkarrekin ikusten gaituen
 guztietan haserretzen da...<NOD
@@ -115,7 +118,7 @@ zabiltz--!<NOD<FAC0000<CLO
 <FAC0005<MSGBERRIZ ez!<NOD
 Beti tokatzen zait lan
 zikina egitea!<NOD
-Eta hori nik aurkitu nuela
+Eta hori nik aurkitu dudala
 LEHENENGO!<NOD<CLR.....<NOD<CLRZuri zer gertatzen zaizu?<NOD
 Horrekin egin nahi didazu
 aurre?<YNJ1001<ANP0400:0030:0002<CLR

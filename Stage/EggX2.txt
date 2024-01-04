@@ -47,8 +47,8 @@ ez dut irakaslea ikusi...<NOD<CLR.....<NOD<CLRDoktoreak dagoeneko
 haziak lortuko zituela
 pentsatzen dut.<NOD<CLROh,<NOD ez, ez, ez naiz
 zuri errua botatzen ari...<NOD<ANP0400:0000:0002
-Doktoreak bere eskuak
-Koroan jarri zituenean
+Doktoreak Koroa 
+bereganatu zuenean
 argi zegoen<NOD
 garaipena berea izango
 zela, benetan.<NOD<CLRBere Mimiga basati 
@@ -59,13 +59,17 @@ zuk ere ezin duzu gelditu.<NOD<CLO<FAC0000
 <WAI0016<ANP0400:0000:0002
 <MSG<FAC0010Ihes egitea da gure
 aukera bakarra...<NOD<CLRDragoi Zerutiarra
-bagenu ihes egin genezakeela
-pentsatzen nuen.<NOD
-...Horregatik etorri nintzen.<NOD<CLREta orain, nire
-dragoia eklosionatu egin da.<NOD<CLO<FAC0000
+bagenu ihes egin
+genezakeela pentsatzen
+nuen.<NOD
+...Horregatik etorri
+nintzen.<NOD<CLREta orain, nire
+dragoia eklosionatu egin
+da.<NOD<CLO<FAC0000
 <WAI0050<ANP0400:0000:0000<WAI0100
 <MSG<FAC0010Nirekin ihes egin
-nahi duzu?<YNJ0501<FL+0960<CLR<ANP0400:0000:0002Bai, ez dago beste aukerarik.<NOD
+nahi duzu?<YNJ0501<FL+0960<CLR<ANP0400:0000:0002Bai, ez dago beste
+aukerarik.<NOD
 Ahal izan duguna egin dugu.<NOD<CLO
 <WAI0010<ANP0400:0003:0002
 <WAI0031<ANP0400:0005:0002<SOU0011<CNP0110:0018:0002
@@ -75,7 +79,7 @@ Ahal izan duguna egin dugu.<NOD<CLO
 
 #0501
 <KEY<WAI0020<ANP0400:0000:0002
-<MSG<FAC0010Hori da...<NOD<CLO<FAC0000
+<MSG<FAC0010Ulertzen dut...<NOD<CLO<FAC0000
 <WAI0050<ANP0400:0000:0000
 <WAI0010<ANP0400:0005:0000
 <MSG<FAC0010Aizu?<NOD

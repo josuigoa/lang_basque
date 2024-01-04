@@ -106,7 +106,8 @@ ziur nengoen...<NOD<CLRKing naiz.<NOD
 Herri hontako agintaria
 naiz.<NOD
 Ez du asko esan nahi, sei
-bakarrik gelditzen gara eta.<NOD<CLRTira, Sue kontatuz,
+bakarrik gelditzen gara
+eta.<NOD<CLRTira, Sue kontatuz,
 zazpi.<NOD<CLRNahiz eta ez den
 gutariko bat.<NOD
 Orain dela gutxi agertu zen
@@ -114,7 +115,8 @@ atzerritar bat baino ez da.<NOD<END
 
 #0302
 <KEY<FL+0320<FL+0321<FON0302:0016<MNA<FAI0004<CMU0000<WAI0100
-<MSG<FAC0007Emadazu giltza!<NOD<CLR<FAC0008Ez! Ez dut egingo!<NOD<CLR<FAC0007Sue babestu nahian zabiltza?<NOD
+<MSG<FAC0007Emadazu giltza!<NOD<CLR<FAC0008Ez! Ez dizut emango!<NOD<CLR<FAC0007Sue babestu nahian
+zabiltza?<NOD
 Atzerritarra da!
 Ez da gutariko bat!<NOD<CLR<FAC0006Sue pertsona ona da.<NOD
 Ez dut traizionatuko!<NOD<CLR<FAC0007Toroko...<NOD
@@ -141,7 +143,7 @@ zaitzake.<NOD<CLR<FAC0006Baina... Baina...<NOD<CLR<FAC0007Giltza, Toroko!<NOD
 
 #0305
 <KEY<MSG<FAC0007Toroko madarikatua...<NOD
-Zu erortzean egin du ihes.<NOD<END
+Zu erortzean ihes egin du.<NOD<END
 #0306
 <KEY<MSG<FAC0007Grrrrr!<NOD<CLRToroko!<NOD
 Ez duzu hain erraz
@@ -162,7 +164,8 @@ ihes egingo!<NOD<END
 <FLJ0120:0312
 <FLJ0360:0314
 <MSGOh! Beldurtu nauzu...<NOD<CLRSue?<NOD
-Oh, egia.<NOD<CLRArthuren etxeko neska, ezta?<NOD Torokorekin bizi da.<NOD<CLRNeska maitagarria, dudarik gabe.<NOD
+Oh, egia.<NOD<CLRArthuren etxeko neska, ezta?<NOD
+ Torokorekin bizi da.<NOD<CLRNeska maitagarria, dudarik gabe.<NOD
 "Dragoi Zerutiarra"ren bila
 dabilela diote...<NOD
 Zeruetan dabiltzan dragoiak...

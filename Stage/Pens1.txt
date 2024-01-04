@@ -262,7 +262,8 @@ nuenean...<NOD<CLO<FAC0000
 <MSG
 =Booster v2.0= lortu duzu.<WAI0030<NOD<CLO<GIT0000
 <ANP0650:0000:0002
-<MSG<FAC0018Nire azken eskaera egingo dizut.<NOD<CLRBerriro Sue ikusten baduzu,<NOD
+<MSG<FAC0018Nire azken eskaera egingo
+dizut.<NOD<CLRBerriro Sue ikusten baduzu,<NOD
 uharte honetatik berekin
 ihes egin dezazun nahi dut.<NOD<CLRNeska hori Sakamotiren
 alaba da,<NOD
@@ -280,7 +281,8 @@ Suerekin.<NOD<CLO
 
 #0660
 <KEY<FLJ1020:0661<MSG<FAC0018Hartu Sue zurekin
-eta egizue uhartetik ihes...<NOD
+eta egizue uhartetik
+ihes...<NOD
 Arren eskatzen dizut...<NOD<END
 #0661
 <KEY<MSG<FAC0018Zuen uharteak pairatu duen

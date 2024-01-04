@@ -49,13 +49,13 @@ behar zenuke.<NOD<END
 <ANP0410:0010:0002<WAI0200
 <MSGEta horrela lortu zenuen
 uhartetik salbu ihes egitea.<WAI0200<CLRHandik gutxira, Doktoreak
-lurrari erasoa hasi zuen, uhartea
+lurrari eraso egin zion, uhartea
 base bezala hartuta.<WAI0200<CLRLurreko herrialdeek
 Doktorearen erasoari aurre egin
-ahal izan zioten?<WAI0200<CLR<FAO0002Edonola ere, zuri berdin
+ahal izan ote zioten?<WAI0200<CLR<FAO0002Edonola ere, zuri berdin
 zitzaizun.<WAI0200<CLRElkarrekin, mendien bihotz
-sakonean, Doktorearen hatzaparretatik
-urrun,<WAI0200<CLRKazuma eta zu 
+sakonean, Doktorearen
+hatzaparretatik urrun,<WAI0200<CLRKazuma eta zu 
 lasai bizi ahal izan zineten
 zuen azkenera arte...<WAI0200<CLR<CMU0026
 <TUR                  - Akabo -<WAI9999
