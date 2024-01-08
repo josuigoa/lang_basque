@@ -13,12 +13,13 @@
 
 #0095
 <EQ+0256<MS2<TUR
-<SOU0043<GIT1022Cronómetro activado.<NOD<GIT0000<EVE0096
+<SOU0043<GIT1022Kronometroa martxan.<NOD<GIT0000<EVE0096
 
 #0096
 <MSGHaize ilun bate hatsa
 nabari duzu.<NOD<CLR
-Zure arma guztiak 1 Mailara jaitsi dira!<NOD<CLO
+Zure arma guztiak 1 Mailara jaitsi
+dira!<NOD<CLO
 <FRE<MNA<CMU0036<FAI0003<END
 
 

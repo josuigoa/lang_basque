@@ -6,7 +6,8 @@
 #0092
 <PRI<CMU0000<MSG<ZAMHaize ilun baten hatsa
 sumatu duzu.<NOD<CLR
-Zure arma guztiak 1 Mailara jaitsi dira!<NOD<CLO
+Zure arma guztiak 1 Mailara jaitsi
+dira!<NOD<CLO
 <FRE<MNA<CMU0029<FAI0002<END
 #0093
 <MNA<CMU0029<FAI0003<END

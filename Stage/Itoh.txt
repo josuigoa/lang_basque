@@ -39,20 +39,20 @@ Ez al zara robot
 hiltzaile horietako bat?<NOD
 Horrela bapatean
 agertuta ikaratu
-egin nauzu!<NOD<CLREz zara aipatzen dne
+egin nauzu!<NOD<CLREz zara aipatzen den
 salbatzailea izango?<NOD<END
 
 
 #0401
 <KEY<FL+1002
 <MSG<FAC0028Itoh naiz, uharte
-hontara ikertzera etorri zire
-gizakietako bat.<NOD
+hontara ikertzera etorri
+ziren gizakietako bat.<NOD
 Misery sorgin horrek
 honetan bihurtu ninduen...<NOD
 Ihes egin nuen, baina...
 Begira nola nagoen.<NOD<CLREta orain hemen
-harrapatuta!<NOD<CLRKapontik eskalatuz etorri
+harrapatuta!<NOD<CLRKanpotik eskalatuz etorri
 zara, ezta?<NOD
 Dexenteko talentua duen
 ingeniaria naiz,<NOD
@@ -80,5 +80,6 @@ Tori hau.<NOD<FAC0000<GIT1027<IT+0027<CLR
 uste dut.<NOD<GIT0000<EVE0404
 #0404
 <KEY<MSG<FAC0028Eman goraintziak
-Sakamoto Andereari nire partetik.<NOD<END
+Sakamoto andereari nire
+partetik.<NOD<END
 

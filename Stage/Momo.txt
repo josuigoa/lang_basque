@@ -57,10 +57,11 @@ zituenean, ez ninduen
 behar izan.<NOD
 Eta orduan uhartearen
 ertzetik bota ninduen.<NOD<CLROnartuko didazu esatea,
-zintzotasuna dagoeneko ez da
-existitzen.<NOD<CLRBaina ez da hori
+zintzotasunik dagoeneko
+ez da existitzen.<NOD<CLRBaina ez da hori
 kontatu nahi nizuna.<NOD<CLROraintxe bertan
-suziri bat eraikitzen ari naiz,<NOD
+suziri bat eraikitzen
+ari naiz,<NOD
 Doktorearen tronura 
 eramango zaituena.<NOD
 Hala ere, oraindik 
@@ -85,8 +86,8 @@ bukatzeko.<NOD<CLO
 <EVE0204
 
 #0203
-<MSG<CLR.....<NOD<CLRAjá.<NOD Sólo necesito que
-me prestes esto.<NOD<CLR
+<MSG<CLR.....<NOD<CLRAja.<NOD Hau niri uztea
+besterik ez dut behar.<NOD<CLR
 <FAC0000<GIT1023Booster v2.0 utzi duzu.<NOD<GIT0000<CLR<FAC0022Oraindik pieza
 gehiago behar ditut suziria
 bukatzeko.<NOD<CLO
@@ -100,8 +101,8 @@ Orduan ezer ez, uztazu...<NOD<END
 
 #0205
 <KEY<FL+1101<MSGAh, erantzun ona.<NOD
-Dudarik gabe gure salbatzailea
-zara.<NOD<CLRTori, jarri hau.<NOD<FAC0000
+Dudarik gabe gure
+salbatzailea zara.<NOD<CLRTori, jarri hau.<NOD<FAC0000
 <GIT1024<IT+0024<EQ+0064<FL+1020<MSG
 <CMU0010=Mimiga Maskara= lortu duzu.<WAI0160<NOD<RMU<CLO<GIT0000
 <MSG<FAC0022Ez al da xarmagarria?<NOD
@@ -125,9 +126,9 @@ joango zenik.<NOD<END
 <MSG<FL+1027<FL+1028<FAC0022Suziria osatu ahal izateko,
 elektrizitate kopuru handia
 beharko dut.<NOD
-Hor zehar erabiltzen dituzten
-aspertsoreetako bat
-lortzerik bazenu,<NOD
+Hor zehar erabiltzen
+dituzten aspertsoreetako
+bat lortzerik izango bazenu,<NOD
 nik uste balioko
 lidakeela.<NOD<CLRMesedez, ekarri
 =Aspertsore= bat.<NOD<END
@@ -142,33 +143,33 @@ daitezke.<NOD<CLRMesedez, ekarri
 =Aspertsore= bat.<NOD<END
 
 #0209
-<KEY<MSG<FAC0022Bienvenido de nuevo.<NOD<CLR
+<KEY<MSG<FAC0022Ongi etorri berriz ere.<NOD<CLR
 <FAC0000<GIT1028=Puskatutako Aspertsorea= erakutsi diozu.<NOD<CLR<FAC0022Hrmmm...<NOD<CLRAspertsore honen
 bateriak agortuta daude.<NOD<GIT0000
 Honekin ezin dut 
 ezer egin.<NOD<END
 
 #0210
-<KEY<FL+1102<FL+1107<MSG<FAC0022Bienvenido de nuevo.<NOD<CLR<FAC0000
-<GIT1029<IT-0029=Aspertsorea= erakutsi diozu.<NOD<CLR<FAC0022Veamos...<NOD<CLRBateria hauek nahiko
+<KEY<FL+1102<FL+1107<MSG<FAC0022Ongi etorri berriz ere.<NOD<CLR<FAC0000
+<GIT1029<IT-0029=Aspertsorea= erakutsi diozu.<NOD<CLR<FAC0022Ikus dezagun...<NOD<CLRBateria hauek nahiko
 beteta daude.<NOD
 Honek funtziona lezake.<NOD<GIT0000<SOU0011<CNP0250:0072:0002<CLO<WAI0030
 <MSGOrain, Itoh izeneko gizon
 bat bilatzea nahi dut.<NOD<CLRBerak dioen moduan,
-"talentu itzelezko ingeniaria"
-omen da.<NOD<CLRBaina inoiz ezagutu
-dudan gizonik lotsatienetako
-bat ere bada.<NOD
+"talentu itzelezko
+ingeniaria" omen da.<NOD<CLRBaina inoiz ezagutu
+dudan gizonik
+lotsatienetako bat ere bada.<NOD
 Doktorearengandik ahal 
-izan zuenean egin zuen ihes,
-baina ezin izan da oso
-urrutira joan.<NOD<END
+izan zuenean egin zuen
+ihes, baina ezin izan
+da oso urrutira joan.<NOD<END
 
 #0211
 <MSG<FL+1103<FAC0022Ongi etorri berriz.<NOD<CLRItoh aurkitu duzu?<NOD<CLR
 <FAC0000<GIT1027<IT-0027=Kontrolagailua= eman diozu.<NOD<CLR<FAC0022Hau da behar nuena.<NOD
-Kontrolagailua honetaz
-oso harro dago.<NOD<GIT0000<CLRHmmm...<NOD<CLRAskoz errazago eging
+Kontrolagailu honetaz
+oso harro dago.<NOD<GIT0000<CLRHmmm...<NOD<CLRAskoz errazago egingo
 genuke analisia bera hemen
 balego.<NOD<CLRTira, ahal dudana egingo
 dut.<NOD<EVE0212

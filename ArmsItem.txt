@@ -126,11 +126,11 @@ etorkizuna aurreikusten duela.<WAI9999<END
 #5021
 <MSG<TURCurlyren Aire-Tanga<WAI9999<END
 #5022
-<MSG<TURCronómetro Nikumaru<WAI9999<END
+<MSG<TURNikumaru Kronometroa<WAI9999<END
 #5023
 <MSG<TURBooster v2.0<WAI9999<END
 #5024
-<MSG<TURMáscara Mimiga<WAI9999<END
+<MSG<TURMimiga Maskara<WAI9999<END
 #5025
 <MSG<TURTelegarraiagailuaren Giltza<WAI9999<END
 #5026
@@ -166,7 +166,7 @@ etorkizuna aurreikusten duela.<WAI9999<END
 <MSG<TUREzer ez.<WAI9999<END
 #6001
 <MSG<TURArthuren etxeko giltza.
-Arthuren hilobiaren azpian zegoen ezkutaturik.<WAI9999<END
+Arthuren hilobian zegoen ezkutaturik.<WAI9999<END
 #6002
 <PRI<EVE7002<MPJ7002<MSGGela honen informaziorik ez.<NOD<CLR<END
 #6003
@@ -184,7 +184,7 @@ betortz zorrotza. Jabeak bizirik ote dago oraindik...?<WAI9999<END
 <MSG<TUR06 arraultzan aurkitutako Nortasun
 Txartel bat.<WAI9999<END
 #6008
-<MSG<TURSuak itzali ditzakeen jarioa.<WAI9999<END
+<MSG<TURSuak itzali ditzakeen likidoa.<WAI9999<END
 #6009
 <MSG<TURHerdoildutako Giltza bat.<WAI9999<END
 #6010
@@ -247,28 +247,28 @@ Maskara bat. Nahiko handia da...<WAI9999<END
 <KEY<MSGIrakurri nahi duzu?<YNJ0000<MSG<TUR
 Sue naiz.<NOD<CLRUste dut ez dizudala inoiz guri
 buruzko ezer kontatu.<NOD<CLRGainazaletik uharte honetara ikerketa
-bidaia batean aileatu ginen..<NOD<CLRBooster Irakaslea gure
-helikopteroan zegoen, baita nire ama, nire anaia,
-hainbat laguntzaile ere...<NOD<CLRDoktorea ere bai.<NOD<CLRGure sendagile beharrak
-asetzeko zegoen heemn, eta egin zuen...<NOD<CLREgin zuen, aharik eta Deabru Koroa
-aurkitu zuen arte...<WAI0020<NOD<CLRKoroa hori, noizbait uharteko jabearena
-izan zena, bereganatzen duenari
+bidaia batean ailegatu ginen..<NOD<CLRBooster Irakaslea gure helikopteroan
+zegoen, baita nire ama, nire anaia,
+hainbat laguntzaile...<NOD<CLReta Doktorea ere bai.<NOD<CLRGure sendagile beharrak
+asetzeko zegoen hemen, eta egin zuen...<NOD<CLREgin zuen, aharik eta Deabru Koroa
+aurkitu zuen arte...<WAI0020<NOD<CLRKoroa horrek, noizbait uharteko jabearena
+izan zenak, bereganatzen duenari
 botere izugarriak ematen dizkio...<NOD<CLRDoktoreak hori uhartera etorri baino
 lehenagotik ere bazekien, horregatik
 tematu zen gurekin etortzeko.<NOD<CLRKoroa eskuratu ondoren,
 inork ezin izan zion aurre egin.<NOD<CLRUharteari buruzko ikerketa bere
-aginduetara jarraitzea beste aukerari
+aginduetara jarraitzea beste aukerarik
 ez genuen izan.<NOD<CLRDoktoreak Lurraren gainazala
 kontrolatu nahi du, uharte hau
 bere basetzat duelarik.<NOD<CLRNik uste, lehenengo
 gainazala erasotu nahi duela Mimigak
-arma moduan erabilita.<NOD<CLRHala ere, ihes egite lortu nuen,
-baina gainontzeko ikertzaileak
-...<NOD<CLROrain Mimiga fidakorrak lore
+arma moduan erabilita.<NOD<CLRHala ere, ihes egitea lortu nuen,
+baina gainontzeko ikertzaileak...<NOD<CLROrain Mimiga fidakorrak lore
 pila bat laboratzeko darabiltza.<NOD<CLRHorren ondoren, hiltzaile 
 kontrolagaitz bihurtuko ditu loreen bidez...<NOD<CLRBere botereen bidez, bere
-helburua betetzeko Mimigak kontrolatuko ditu.<NOD<CLR
-Eta modu horretan, ni ere...<NOD<CLRZiega honetatik ihes egita lortzen baduzu,
+helburua betetzeko Mimigak
+kontrolatuko ditu.<NOD<CLR
+Eta horrela, ni ere bai...<NOD<CLRZiega honetatik ihes egitea lortzen baduzu,
 bila ezazu plantazioko gordelekua.<NOD<CLRNire ama salbu badago,
 han egongo da, plan bat prestatzen.<NOD<CLRMesedez. Lagundu nire amari.<NOD<CLRPasahitza
 "Yrot Sevac".<NOD<CLR<FL+1024<FRE<MSGHemen bukatzen da karta...<WAI9999<END
@@ -313,7 +313,7 @@ Izar Apetatsua jantzita.<NOD<WAI0003<FRE<EVE5038
 #6039
 <MSG<TURCurly Bracerekin duzun lotura, fidatu
 zaitezkeen pertsona bakarra.
-Ziur egunen batean berriz elkartuko zaretela...<WAI9999<END
+Ziur noizbait berriz elkartuko zaretela...<WAI9999<END
 
 #7002
 <MLP<END

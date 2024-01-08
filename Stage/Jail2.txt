@@ -40,7 +40,8 @@ joan dadila!<NOD<END
 engainatzen ari dira!<NOD<CLRDoktoreak roboten aurka
 jarriko gaitu borrokan!<NOD<END
 #0404
-<PRI<MSG"Sakamoto" delako bat ezagutzen duzu?<NOD
+<PRI<MSG"Sakamoto" delako bat ezagutzen
+duzu?<NOD
 Plantazioaren lekuren batean 
 gordeta dagoela dirudi...<NOD<END
 #0405

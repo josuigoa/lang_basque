@@ -71,11 +71,11 @@ etortzeko...<NOD<END
 
 #0201
 <PRI<MSGGainazaleko biztanleak
-gu erasotzeko planak egiten ari dira,
-prest egoteko ari gara lore
-gorriak landatzen.<NOD
+gu erasotzeko planak egiten ari
+dira, prest egoteko ari gara
+lore gorriak landatzen.<NOD
 Doktoreak dioena egia bada,
-hobe duzue lore hauek
+hobe dugu lore hauek
 bizkor haztea.<NOD<END
 
 #0210
@@ -85,7 +85,8 @@ bizkor haztea.<NOD<END
 <PRI<MSGLore gorriak guk
 ditugularik, robot hiltzaile
 horiek ez dute zereginik!<NOD
-Loratu zaitezte, nire gorrimin maiteak!<NOD<END
+Loratu zaitezte, nire gorrimin
+maiteak!<NOD<END
 
 #0220
 <PRI<FLJ1020:0221
@@ -166,7 +167,7 @@ pixka bat nazkatzen hasita nago.<NOD<END
 <FLJ1022:0262
 <FLJ1035:0261
 <FL+1035
-<MSGOh, aizu, zu zara.<NOD<CLRGauza arraro batean pentsatu dut.<NOD
+<MSGOh, aizu, zu zara.<NOD<CLRGauza arraro bat arrantzatu dut.<NOD
 Hartu zuretzat, nahi baduzu.<NOD
 Horko kubo horretan dago.<NOD<END
 #0261
@@ -215,16 +216,16 @@ gertatzen den lehenengo aldia...<NOD<END
 #0311
 <PRI<MSGNeska hau aurkitu dut
 iturburuan flotatzen.<NOD
-Nor den ere ez dela gogoratzen
+Nor den ere ez duela gogoratzen
 dio...<NOD<CLRTxatarra zati bat besterik
 ez da izango.<NOD<FL+1044<EVE0312
 #0312
 <PRI<MSGOrain aipatu duzunez...<NOD
-Esan didate memoria itzultzko
+Esan didate memoria itzultzeko
 gaitasuna duen barrengorri
 mota bat dagoela...<NOD
 Hori emateak funtzionatuko
-ote luke?.<NOD<END
+ote luke?<NOD<END
 #0313
 <PRI<MSGZer diozu?
 Memoria berreskuratu?<NOD
@@ -253,9 +254,8 @@ Quote duzu izena!<NOD<CLRZu eta ni...<NOD<CLR
 <FAC0025Egia...<NOD<CLRAspaldi, Lurraren
 gainazaleko
 herrialdeetatik<NOD
-robot pila bat
-bidali zituztzenla
-uharte hontara.<NOD<CLRHelburu bakarra
+robot pila bat bidali
+zituztela uharte hontara.<NOD<CLRHelburu bakarra
 uharte honetako botere
 sinesgaitza zen...<NOD
 =Deabru Koroa=.<NOD
@@ -267,7 +267,7 @@ uhartea kaosa zen.<NOD
 Robotek hondakinak bakarrik
 utzi zituzten...<NOD<CLREta Mimiga
 asko erail zituzten...<NOD
-<FAC0020Fue... izugarria...<NOD<CLR<FAC0025Azkenean, gizon batek
+<FAC0020Izugarria... izan zen...<NOD<CLR<FAC0025Azkenean, gizon batek
 lortu zuen
 =Deabru Koroa=.<NOD<CLRRoboten lana
 eginda zegoen, eta
@@ -275,17 +275,17 @@ uhartea ixilik
 gelditu zen.<NOD<CLRBaina hori tragediaren
 hasiera besterik ez zen.<NOD
 Koroa bere eskuetan zuela,
-gizon hark Mimigak hiltzaile
-bihurtu zituen<NOD
+gizon hark Mimigak
+hiltzaile bihurtu zituen<NOD
 eta Lurrari eraso egiten
 hasi zen.<NOD<CLRGelditzen saiatu nintzen.<NOD
 Zu ere han zeunden.<NOD<CLR
 .....<NOD<CLRHori da... gogoratu
 dezakedana.<NOD<CLRZiur nago zauritzea
-lortuko dugula.<NOD
-Baina oraindik gure helburua
-betetzetik urrun
-gaude...<NOD<CLR
+lortu genuela.<NOD
+Baina oraindik gure
+helburua betetzetik
+urrun gaude...<NOD<CLR
 <FAC0019Gogoratzen duzu?<NOD<CLO
 <FL+1045<RMU<FLJ1020:0323<END
 
@@ -308,7 +308,7 @@ Ez nigatik arduratu.<NOD<CLR<FAC0025Oh,<NOD gainera.<NOD<CLR<FAC0019Eraman hau<G
 #0360
 <PRI<MSG<FAC0028Itzuli naiz!<NOD<CLREz dut gehiago
 ezkutatu beharrik, ez duzu uste?<NOD
-Hala ere, suziria
+Dena den, suziria
 ezin izango zuten
 ni gabe eraiki.<NOD<CLRGainera...<NOD<CLRDoktorea garaitzen baduzu,<NOD
 berriz gizakia izango 
@@ -336,15 +336,16 @@ beharko.<NOD<CLO<FAC0000
 =Mimiga Maskara= eman diozu.<NOD<CLO<GIT0000<EVE0380
 
 #0380
-<PRI<MSG<FAC0022Gure goiko aldean
+<PRI<MSG<FAC0022Hemen goiko aldean
 tronuaren gelarako bide
 bat dago.<NOD
 Bertara suziriaren
 bidez ailegatu beharko
 zenuke.<NOD<CLRMimigak plantaziotik
-joan dira.<NOD<CLR...Beste modu batera esanda,
-baliteke dagoeneko
-lore gorriak erabiltzen aritzea.<NOD<CLRGoazen.<NOD<CLRIgo suziri hontara
+joan dira.<NOD<CLR...Beste modu batera
+esanda, baliteke dagoeneko
+lore gorriak erabiltzen
+aritzea.<NOD<CLRGoazen.<NOD<CLRIgo suziri hontara
 eta joan zaitez Doktorearen
 tronu gelara. Azkar!<NOD<END
 
@@ -364,7 +365,8 @@ ari da botatzen.<NOD<END
 <PRI<MSGGelditu egin da.<NOD<FLJ1029:0416<END
 #0416
 <PRI<DNP0415<FL-1028<GIT1028<IT+0028<MSG
-<CMU0010=Puskatutako Aspertsorea= lortu duzu.<WAI0160<NOD<RMU<END
+<CMU0010=Puskatutako Aspertsorea= lortu
+duzu.<WAI0160<NOD<RMU<END
 
 #0450
 <PRI<FLJ1040:0451<FL+1040<MSGArf!

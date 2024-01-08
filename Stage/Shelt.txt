@@ -25,7 +25,7 @@
 Badirudi une honetan 
 ez duela funtzionatzen...<NOD<END
 #0103
-<PRI<MSGPlantaziora joan?<YNJ0000<CLO
+<PRI<MSGPlantaziora joan nahi duzu?<YNJ0000<CLO
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0102:0001:0000
 <WAI0100<FAO0004<TRA0061:0099:0007:0013
 

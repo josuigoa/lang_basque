@@ -51,7 +51,7 @@ Doktoreak Koroa
 bereganatu zuenean
 argi zegoen<NOD
 garaipena berea izango
-zela, benetan.<NOD<CLRBere Mimiga basati 
+zela, benetan.<NOD<CLRBere Mimiga basatien 
 armada osatzea denbora
 kontua besterik ez da...<NOD<CLRSentitzen dut, baina
 zuk ere ezin duzu gelditu.<NOD<CLO<FAC0000
@@ -61,9 +61,9 @@ zuk ere ezin duzu gelditu.<NOD<CLO<FAC0000
 aukera bakarra...<NOD<CLRDragoi Zerutiarra
 bagenu ihes egin
 genezakeela pentsatzen
-nuen.<NOD
+dut.<NOD
 ...Horregatik etorri
-nintzen.<NOD<CLREta orain, nire
+naiz.<NOD<CLREta orain, nire
 dragoia eklosionatu egin
 da.<NOD<CLO<FAC0000
 <WAI0050<ANP0400:0000:0000<WAI0100
@@ -82,13 +82,13 @@ Ahal izan duguna egin dugu.<NOD<CLO
 <MSG<FAC0010Ulertzen dut...<NOD<CLO<FAC0000
 <WAI0050<ANP0400:0000:0000
 <WAI0010<ANP0400:0005:0000
-<MSG<FAC0010Aizu?<NOD
+<MSG<FAC0010Aizu, kontu bat.<NOD
 Badago Mimigak beraien
 normaltasunera itzultzeko
 beste modu bat...<NOD<CLRUhartearen nukleoa
 deusezta zenezake.<NOD
 Hala ere, hori egingo
-bazenu, uhartea bere ere
+bazenu, uhartea bera ere
 eroriko litzateke.<NOD
 Aukera arriskutsua, ezta?<NOD<WAI0050<ANP0400:0000:0000<CLRTira, edonola ere,
 nukleoa non dagoen

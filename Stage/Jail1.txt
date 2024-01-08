@@ -33,14 +33,14 @@ subjektu izan daitezen...<NOD<CLR...Edo gutxienez hori da Suek
 esan zuena.<NOD<CLRBere laguna al zara?<NOD
 Apur bat berandu etorri zara.<NOD
 Lehen gurekin zegoen.<NOD<CLRUne oro zure ondoan
-zaintzen ari zen.<NOD
+zu zaintzen ari zen.<NOD
 Baina orain dela gutxi etorri
 eta eraman egin zuten.<NOD<EVE0209
 
 #0201
 <MSG<FL+1081Oh, gainera.<NOD<CLRJustu eramaten ari ziren unean,
-zure poltsikoan zerbait sartu zuela
-ikusi nuen.<NOD<CMP0024:0016:0066<EVE0209
+zure poltsikoan zerbait sartu duela
+ikusi dut.<NOD<CMP0024:0016:0066<EVE0209
 
 #0202
 <KEY<MSGZer zen, amodio gutun bat?<NOD<CMP0024:0016:0066<EVE0209

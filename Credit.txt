@@ -181,7 +181,7 @@ l0100
 [ Katu agertzea: Gaueko Espiritua]0081-0048
 [ Jauzi: Saltalaria]0082-0048
 [ Gerlari fotosintetikoa: Midorin]0085-0048
-[ Nacido de la tierra: Drol]0084-0048
+[ Lurretik jaioa: Drol]0084-0048
 [ Oholtza biziduna: Pistolarraina]0086-0048
 [ Saguzar ama: Ezkilaranja]0083-0048
 [ Plantazioko Burruntzia: Motzondo]0087-0048

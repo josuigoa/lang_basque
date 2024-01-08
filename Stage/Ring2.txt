@@ -146,8 +146,8 @@ ateratzeko substantziak
 izateaz gain,<NOD<CLRberaien arrazonamendu
 gaitasuna kentzen die.<NOD<CLRHori erauzi eta
 konzentratzea lortu
-dut azkenean.<NOD<CLRLo puedes ver en la forma
-de este...<NOD<CLO<FAC0000
+dut azkenean.<NOD<CLREta forma honetan
+ikus dezakezu...<NOD<CLO<FAC0000
 <WAI0020<DNP0401<ANP0400:0040:0000<WAI0020
 <MS3<FAC0021...Kristal gorria.<WAI0030<NOD<CLREta loreek egiten dutenen
 ordez,<NOD Kristal honek

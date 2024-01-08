@@ -33,7 +33,7 @@
 #0200
 <KEY<MSGHau da gure baserria.
 Hemen loreak landatzen ditugu.<NOD
-Nire lana baserria zaintzea da.<NOD<CLRMimigaok lore hauek behar
+Nire lana baserria zaintzea da.<NOD<CLRMimigok lore hauek behar
 ditugu bizirauteko.<NOD<CLRLore gorriak, berriz,
 txarrak dira.<NOD<CLRLore gorri bat janez gero, 
 odolak irakin egiten duela diote,

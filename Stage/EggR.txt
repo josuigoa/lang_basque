@@ -47,8 +47,8 @@ Egoera normala.<NOD<END
 Egoera normala.<NOD<END
 #0506
 <PRI<MS3<TURDragoi Zerutiarraren 06 arraultza
-Error: Condiciones del huevo anormales.
-Se recomienda investigación.<NOD<END
+Errorea: Arraultzaren egoera anormala.
+Ikerketa gomendatzen da.<NOD<END
 #0507
 <PRI<MS3<TURDragoi Zerutiarraren 07 arraultza
 Egoera normala.<NOD<END

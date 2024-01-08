@@ -25,8 +25,8 @@
 <KEY<MYB0002<WAI0020
 <FLJ1563:0420
 <FLJ1562:0411
-<FLJ1561:0403<MSGNirekin zerbait al duzu?<YNJ0401<FLJ1044:0402<CLRJa!<NOD
-Zalantza egiten dut.<NOD<END
+<FLJ1561:0403<MSGNirekin konturen bat al duzu?<YNJ0401<FLJ1044:0402<CLRJa!<NOD
+Ez dut uste.<NOD<END
 
 #0401
 <KEY<MSGKar-kar-kar. Agur, bada.<NOD<END

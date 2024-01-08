@@ -23,7 +23,8 @@
 <FLJ1121:0203
 <ITJ0028:0202
 <MSGHemengo hauek aspertsoreak dira.<NOD
-Ikusten duzunez, beti puskatzen dira.<NOD
+Ikusten duzunez, beti puskatzen
+dira.<NOD
 Horregatik ditugu hemen aspertsore
 berri pila bat prest.<NOD<END
 
@@ -52,7 +53,7 @@ iraganean uharte hau
 erasotu zutela.<NOD
 Eta badakit gutako asko
 erail egin zituztela...<NOD
-Baina robot horietako batzukPero algunos de esos robots
+Baina robot horietako batzuk
 hizkuntza ulertzen zuten.<NOD
 Beraiek arima ere izango zutela
 pentsatzen dut...<NOD<END
@@ -82,8 +83,8 @@ Horrek ez nau beldurtzen.<NOD<END
 Bai, Mimiga Herrian.<NOD
 "Misery" delako batek hartu eta 
 hona ekarri ninduen.<NOD
-Baina txo, gorroto dut lorezaintza.<NOD<CLRTartetxo baterako joan 
-naiz arrantzara eta atsedena hartzera.<NOD<CLZer arrantzatzen duzu?<NOD
+Baina txo, gorroto dut lorezaintza.<NOD<CLRTartetxo baterako joan naiz
+arrantzara eta atsedena hartzera.<NOD<CLRGustuko duzu arrantza?<NOD
 Tira, gero arte.<NOD<CLO
 <ANP0250:0010:0002<WAI0030<MYD0002<WAI0080
 <ANP0250:0000:0002<WAI0020
