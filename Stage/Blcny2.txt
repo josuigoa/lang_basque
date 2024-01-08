@@ -101,8 +101,9 @@ Ez da posible!<NOD<CLO
 <ANP0305:0011:0002
 <ANP0280:0010:0000
 <FON0305:0016<MS3<FAC0003Hemendik!<NOD
-Egin korri ahalik eta azkarren
-ez baduzu zapalduta hil nahi!!<NOD<FON0280:0016<CLO
+Egin korri ahalik eta
+azkarren ez baduzu
+zapalduta hil nahi!!<NOD<FON0280:0016<CLO
 <ANP0305:0030:0000<WAI0060
 <DNP0305<FL-1391<END
 #0320Su-2
@@ -114,7 +115,8 @@ ez baduzu zapalduta hil nahi!!<NOD<FON0280:0016<CLO
 Jauzi egin behar dugu.<NOD
 Jauzi egin, edo harkaitz
 horiek zapalduko gaituzte!<NOD<CLRPrest zaude?<NOD
-Ahalik eta jauzi handiena egin!<NOD<CLO<KEY
+Ahalik eta jauzi
+handiena egin!<NOD<CLO<KEY
 <ANP0320:0000:0000<WAI0050
 <ANP0320:0030:0000<WAI0012
 <ANP0320:0040:0000<WAI0050
@@ -130,7 +132,8 @@ Ahalik eta jauzi handiena egin!<NOD<CLO<KEY
 <WAI0100<FAI0004
 <MSG<FAC0022
 Uhartea erortzen ari da...<NOD<CLR<FAC0028Oso arriskutsua da.
-Hemendik alde egin behar dugu!<NOD<CLO<FAO0004
+Hemendik alde egin behar
+dugu!<NOD<CLO<FAO0004
 <CMU0035<TRA0049:1200:0098:0006
 
 #0500

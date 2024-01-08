@@ -104,7 +104,7 @@ inongo aukerarik, ezetz.<NOD<END
 #0410
 <KEY<FON0410:0016<ANP0410:0500:0004<WAI0050
 <CMU0000<MS3Gyaaahhh!<MYB0410<NOD<CLRBot...<WAI0020boterea...<WAI0020<CLR
-zin dut kontrolatu!!!<NOD<CLO
+Ezin dut kontrolatu!!!<NOD<CLO
 <WAI0050<CNP0420:0267:0004<WAI0100
 <FOM0016
 <ANP0420:0007:0004<BSL0420<DNP0410<FL-1270<CMU0031<END
@@ -134,7 +134,7 @@ Doktorea garaitu duzu!<WAI0140<NOD<CMU0000<CLO
 <CMU0017<MYD0002
 <CMP0003:0013:0021
 <MS3<FAC0021<ANP0400:0010:0000Mua-ja-ja...<NOD<CLR
-Azkenean osatu da.<NOD<CLO<FAC0000
+Azkenean lortu dut.<NOD<CLO<FAC0000
 <WAI0020<ANP0400:0020:0000<WAI0030
 <MS3<FAC0021Mimiga bati lore gorriak
 emanda, oldarraldi basati
@@ -144,7 +144,7 @@ hartzen dituztenen
 botere ezkutuak<NOD
 ateratzeko substantziak
 izateaz gain,<NOD<CLRberaien arrazonamendu
-gaitasuna kentzen die.<NOD<CLRHori erauzi eta
+gaitasuna kentzen diete.<NOD<CLRHori erauzi eta
 konzentratzea lortu
 dut azkenean.<NOD<CLREta forma honetan
 ikus dezakezu...<NOD<CLO<FAC0000

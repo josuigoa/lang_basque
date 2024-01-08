@@ -90,7 +90,7 @@ Su bola bat, ez banabil oker.<NOD<CLRIkusi al ditzaket?<YNJ0403<CLO
 Edonola ere, ez dirudi
 dirurik daramazunik.<NOD<END
 #0403
-<KEY<MSG<CLRZure kalte!<NOD<END
+<KEY<MSG<CLRZuretzat kalte!<NOD<END
 #0404
 <KEY<FL+0721<MSG*hasperen*<NOD<CLRTori. Zer iruditzen zaizu hau?<NOD<CLR<GIT1038<CLR<CMU0010<IT+0038=Izar Apetatsua=
 lortu duzu!<WAI0160<EQ+0128<FL+0722<NOD<RMU<GIT0000<CLRDekorazio hutsa dela

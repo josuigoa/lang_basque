@@ -23,7 +23,7 @@
 <WAI0160
 <MSG
 <CMU0010Kazumak salbatu zaitu!<WAI0160<CLR<FAC0010Fiu...<NOD<CLREz nuen uste
-lortuko genuenik.<NOD<CLRNukloa deuseztu...<NOD<CLRTira, Dokotorearengandik
+lortuko genuenik.<NOD<CLRNukleoa deuseztu...<NOD<CLRTira, Dokotorearengandik
 mundua salbatu dugu,
 betirako.<NOD
 Bakea berrezarri dugu!<NOD<CLR

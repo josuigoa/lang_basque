@@ -59,9 +59,9 @@ errege berria garaitu
 zenezakeenik...<NOD<CLR...Tira, entzun.<NOD<CLREgin dezagun tratu bat.<NOD<CLRUhartean hil
 zaitezke,<NOD<CLRedo alde egin eta
 hemen egon zarenik
-ere ahaztu...<NOD<CLRJoateko promesa egiten baduzu,
-neska hori askatuko dudala
-zin dagizut.<NOD<CLR
+ere ahaztu...<NOD<CLRJoateko promesa egiten
+baduzu, neska hori askatuko
+dudala zin dagizut.<NOD<CLR
 Bestela...<WAI0050<CLO<FAC0000
 <QUA0100<WAI0030
 <MS3?<NOD<CLO
@@ -78,18 +78,21 @@ zure nagusiaren ahotsa?...<NOD<CLO
 <FAC0015!!<NOD<CLO<FAC0000
 <MS2Jo-jo-jo...<NOD<CNP0410:0042:0000<CLRKristal Gorriaren boterea
 zoragarria da dudarik gabe.<NOD
-Orain ere sentitzen dut...<NOD<ANP0410:0000:0002<CLRNire gorputza puskatuta egon daiteke,<ANP0410:0020:0000
+Orain ere sentitzen dut...<NOD<ANP0410:0000:0002<CLRNire gorputza puskatuta
+egon daiteke,<ANP0410:0020:0000
 baina nire gogoa ez da inoiz hain
 bizirik egon.<NOD<CLRBiziberritu banintz bezala da!<NOD<CLO
 <MS3<FAC0026Zu...<NOD<CLO
 <MS2
 .....<NOD<CLRZer gertatzen da, Misery?<NOD
-Nire forma berriak beldurtzen al zaitu?<NOD<CLO
+Nire forma berriak beldurtzen
+al zaitu?<NOD<CLO
 <MS3<FAC0026Grr!<NOD<CLREz al zeunden hilda?<NOD
 Alde egizu!!<NOD<CLO<FAC0000
 <ANP0400:0040:0002<WAI0100
 <MS2Tut-tut-tut...<NOD<CLRBere nagusia ahazten duen
-neska inozo batek ez du askatasuna merezi.<NOD<CLRMisery.<NOD
+neska inozo batek ez du askatasuna
+merezi.<NOD<CLRMisery.<NOD
 Zure heriotzera arte nire
 txotxongiloa izango zara.<NOD<CLO
 <MNP0420:0030:0013:0000<WAI0100

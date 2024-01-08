@@ -9,7 +9,7 @@
 [  Anaia fidagarria]0000-0016
 [batzuetan]0000-0016
 [  Kazuma Sakamoto]0002-0064
-[Madre de Sue]0000-0032
+[Sueren ama]0000-0032
 [  Momorin Sakamoto]0003-0064
 [Sueren aita]0000-0016
 [ figura]0000-0016
@@ -45,8 +45,8 @@
 [  Curly]0007-0064
 [Curlyk haziak]0000-0032
 [  Kolonoak]0008-0064
-[Guardiana de la]0000-0016
-[Hare Eremua]0000-0016
+[Hare Eremuaren]0000-0016
+[zaindaria]0000-0016
 [  Jenka]0009-0064
 -0031
 [Jenkaren txakurkumeak]0000-0032
@@ -71,7 +71,8 @@
 [  Chie]0023-0064
 [Mimiga aitona]0000-0032
 [  Zett]0024-0064
-[Aspertsoreak hartu eta eman]0000-0032
+[Aspertsoreak hartu]0000-0016
+[ eta eman]0000-0016
 [  Megane]0022-0064
 [Doktorean sinisten dute]0000-0016
 [  Landako Brigada]0021-0064
@@ -99,7 +100,7 @@ f2000:0090
 [Bertako biztanle]0000-0016
 [ misteriotsuak]0000-0016
 [  Cthulhu]0032-0064
-[El tallista de estatuas]0000-0032
+[Estatuen tailugile]0000-0032
 [  Numahachi]0088-0064
 j0100
 
@@ -137,7 +138,7 @@ l0100
 -0250
 !0001
 +0063
-[ = Mustroak = ]0000-0032
+[ = Munstroak = ]0000-0032
 -0063
 [ Salto eta jauzi: Críter]0039-0048
 [ Koba guztiek behar dute: Saguzarra]0040-0048
@@ -153,7 +154,7 @@ l0100
 [ Suntsitzailea: Críter Alfa]0050-0048
 [ Mamu moldea: Mannan]0051-0048
 [ Igel txikia: Puchi]0054-0048
-[ Kroalari handia: Rana]0055-0048
+[ Kroalari handia: Igela]0055-0048
 [ Flotatzen du: Marmoka]0052-0048
 [ Marmoka erregina: Kulala]0053-0048
 [ Mimiga Oldarkorra: Rabil]0057-0048
@@ -203,7 +204,7 @@ l0200
 [  Igor]0091-0064
 [Miseryk Balrog]0000-0016
 [ honetan bihurtu zuen]0000-0016
-[  Balrana]0104-0064
+[  Balrogel]0104-0064
 [Haretan dabilen]0000-0016
 [ makina-munstroa]0000-0016
 [  Omega]0105-0064
